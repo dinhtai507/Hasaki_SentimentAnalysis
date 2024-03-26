@@ -1,0 +1,729 @@
+﻿,product_id,data_product_id,link_item,title,original_price,current_price,quantity_sold,product_variant,review_count
+0,357100003,78190,https://hasaki.vn/san-pham/sua-tam-hatomugi-duong-sang-da-800ml-78190.html,"Sữa Tắm Hatomugi Dưỡng Ẩm, Làm Sáng Da 800ml",230.000 ₫,80.000 ₫,3.940,800ml,129
+1,422210803,106207,https://hasaki.vn/san-pham/smoothie-tay-da-chet-dove-huong-luu-do-298g-106207.html,Smoothie Tẩy Da Chết Dove Hương Lựu Đỏ 298g,199.000 ₫,149.000 ₫,1.435,298g,75
+2,422206577,99505,https://hasaki.vn/san-pham/tui-refill-tay-te-bao-chet-toan-than-cocoon-sach-da-600ml-99505.html,Túi Refill Tẩy Da Chết Toàn Thân Cocoon Sạch Da 600ml,325.000 ₫,292.000 ₫,614,600ml,116
+3,422200355,90579,https://hasaki.vn/san-pham/kem-khu-mui-dove-collagen-b3-duong-sang-deu-mau-40ml-90579.html,Serum Ngăn Mùi Dove Giúp Da Sáng Mịn Đều Màu 40ml,97.000 ₫,67.000 ₫,2.565,40ml,155
+4,242300001,9604,https://hasaki.vn/san-pham/lan-khu-mui-etiaxil-danh-cho-da-nhay-cam-15ml-9604.html,Lăn Khử Mùi EtiaXil Nhãn Xanh Cho Da Nhạy Cảm 15ml,320.000 ₫,215.000 ₫,555,15ml,48
+5,422210261,105403,https://hasaki.vn/san-pham/serum-vaseline-gluta-hya-sang-da-chuyen-sau-ban-dem-330ml-105403.html,Sữa Dưỡng Thể Vaseline Sáng Da Chuyên Sâu Ban Đêm 330ml,150.000 ₫,114.000 ₫,856,330ml,16
+6,422211153,106491,https://hasaki.vn/san-pham/combo-2-sua-duong-the-vaseline-sang-min-da-330ml-106491.html,Combo 2 Sữa Dưỡng Thể Vaseline Sáng Mịn Da Ngày & Đêm (330ml/chai),300.000 ₫,232.000 ₫,369,2 x 330ml,16
+7,422209343,103587,https://hasaki.vn/san-pham/serum-chong-nang-co-the-vaseline-duong-sang-da-300ml-moi-103587.html,Serum Dưỡng Thể Vaseline Chống Nắng Sáng Da 300ml (Mới),203.000 ₫,136.000 ₫,605,300ml,7
+8,308100015,84643,https://hasaki.vn/san-pham/ca-phe-dak-lak-tay-da-chet-toan-than-cocoon-200ml-84643.html,Tẩy Da Chết Toàn Thân Cocoon Cà Phê Đắk Lắk 200ml,125.000 ₫,98.000 ₫,791,200ml,116
+9,422210801,106203,https://hasaki.vn/san-pham/smoothie-tay-da-chet-dove-huong-hoa-anh-dao-298g-106203.html,Smoothie Tẩy Da Chết Dove Hương Hoa Anh Đào 298g,199.000 ₫,149.000 ₫,487,298g,75
+10,422209262,103451,https://hasaki.vn/san-pham/combo-cocoon-tay-te-bao-chet-cho-mat-va-toan-than-tu-ca-phe-103451.html,Combo Cocoon Tẩy Da Chết Cho Mặt & Toàn Thân Từ Cà Phê Đắk Lắk (200ml+150ml),290.000 ₫,165.000 ₫,425,2 món,43
+11,422207325,100799,https://hasaki.vn/san-pham/sua-tam-lifebuoy-detox-matcha-kho-qua-800g-100799.html,Sữa Tắm Lifebuoy Detox Matcha & Khổ Qua 800g,195.000 ₫,148.000 ₫,466,800g,2
+12,422200357,90593,https://hasaki.vn/san-pham/serum-ngan-mui-dove-giup-mo-tham-thu-nho-lo-chan-long-40ml-90593.html,Serum Ngăn Mùi Dove Giúp Mờ Thâm Thu Nhỏ Lỗ Chân Lông 40ml,97.000 ₫,63.000 ₫,999,50ml,155
+13,422208815,102641,https://hasaki.vn/san-pham/sua-duong-the-vaseline-gluta-hya-nang-tong-tuc-thi-300ml-102641.html,Sữa Dưỡng Thể Vaseline Gluta-Hya Nâng Tông Tức Thì 300ml,195.000 ₫,134.000 ₫,429,1 chai,10
+14,206200005,8578,https://hasaki.vn/san-pham/sua-duong-the-nivea-lam-sang-san-chac-da-ban-dem-350ml-8578.html,Sữa Dưỡng Thể Nivea Sáng Da Ban Đêm Từ 8 Super Food 350ml,139.000 ₫,99.000 ₫,567,350ml,29
+15,100200018,1690,https://hasaki.vn/san-pham/kem-tam-secret-key-snow-white-duong-sang-da-200g-1690.html,Kem Tắm Secret Key Dưỡng Sáng Da Mặt Và Cơ Thể 200g,440.000 ₫,250.000 ₫,216,200g,7
+16,100070011,2649,https://hasaki.vn/san-pham/kem-duong-the-paula-s-choice-2-bha-tay-te-bao-chet-210ml-2649.html,Kem Dưỡng Thể Paula's Choice Giảm Viêm Lỗ Chân Lông 210ml,950.000 ₫,617.000 ₫,83, 210ml,9
+17,422210802,106205,https://hasaki.vn/san-pham/smoothie-tay-da-chet-dove-duong-nau-huong-dua-298g-106205.html,Smoothie Tẩy Da Chết Dove Đường Nâu & Hương Dừa 298g,250.000 ₫,149.000 ₫,336,298g,75
+18,417000001,88671,https://hasaki.vn/san-pham/tay-da-chet-toan-than-exclusive-cosmetic-que-hoi-cafe-380g-88671.html,Tẩy Da Chết Toàn Thân Exclusive Cosmetic Quế Hồi Cafe 380g,159.000 ₫,85.000 ₫,531,380g,70
+19,422205572,97897,https://hasaki.vn/san-pham/sua-tam-va-goi-cetaphil-tinh-chat-hoa-cuc-diu-nhe-cho-be-400ml-97897.html,Sữa Tắm Gội Cetaphil Dịu Lành Cho Bé Tinh Chất Hoa Cúc 400ml,301.000 ₫,243.000 ₫,184,400ml,3
+20,213300029,29157,https://hasaki.vn/san-pham/serum-chong-nang-duong-the-biore-khang-bui-sang-min-mat-lanh-spf-50-pa-150ml-29157.html,Serum Chống Nắng Dưỡng Thể Bioré Sáng Mịn Mát Lạnh 150ml,216.000 ₫,151.000 ₫,293,150ml,38
+21,252500004,14620,https://hasaki.vn/san-pham/kem-bo-tay-long-cleo-cho-da-nhay-cam-50g-14620.html,Kem Tẩy Lông Cléo Dành Cho Da Nhạy Cảm 50g,76.000 ₫,60.000 ₫,724,50g,44
+22,422215255,112737,https://hasaki.vn/san-pham/sua-tam-johnson-s-adult-2-trong-1-cap-am-cho-nguoi-lon-750ml-112737.html,Sữa Tắm Johnson's Adult 2 Trong 1 Cấp Ẩm Cho Người Lớn 750ml,171.000 ₫,128.000 ₫,327,750ml,32
+23,249500026,86813,https://hasaki.vn/san-pham/kem-chong-nang-duong-the-trang-min-sunplay-spf-50-pa-150g-86813.html,Lotion Chống Nắng Sunplay Dưỡng Thể Sáng Mịn 150g,219.000 ₫,168.000 ₫,244,150g,28
+24,422205355,97567,https://hasaki.vn/san-pham/combo-tay-da-chet-toan-than-cocoon-tu-ca-phe-dak-lak-2x200ml-97567.html,Combo Tẩy Da Chết Toàn Thân Cocoon Cà Phê Đắk Lắk 200mlx2,250.000 ₫,195.000 ₫,197,2x200ml,116
+25,357100010,89267,https://hasaki.vn/san-pham/sua-duong-the-hatomugi-duong-sang-da-400ml-89267.html,Sữa Dưỡng Thể Hatomugi Làm Sáng Da Ban Đêm 400ml,239.000 ₫,83.000 ₫,461,400ml,45
+26,206500009,89161,https://hasaki.vn/san-pham/sap-khu-mui-old-spice-huong-fiji-thu-gian-nhe-nhang-73g-89161.html,Sáp Khử Mùi Old Spice Giảm Tiết Mồ Hôi Hương Fiji 73g,154.000 ₫,129.000 ₫,296,73g,18
+27,422201055,91305,https://hasaki.vn/san-pham/kem-duong-the-paula-s-choice-10-aha-lam-sang-da-210ml-91305.html,Kem Dưỡng Thể Paula’s Choice 10% AHA Làm Sáng Da 210ml,950.000 ₫,495.000 ₫,77,210ml,14
+28,422208316,102321,https://hasaki.vn/san-pham/sua-tam-hazeline-yen-mach-dau-tam-sang-min-duong-am-1kg-102321.html,Sữa Tắm Hazeline Sáng Mịn Dưỡng Ẩm Yến Mạch & Dâu Tằm 1kg,139.000 ₫,97.000 ₫,382,1kg,3
+29,204900145,88667,https://hasaki.vn/san-pham/gel-rua-mat-la-roche-posay-ho-tro-giam-mun-cho-mat-toan-than-400ml-88667.html,Gel Rửa Mặt & Tắm La Roche-Posay Làm Sạch & Giảm Mụn 400ml,640.000 ₫,492.000 ₫,71,400ml,16
+30,249500011,12090,https://hasaki.vn/san-pham/sua-chong-nang-sunplay-spf81-bao-ve-da-vuot-troi-70g-12090.html,Sữa Chống Nắng Sunplay Bảo Vệ Vượt Trội SPF81 PA++++ 70g,185.000 ₫,148.000 ₫,232,70g,12
+31,100080053,3681,https://hasaki.vn/san-pham/sap-khu-mui-old-spice-huong-pure-sport-nang-dong-85g-3681.html,Sáp Khử Mùi Old Spice Hương Pure Sport Năng Động 85g (Đỏ),130.000 ₫,108.000 ₫,303,85g,27
+32,422211239,106639,https://hasaki.vn/san-pham/muoi-tam-a-bonne-sua-bo-tay-da-chet-co-voi-350g-106639.html,Muối Tắm A Bonne Sữa Bò Làm Sáng & Mềm Mịn Da 350g,55.000 ₫,18.000 ₫,1.734,350g,128
+33,206500008,89159,https://hasaki.vn/san-pham/sap-khu-mui-old-spice-huong-timber-sang-khoai-tu-tin-73g-89159.html,Sáp Khử Mùi Old Spice Giảm Tiết Mồ Hôi Hương Timber 73g,154.000 ₫,139.000 ₫,223,73g,18
+34,208200025,88621,https://hasaki.vn/san-pham/sua-duong-the-vaseline-diu-mat-sang-da-350ml-88621.html,Sữa Dưỡng Thể Vaseline Dịu Mát Sáng Da 350ml,150.000 ₫,99.000 ₫,303,350ml,79
+35,422212483,108062,https://hasaki.vn/san-pham/lan-nach-angel-s-liquid-mo-tham-duong-sang-mat-lanh-60ml-108062.html,"Lăn Nách Angel's Liquid Mờ Thâm, Dưỡng Sáng Mát Lạnh 60ml",499.000 ₫,299.000 ₫,97,60ml,23
+36,345800038,88525,https://hasaki.vn/san-pham/sua-tam-some-by-mi-lam-giam-mun-400g-88525.html,Sữa Tắm Some By Mi Làm Sạch Mụn Cơ Thể 400g,395.000 ₫,276.000 ₫,103,400g,4
+37,357100006,78186,https://hasaki.vn/san-pham/kem-duong-tay-hatomugi-reihaku-65g-78186.html,Kem Dưỡng Tay Hatomugi Cấp Ẩm Mềm Mịn & Ngừa Nếp Nhăn 65g,100.000 ₫,42.000 ₫,641,65g,22
+38,422207812,101467,https://hasaki.vn/san-pham/combo-cocoon-tui-refill-tay-da-chet-toan-than-da-mat-101467.html,Combo Cocoon Big Size Tẩy Da Chết Toàn Thân 600ml & Mặt Từ Cà Phê Đắk Lắk 150ml,490.000 ₫,325.000 ₫,82,2 món,122
+39,201600049,37752,https://hasaki.vn/san-pham/lan-khu-mui-vichy-kho-thoang-vung-da-duoi-canh-tay-48h-50ml-37752.html,"Lăn Khử Mùi Vichy Ngăn Mồ Hôi, Giữ Khô Thoáng Suốt 48H 50ml",320.000 ₫,262.000 ₫,98,,2
+40,213300025,29169,https://hasaki.vn/san-pham/serum-chong-nang-duong-the-biore-khang-bui-lam-sang-da-spf-50-pa-150ml-29169.html,Serum Chống Nắng Dưỡng Thể Bioré Sáng Da Mịn Màng 150ml,216.000 ₫,162.000 ₫,152,150ml,38
+41,422215256,112739,https://hasaki.vn/san-pham/sua-tam-johnson-s-adult-tu-hanh-nhan-cho-nguoi-lon-750ml-112739.html,Sữa Tắm Johnson's Adult Từ Hạnh Nhân Cho Người Lớn 750ml,171.000 ₫,133.000 ₫,184,750ml,18
+42,256700002,16901,https://hasaki.vn/san-pham/gel-nha-dam-milaganics-duong-am-lam-mem-da-300ml-16901.html,Gel Nha Đam Milaganics Dưỡng Ẩm & Làm Mềm Da 300ml,184.000 ₫,73.000 ₫,334,300ml,25
+43,249500025,86811,https://hasaki.vn/san-pham/kem-chong-nang-duong-the-mat-lanh-sunplay-spf-50-pa-150g-86811.html,Lotion Chống Nắng Sunplay Dưỡng Thể Mát Lạnh 150g,219.000 ₫,163.000 ₫,150,150g,28
+44,422204624,96215,https://hasaki.vn/san-pham/sua-tam-st-ives-yen-mach-bo-hat-mo-duong-am-da-650ml-96215.html,Sữa Tắm St.Ives Dưỡng Ẩm Da Yến Mạch & Bơ Hạt Mỡ 650ml,180.000 ₫,159.000 ₫,152,650ml,14
+45,422205601,97943,https://hasaki.vn/san-pham/sua-tam-goi-cetaphil-diu-nhe-cho-be-400ml-97943.html,Sữa Tắm Gội Cetaphil Dịu Lành Cho Bé 400ml,245.000 ₫,209.000 ₫,113,400ml,1
+46,208200001,8719,https://hasaki.vn/san-pham/sua-duong-the-vaseline-nang-tong-tuc-thi-350ml-8719.html,Sữa Dưỡng Thể Vaseline Dưỡng Sáng Da Rạng Rỡ 350ml,150.000 ₫,109.000 ₫,215,350ml,79
+47,422201788,91973,https://hasaki.vn/san-pham/sua-tam-on-the-body-huong-nuoc-hoa-classic-pink-1000g-91973.html,Sữa Tắm On: The Body Dưỡng Ẩm Hương Tinh Tế 1000g,255.000 ₫,230.000 ₫,102,1000g,26
+48,422209541,103845,https://hasaki.vn/san-pham/sua-tam-goi-nerman-huong-nuoc-hoa-cao-cap-350ml-103845.html,Sữa Tắm Gội Nerman Hương Nước Hoa Cao Cấp 350ml,209.000 ₫,199.000 ₫,118,350ml,1
+49,422208064,101943,https://hasaki.vn/san-pham/bo-doi-nivea-sua-duong-the-sang-da-ngay-dem-350mlx2-101943.html,Combo 2 Sữa Dưỡng Thể Nivea Phục Hồi & Dưỡng Sáng Da Ngày & Đêm (350ml/chai),266.000 ₫,220.000 ₫,105,2x350ml,29
+50,219200003,76188,https://hasaki.vn/san-pham/tinh-dau-duong-da-bio-oil-200ml-76188.html,"Dầu Chăm Sóc Da Bio-Oil Làm Giảm Rạn Da, Mờ Sẹo 200ml",440.000 ₫,406.000 ₫,56,200ml,71
+51,422204835,96559,https://hasaki.vn/san-pham/sua-duong-the-vaseline-sang-da-10-loi-ich-350ml-96559.html,Sữa Dưỡng Thể Vaseline Ngăn Ngừa Lão Hoá 350ml,150.000 ₫,110.000 ₫,196,350ml,79
+52,422207027,100213,https://hasaki.vn/san-pham/kem-giam-tham-nach-khu-mui-cleo-duong-sang-6-trong-1-35g-100213.html,Kem Giảm Thâm Nách & Khử Mùi Cléo Dưỡng Sáng 6 Trong 1 35g,186.000 ₫,154.000 ₫,135,35g,30
+53,100180089,868,https://hasaki.vn/san-pham/kem-duong-avene-giam-kho-ngua-cho-da-viem-the-tang-200ml-868.html,Kem Dưỡng Avène Giảm Khô Ngứa Cho Da Viêm Thể Tạng 200ml,739.000 ₫,554.000 ₫,38,,3
+54,422208317,102323,https://hasaki.vn/san-pham/sua-tam-hazeline-matcha-luu-do-sang-min-rang-ngoi-1kg-102323.html,Sữa Tắm Hazeline Sáng Mịn Rạng Ngời Matcha & Lựu Đỏ 1kg,139.000 ₫,97.000 ₫,212,1kg,3
+55,219200001,76192,https://hasaki.vn/san-pham/tinh-dau-duong-da-bio-oil-60ml-76192.html,"Dầu Chăm Sóc Da Bio-Oil Làm Giảm Rạn Da, Mờ Sẹo 60ml",190.000 ₫,165.000 ₫,123,60ml,71
+56,201600039,29250,https://hasaki.vn/san-pham/lan-khu-mui-vichy-giup-kho-thoang-vung-da-duoi-canh-tay-72h-50ml-29250.html,"Lăn Khử Mùi Vichy Ngăn Mồ Hôi, Giữ Khô Thoáng Suốt 72h 50ml",320.000 ₫,256.000 ₫,79,50ml,5
+57,422208344,102359,https://hasaki.vn/san-pham/kem-chong-nang-hatomugi-duong-am-lam-sang-da-250ml-102359.html,Sữa Dưỡng Thể Hatomugi Chống Nắng Dưỡng Ẩm SPF50+ PA++++ 250ml,329.000 ₫,130.000 ₫,154,250ml,29
+58,242300002,9598,https://hasaki.vn/san-pham/lan-khu-mui-etiaxil-danh-cho-da-thuong-15ml-9598.html,Lăn Khử Mùi EtiaXil Nhãn Đỏ Dành Cho Da Khoẻ 15ml,320.000 ₫,215.000 ₫,92,15ml,48
+59,422207040,100235,https://hasaki.vn/san-pham/sua-tam-nuoc-hoa-tesori-d-oriente-huong-hoa-sen-500ml-100235.html,Sữa Tắm Nước Hoa Tesori d'Oriente Hương Hoa Sen 500ml,275.000 ₫,229.000 ₫,85,500ml,9
+60,422209184,103349,https://hasaki.vn/san-pham/sua-tam-duong-the-dove-duong-am-chuyen-sau-900g-103349.html,Sữa Tắm Dưỡng Thể Dove Dưỡng Ẩm Chuyên Sâu 900g,226.000 ₫,165.000 ₫,117,900g,11
+61,422200041,90087,https://hasaki.vn/san-pham/sua-tam-neutrogena-duong-am-tuoi-moi-dang-gel-473ml-90087.html,Sữa Tắm Neutrogena Dưỡng Ẩm & Tươi Mới Dạng Gel 473ml,295.000 ₫,218.000 ₫,88,473ml,1
+62,204100038,70918,https://hasaki.vn/san-pham/sua-tam-eucerin-cho-da-nhay-cam-1000ml-70918.html,Sữa Tắm Eucerin Dịu Nhẹ Cho Da Nhạy Cảm 1000ml,499.000 ₫,423.000 ₫,45,1000ml,3
+63,422209185,103351,https://hasaki.vn/san-pham/sua-tam-duong-the-dove-da-am-min-luu-huong-ngot-ngao-900g-103351.html,Sữa Tắm Dưỡng Thể Dove Da Ẩm Mịn Lưu Hương Ngọt Ngào 900g,226.000 ₫,169.000 ₫,111,900g,11
+64,422201790,91969,https://hasaki.vn/san-pham/sua-tam-on-the-body-huong-nuoc-hoa-white-pearl-1000g-91969.html,Sữa Tắm On: The Body Dưỡng Ẩm Hương Thư Giãn 1000g,255.000 ₫,230.000 ₫,79,1000g,26
+65,422208866,102715,https://hasaki.vn/san-pham/xit-chong-nang-the-thao-banana-boat-sport-spf-100-170g-102715.html,Xịt Chống Nắng Banana Boat Thể Thao SPF 100 PA+++ 170g,280.000 ₫,233.000 ₫,78,170g,7
+66,241600002,9535,https://hasaki.vn/san-pham/xa-phong-lam-giam-mun-va-tham-mong-pelican-80g-9535.html,Xà Phòng Pelican Làm Giảm Mụn Và Thâm Mông 80g,169.000 ₫,75.000 ₫,236,80g,32
+67,242300003,10106,https://hasaki.vn/san-pham/lan-khu-mui-etiaxil-danh-cho-da-sieu-nhay-cam-15ml-10106.html,Lăn Khử Mùi EtiaXil Nhãn Nâu Cho Da Siêu Nhạy Cảm 15ml,320.000 ₫,215.000 ₫,83,15ml,48
+68,422205661,98101,https://hasaki.vn/san-pham/sap-khu-mui-old-spice-huong-wolfthorn-loi-cuon-doc-dao-73g-98101.html,Sáp Khử Mùi Old Spice Giảm Tiết Mồ Hôi Hương Wolfthorn 73g,154.000 ₫,129.000 ₫,135,73g,18
+69,422202323,92627,https://hasaki.vn/san-pham/xit-giam-mun-lung-angel-s-liquid-duong-sang-co-the-150ml-92627.html,Xịt Giảm Mụn Lưng Angel's Liquid Dưỡng Sáng Cơ Thể 150ml,668.000 ₫,399.000 ₫,42,150ml,29
+70,422207789,101449,https://hasaki.vn/san-pham/dau-dua-milaganics-ep-lanh-tinh-khiet-250ml-101449.html,Dầu Dừa Milaganics Ép Lạnh Tinh Khiết 250ml,210.000 ₫,90.000 ₫,184,250ml,8
+71,422210260,105405,https://hasaki.vn/san-pham/serum-vaseline-gluta-hya-bao-ve-sang-min-ban-ngay-330ml-105405.html,Sữa Dưỡng Thể Vaseline Bảo Vệ Sáng Mịn Ban Ngày 330ml,150.000 ₫,113.000 ₫,146,330ml,16
+72,200900014,8424,https://hasaki.vn/san-pham/sua-duong-am-cetaphil-diu-lanh-cho-be-400ml-8424.html,Sữa Dưỡng Ẩm Cetaphil Dịu Lành Cho Bé 400ml,320.000 ₫,267.000 ₫,61,400ml,2
+73,241600001,8941,https://hasaki.vn/san-pham/xa-phong-pelican-lam-giam-mun-lung-135g-8941.html,Xà Phòng Pelican Làm Giảm Mụn Lưng 135g,149.000 ₫,79.000 ₫,204,135g,24
+74,422204424,95889,https://hasaki.vn/san-pham/sua-duong-the-vaseline-chong-nang-va-sang-da-spf-24-350ml-95889.html,Sữa Dưỡng Thể Vaseline Chống Nắng Và Sáng Da 350ml,150.000 ₫,103.000 ₫,156,350ml,79
+75,242300008,75990,https://hasaki.vn/san-pham/xit-khu-mui-etiaxil-dang-phun-suong-48h-mau-xanh-150ml-75990.html,Xịt Khử Mùi EtiaXil Dạng Phun Sương 48H Màu Xanh 150ml,249.000 ₫,209.000 ₫,77,150ml,1
+76,422211152,106489,https://hasaki.vn/san-pham/combo-2-sua-duong-the-vaseline-sang-da-chuyen-sau-ban-dem-330ml-106489.html,Combo 2 Sữa Dưỡng Thể Vaseline Sáng Da Chuyên Sâu Ban Đêm 330ml,300.000 ₫,235.000 ₫,69,2 x 330ml,16
+77,422205662,98103,https://hasaki.vn/san-pham/sap-khu-mui-old-spice-huong-bearglove-manh-me-ban-linh-73g-98103.html,Sáp Khử Mùi Old Spice Giảm Tiết Mồ Hôi Hương Bearglove 73g,154.000 ₫,128.000 ₫,124,73g,18
+78,100080050,3236,https://hasaki.vn/san-pham/xit-ngan-mui-nu-nivea-sang-da-mo-vet-tham-150ml-3236.html,"Xịt Khử Mùi Nivea Cho Nữ Sáng Da, Mờ Vết Thâm 150ml",108.000 ₫,95.000 ₫,166,150ml,2
+79,206500006,89155,https://hasaki.vn/san-pham/lan-khu-mui-cho-nam-old-spice-fresh-85g-89155.html,Sáp Khử Mùi Old Spice Hương Fresh Tươi Mát 85g,130.000 ₫,118.000 ₫,133,85g,27
+80,219200002,76190,https://hasaki.vn/san-pham/tinh-dau-duong-da-bio-oil-125ml-76190.html,"Dầu Chăm Sóc Da Bio-Oil Làm Giảm Rạn Da, Mờ Sẹo 125ml",330.000 ₫,296.000 ₫,53,125ml,71
+81,422205417,97717,https://hasaki.vn/san-pham/kem-duong-da-tay-va-mong-nuxe-khong-nhon-rit-50ml-97717.html,Kem Dưỡng Da Tay Và Móng Nuxe Không Nhờn Rít 50ml,265.000 ₫,238.000 ₫,65,50ml,16
+82,256700003,16892,https://hasaki.vn/san-pham/bot-dau-do-milaganics-100g-16892.html,"Bột Đậu Đỏ Milaganics Ngừa Mụn, Dưỡng Sáng Da 100g (Túi)",42.000 ₫,20.000 ₫,768,100g,7
+83,422211888,107273,https://hasaki.vn/san-pham/muoi-tam-a-bonne-sua-spa-vitamin-c-tu-du-du-chanh-350g-107273.html,Muối Tắm A Bonne Vitamin C Chiết Xuất Đu Đủ & Chanh 350g,55.000 ₫,20.000 ₫,764,350g,128
+84,422208223,102259,https://hasaki.vn/san-pham/kem-tay-long-vien-bikini-cleo-tu-khoai-tay-mat-ong-50g-102259.html,Kem Tẩy Lông Viền Bikini Cléo Từ Khoai Tây & Mật Ong 50g,132.000 ₫,110.000 ₫,138,50g,26
+85,422209191,103363,https://hasaki.vn/san-pham/sua-tam-duong-the-dove-phuc-hoi-do-am-da-kho-500g-103363.html,Sữa Tắm Dưỡng Thể Dove Phục Hồi Độ Ẩm Da Khô 500g,142.500 ₫,117.000 ₫,129,500g,11
+86,422202031,92227,https://hasaki.vn/san-pham/xit-khu-mui-dove-duong-da-sang-min-huong-phan-thom-150ml-92227.html,Xịt Khử Mùi Dove Dưỡng Da Sáng Mịn Hương Phấn Thơm 150ml,125.000 ₫,99.000 ₫,149,150ml,6
+87,367400004,79342,https://hasaki.vn/san-pham/kem-duong-the-white-conc-lam-sang-da-toan-than-200g-79342.html,Kem Dưỡng Thể White Conc Làm Sáng Da Toàn Thân 200g,350.000 ₫,270.000 ₫,55,200g,6
+88,422204961,96947,https://hasaki.vn/san-pham/kem-tay-long-veet-silk-fresh-danh-cho-da-nhay-cam-50g-96947.html,Kem Tẩy Lông Veet Silk & Fresh Dành Cho Da Nhạy Cảm 50g,76.000 ₫,62.000 ₫,233,50g,2
+89,206200025,17414,https://hasaki.vn/san-pham/sua-duong-the-sang-da-nivea-ho-tro-phuc-hoi-va-chong-nang-350ml-17414.html,Sữa Dưỡng Thể Nivea Phục Hồi & Chống Nắng Ban Ngày 350ml,154.000 ₫,135.000 ₫,106,350ml,29
+90,252500005,14599,https://hasaki.vn/san-pham/kem-bo-tay-long-cleo-dang-sua-90ml-14599.html,Lotion Tẩy Lông Cléo Dạng Sữa Cho Mọi Loại Da 90ml,106.000 ₫,84.000 ₫,168,90ml,17
+91,422207324,100801,https://hasaki.vn/san-pham/sua-tam-lifebuoy-detox-dau-tram-tra-muoi-hong-800g-100801.html,Sữa Tắm Lifebuoy Detox Dầu Tràm Trà & Muối Hồng 800g,195.000 ₫,148.000 ₫,96,800g,2
+92,331300023,71107,https://hasaki.vn/san-pham/sua-chong-nang-curel-spf50-pa-60ml-71107.html,Sữa Chống Nắng Curél Mặt & Toàn Thân Cho Da Khô Nhạy Cảm 60ml,508.000 ₫,355.000 ₫,39,60ml,38
+93,422208980,102973,https://hasaki.vn/san-pham/sua-duong-the-cerave-cho-da-kho-den-rat-kho-236ml-102973.html,Sữa Dưỡng Thể CeraVe Cho Da Thường Đến Khô 236ml,350.000 ₫,318.000 ₫,43,236ml,2
+94,422204019,95359,https://hasaki.vn/san-pham/kem-giam-ran-da-re-p-lam-san-chac-va-mo-seo-200ml-95359.html,Kem Giảm Rạn Da Re:p Làm Săn Chắc Và Mờ Sẹo 200ml,729.000 ₫,439.000 ₫,31,200ml,77
+95,422206735,99923,https://hasaki.vn/san-pham/tay-te-bao-chet-toan-than-paula-s-choice-2-bha-60ml-99923.html,Kem Dưỡng Thể Paula's Choice Giảm Viêm Lỗ Chân Lông 60ml,349.000 ₫,278.000 ₫,48,60ml,9
+96,422209540,103843,https://hasaki.vn/san-pham/dung-dich-ve-sinh-nam-gioi-nerman-sanda-perfume-100ml-103843.html,Dung Dịch Vệ Sinh Nam Giới Nerman - Sanda Perfume 100ml,109.000 ₫,104.000 ₫,127,100ml,4
+97,358700006,88873,https://hasaki.vn/san-pham/kem-duong-caryophy-trang-sang-da-body-che-khuyet-diem-300g-88873.html,"Kem Dưỡng Caryophy Sáng Da, Nâng Tông Cơ Thể 300g",620.000 ₫,419.000 ₫,32,300g,10
+98,422208128,102245,https://hasaki.vn/san-pham/may-triet-long-ca-nhan-halio-ipl-hair-removal-device-102245.html,Máy Triệt Lông Cá Nhân Halio IPL Hair Removal Device,3.200.000 ₫,2.568.000 ₫,6,1 cái,2
+99,422207326,100919,https://hasaki.vn/san-pham/sua-tam-lifebuoy-detox-than-hoat-tinh-cam-gao-800g-100919.html,Sữa Tắm Lifebuoy Detox Than Hoạt Tính & Cám Gạo 800g,195.000 ₫,163.000 ₫,79,800g,2
+100,100180186,3173,https://hasaki.vn/san-pham/sua-duong-the-eucerin-lam-sang-da-spf7-250ml-3173.html,Sữa Dưỡng Thể Eucerin Làm Sáng Da SPF 7 250ml,399.000 ₫,288.000 ₫,43,250ml,22
+101,422201011,91105,https://hasaki.vn/san-pham/sua-tam-on-the-body-duong-am-nuoc-hoa-classic-pink-500g-91105.html,Sữa Tắm On: The Body Dưỡng Ẩm Hương Tinh Tế 500g,150.000 ₫,109.000 ₫,112,500g,26
+102,422205602,97941,https://hasaki.vn/san-pham/sua-duong-am-cetaphil-cho-be-chiet-xuat-hoa-cuc-400ml-97941.html,Sữa Dưỡng Ẩm Cetaphil Dịu Lành Cho Bé Tinh Chất Hoa Cúc 400ml,336.000 ₫,268.000 ₫,44,400ml,4
+103,422206588,99519,https://hasaki.vn/san-pham/lan-khu-mui-deonatulle-da-khoang-soft-stone-double-20g-99519.html,Lăn Khử Mùi Deonatulle Đá Khoáng Trắng Không Màu 20g,298.000 ₫,236.000 ₫,50,20g,3
+104,422204625,96225,https://hasaki.vn/san-pham/sua-tam-st-ives-chiet-xuat-muoi-bien-lam-sach-sau-650ml-96225.html,Sữa Tắm St.Ives Tẩy Tế Bào Chết Hương Muối Biển 650ml,180.000 ₫,177.000 ₫,67,650ml,14
+105,422201012,91107,https://hasaki.vn/san-pham/sua-tam-on-the-body-duong-am-nuoc-hoa-secret-jade-500g-91107.html,Sữa Tắm On: The Body Dưỡng Ẩm Hương Sang Trọng 500g,150.000 ₫,109.000 ₫,107,500g,26
+106,422203509,94177,https://hasaki.vn/san-pham/sua-tam-hatomugi-y-di-duong-am-lam-sang-da-600ml-94177.html,"Sữa Tắm Hatomugi Dưỡng Ẩm Sâu, Làm Sáng Da 600ml",199.000 ₫,96.000 ₫,121,600ml,129
+107,422201212,91419,https://hasaki.vn/san-pham/muoi-tam-baresoul-tay-te-bao-chet-cho-co-the-toc-300g-91419.html,Muối Tắm BareSoul Tẩy Tế Bào Chết Cho Da Đầu & Cơ Thể 330g,250.000 ₫,195.000 ₫,58,330g,11
+108,422203992,95307,https://hasaki.vn/san-pham/bo-duong-the-cocoon-chiet-xuat-ca-phe-dak-lak-200ml-95307.html,Bơ Dưỡng Thể Cocoon Chiết Xuất Cà Phê Đắk Lắk 200ml,215.000 ₫,183.000 ₫,61,200ml,7
+109,422202909,93433,https://hasaki.vn/san-pham/tay-te-bao-chet-felina-dang-muoi-chiet-xuat-bo-500g-93433.html,Muối Tắm Tẩy Tế Bào Chết Felina Chiết Xuất Bơ 500g,140.000 ₫,87.000 ₫,124,500g,162
+110,249600045,89249,https://hasaki.vn/san-pham/set-2-cay-dao-cao-bikini-kai-89249.html,Dao Cạo Vùng Bikini KAI (Vỉ 2 Cây),39.000 ₫,36.000 ₫,299,2 cây,8
+111,422211887,107271,https://hasaki.vn/san-pham/muoi-tam-a-bonne-sua-chua-lam-sang-mem-min-da-350g-107271.html,Muối Tắm A Bonne Sữa Chua Làm Sáng & Mềm Mịn Da 350g,55.000 ₫,23.000 ₫,462,350gg,128
+112,422206507,99525,https://hasaki.vn/san-pham/sua-tam-purite-sang-min-da-huong-hoa-anh-dao-1100ml-99525.html,Sữa Tắm Purité Sáng Mịn Da Hương Hoa Anh Đào 1100ml,287.000 ₫,232.000 ₫,46,1100ml,12
+113,242300005,75984,https://hasaki.vn/san-pham/lan-khu-mui-etiaxil-hang-ngay-cho-moi-loai-da-50ml-75984.html,Lăn Khử Mùi EtiaXil Hàng Ngày Cho Mọi Loại Da 50ml,249.000 ₫,209.000 ₫,50,50ml,3
+114,422205242,97403,https://hasaki.vn/san-pham/kem-duong-am-bioderma-cho-da-kho-nhay-cam-200ml-97403.html,Kem Dưỡng Ẩm Bioderma Cho Da Khô Nhạy Cảm 200ml,325.000 ₫,293.000 ₫,36,200ml,4
+115,422207893,101653,https://hasaki.vn/san-pham/gel-rua-mat-svr-lam-sach-da-khong-chua-xa-phong-200ml-101653.html,"Gel Rửa Mặt SVR Không Xà Phòng Cho Da Khô, Nhạy Cảm 200ml",320.000 ₫,271.000 ₫,38,200ml,4
+116,422209539,103841,https://hasaki.vn/san-pham/dung-dich-ve-sinh-nam-gioi-nerman-sauvage-perfume-100ml-103841.html,Dung Dịch Vệ Sinh Nam Giới Nerman - Sauvage Perfume 100ml,109.000 ₫,99.000 ₫,103,100ml,4
+117,422207034,100221,https://hasaki.vn/san-pham/sua-tam-nuoc-hoa-tesori-d-oriente-huong-hoa-sen-250ml-100221.html,Sữa Tắm Nước Hoa Tesori d'Oriente Hương Hoa Sen 250ml,175.000 ₫,140.000 ₫,73,250ml,9
+118,422202032,92229,https://hasaki.vn/san-pham/xit-khu-mui-dove-duong-da-sang-min-huong-diu-nhe-150ml-92229.html,Xịt Khử Mùi Dove Dưỡng Da Sáng Mịn Hương Dịu Nhẹ 150ml,125.000 ₫,94.000 ₫,107,150ml,6
+119,422201789,91971,https://hasaki.vn/san-pham/sua-tam-on-the-body-huong-nuoc-hoa-violet-dream-1000g-91971.html,Sữa Tắm On: The Body Dưỡng Ẩm Hương Quyến Rũ 1000g,255.000 ₫,230.000 ₫,43,1000g,26
+120,100180196,3594,https://hasaki.vn/san-pham/sua-duong-the-st-ives-yen-mach-bo-duong-am-diu-da-621ml-3594.html,Sữa Dưỡng Thể St.Ives Yến Mạch & Bơ Dưỡng Ẩm Dịu Da 621ml,192.000 ₫,171.000 ₫,57,621ml,97
+121,422211127,106439,https://hasaki.vn/san-pham/combo-lich-lam-nerman-sua-tam-goi-3in1-350ml-dung-dich-ve-sinh-nam-sanda-100ml-106439.html,Combo Lịch Lãm Nerman (Sữa Tắm Gội 3in1 350ml & Dung Dịch Vệ Sinh Nam Sanda 100ml),308.000 ₫,298.000 ₫,33,2 món,3
+122,206200065,86235,https://hasaki.vn/san-pham/lan-khu-mui-nivea-huong-hoa-hong-40ml-86235.html,Lăn Khử Mùi Nivea Serum Sáng Mịn Hương Hoa Hồng 40ml,108.000 ₫,98.000 ₫,98,40ml,12
+123,100100035,3168,https://hasaki.vn/san-pham/sua-duong-the-danh-cho-da-nhay-cam-eucerin-250ml-3168.html,Sữa Dưỡng Thể Eucerin Cho Da Nhạy Cảm 250ml,231.000 ₫,219.000 ₫,44,250ml,5
+124,213300012,6622,https://hasaki.vn/san-pham/gel-chong-nang-mang-nuoc-duong-am-biore-spf50-pa-90ml-6622.html,Gel Chống Nắng Bioré Màng Nước Dưỡng Ẩm Da 90ml,249.000 ₫,174.000 ₫,55,90ml,4
+125,422215807,113729,https://hasaki.vn/san-pham/sua-tam-lifebuoy-detox-thao-duoc-hoa-sen-800g-113729.html,Sữa Tắm Lifebuoy Detox Thảo Dược & Hoa Sen 800g,195.000 ₫,185.000 ₫,52,800g,2
+126,100120065,3088,https://hasaki.vn/san-pham/sua-tam-cetaphil-danh-cho-da-kho-da-co-dia-295ml-3088.html,Sữa Tắm Cetaphil Dưỡng Ẩm Dịu Lành Cho Viêm Da Cơ Địa 295ml,480.000 ₫,408.000 ₫,23,295ml,2
+127,100080005,3226,https://hasaki.vn/san-pham/gel-khu-mui-secret-giam-tiet-mo-hoi-huong-lavender-73g-3226.html,Gel Khử Mùi Secret Giảm Tiết Mồ Hôi Hương Lavender 73g,115.000 ₫,125.000 ₫,74,73g,8
+128,422201794,91961,https://hasaki.vn/san-pham/sua-tam-double-rich-duong-am-da-huong-hoa-iris-550g-91961.html,Sữa Tắm Double Rich Dreamy Romance Hương Hoa Iris 550g,199.000 ₫,98.000 ₫,93,550g,7
+129,422204777,96493,https://hasaki.vn/san-pham/gel-chong-nang-hatomugi-cap-am-cho-mat-toan-than-80g-96493.html,Kem Chống Nắng Hatomugi Dưỡng Ẩm & Làm Sáng Da 80g,525.000 ₫,114.000 ₫,79,80g,31
+130,422207235,100597,https://hasaki.vn/san-pham/dau-tam-bioderma-lam-sach-lam-diu-da-kho-nhay-cam-1l-100597.html,"Dầu Tắm Bioderma Làm Sạch & Làm Dịu Da Khô, Nhạy Cảm 1L",270.000 ₫,472.000 ₫,19,1000ml,2
+131,422205685,98139,https://hasaki.vn/san-pham/sua-duong-the-vaseline-duong-sang-da-5-niacinamide-250ml-98139.html,Sữa Dưỡng Thể Vaseline Dưỡng Sáng Da 5% Niacinamide 250ml,125.000 ₫,230.000 ₫,39,250ml,18
+132,207600003,89171,https://hasaki.vn/san-pham/gel-khu-mui-secret-giam-tiet-mo-hoi-completely-clean-73g-89171.html,Gel Khử Mùi Secret Giảm Tiết Mồ Hôi Completely Clean 73g,40.000 ₫,100.000 ₫,88,73g,8
+133,201100257,75884,https://hasaki.vn/san-pham/bong-tam-vacosi-bp21-75884.html,Bông Tắm Vacosi BP21,286.000 ₫,33.000 ₫,263,1 cái,8
+134,422206651,99641,https://hasaki.vn/san-pham/combo-2-sua-duong-the-vaseline-chong-nang-sang-da-350mlx2-99641.html,Combo 2 Sữa Dưỡng Thể Vaseline Chống Nắng & Sáng Da 350mlx2,142.500 ₫,229.000 ₫,38,2x350ml,79
+135,422209189,103359,https://hasaki.vn/san-pham/sua-tam-duong-the-dove-da-am-min-luu-huong-ngot-ngao-500g-103359.html,Sữa Tắm Dưỡng Thể Dove Da Ẩm Mịn Lưu Hương Ngọt Ngào 500g,310.000 ₫,117.000 ₫,72,500g,11
+136,422206589,99513,https://hasaki.vn/san-pham/lan-khu-mui-deonatulle-soft-stone-da-khoang-xanh-20g-99513.html,Lăn Khử Mùi Deonatulle Đá Khoáng Xanh Sáng Da 20g,421.000 ₫,236.000 ₫,36,20g,3
+137,422209910,104599,https://hasaki.vn/san-pham/combo-cerave-sua-rua-mat-cho-da-dau-473ml-sua-duong-the-cho-da-kho-20ml-104599.html,Combo CeraVe Sữa Rửa Mặt Cho Da Dầu 473ml + Sữa Dưỡng Thể Cho Da Khô 20ml,187.000 ₫,379.000 ₫,22,473ml + 20ml,3
+138,422211571,107576,https://hasaki.vn/san-pham/sua-tam-enchanteur-duong-da-huong-nuoc-hoa-charming-650g-107576.html,Sữa Tắm Enchanteur Nước Hoa Dưỡng Da Charming 650g,192.000 ₫,145.000 ₫,58,650g,1
+139,100070053,3765,https://hasaki.vn/san-pham/sua-duong-the-st-ives-vitamin-e-bo-duong-am-da-621ml-3765.html,Sữa Dưỡng Thể St.Ives Vitamin E & Bơ Dưỡng Ẩm Da 621ml,161.000 ₫,171.000 ₫,49,621ml,97
+140,422205663,98105,https://hasaki.vn/san-pham/gel-tam-nam-old-spice-fresher-collection-huong-timber-473ml-98105.html,Gel Tắm Old Spice Hương Timber Sảng Khoái Và Tự Tin 473ml,77.000 ₫,144.000 ₫,58,473ml,2
+141,100120064,3076,https://hasaki.vn/san-pham/sua-tam-purite-sang-min-da-huong-hoa-anh-dao-250ml-3076.html,Sữa Tắm Purité Sáng Mịn Da Hương Hoa Anh Đào 250ml,159.000 ₫,68.000 ₫,120,250ml,12
+142,422204691,96321,https://hasaki.vn/san-pham/xa-phong-derladie-lam-sach-va-giam-mun-co-the-50g-96321.html,Xà Phòng Derladie Làm Sạch Và Giảm Mụn Cơ Thể 50g,390.000 ₫,99.000 ₫,82,50g,10
+143,422204963,96943,https://hasaki.vn/san-pham/sua-tam-goi-tre-em-lactacyd-milky-bao-ve-da-toc-be-500ml-96943.html,Sữa Tắm Gội Trẻ Em Lactacyd Milky Bảo Vệ Da & Tóc Bé 500ml,245.000 ₫,160.000 ₫,51,500ml,1
+144,422209939,104769,https://hasaki.vn/san-pham/combo-vaseline-sua-duong-the-gluta-hya-nang-tong-tuc-thi-300mlx2-104769.html,Combo Vaseline Sữa Dưỡng Thể Gluta-Hya Nâng Tông Tức Thì 300mlx2,408.000 ₫,285.000 ₫,28,2 chai,10
+145,308100013,80423,https://hasaki.vn/san-pham/gel-tam-bi-dao-cocoon-lam-giam-mun-lung-300ml-80423.html,Gel Tắm Bí Đao Cocoon Làm Giảm Mụn Lưng 310ml,510.000 ₫,208.000 ₫,39,310ml,2
+146,243900012,74460,https://hasaki.vn/san-pham/gel-rua-mat-tam-goi-diu-nhe-a-derma-200ml-74460.html,Gel Rửa Mặt & Tắm Gội A-Derma Dịu Nhẹ Cho Da 200ml,108.000 ₫,346.000 ₫,23,200ml,4
+147,100190072,1053,https://hasaki.vn/san-pham/sua-rua-mat-va-tam-la-roche-posay-danh-cho-da-kho-nhay-cam-da-bi-kich-ung-man-do-ngua-200ml-1053.html,Sữa Tắm & Rửa Mặt La Roche-Posay Cho Da Khô Nhạy Cảm 200ml,350.000 ₫,397.000 ₫,21,200ml,1
+148,206200069,86291,https://hasaki.vn/san-pham/lan-ngan-mui-nivea-serum-sang-min-huong-hoa-sakura-40ml-86291.html,Lăn Khử Mùi Nivea Serum Sáng Mịn Hương Hoa Sakura 40ml,180.000 ₫,97.000 ₫,81,40ml,12
+149,367400001,78826,https://hasaki.vn/san-pham/sua-tam-sang-da-white-conc-360ml-78826.html,Sữa Tắm Sáng Da WHITE CONC 360ml,279.000 ₫,194.000 ₫,40,360ml,5
+150,422204626,96227,https://hasaki.vn/san-pham/sua-tam-st-ives-chiet-xuat-cam-chanh-lam-sang-da-650ml-96227.html,Sữa Tắm St.Ives Tẩy Tế Bào Chết Hương Cam Chanh 650ml,216.000 ₫,177.000 ₫,43,650ml,14
+151,422207044,100233,https://hasaki.vn/san-pham/kem-duong-the-tesori-d-oriente-huong-hoa-sen-300g-100233.html,Kem Dưỡng Thể Tesori d'Oriente Hương Hoa Sen 300g,159.000 ₫,224.000 ₫,33,300g,1
+152,213300027,29163,https://hasaki.vn/san-pham/serum-chong-nang-duong-the-biore-khang-bui-duong-am-sau-spf-50-pa-150ml-29163.html,Serum Chống Nắng Dưỡng Thể Bioré Dưỡng Ẩm Vượt Trội 150ml,245.000 ₫,162.000 ₫,46,150ml,38
+153,422208939,102901,https://hasaki.vn/san-pham/sua-tam-double-rich-hoa-iris-huyen-bi-dreamy-romance-800g-102901.html,Sữa Tắm Double Rich Dreamy Romance Hương Hoa Iris 800g,97.000 ₫,134.000 ₫,55,800g,7
+154,357100002,78192,https://hasaki.vn/san-pham/sua-duong-the-chong-nang-hatomugi-spf31-pa-250ml-78192.html,Sữa Dưỡng Thể Hatomugi Chống Nắng Dưỡng Ẩm SPF31 PA+++ 250ml,406.000 ₫,110.000 ₫,64,250ml,29
+155,422215806,113725,https://hasaki.vn/san-pham/lan-ngan-mui-dove-tinh-chat-serum-thu-nho-lo-chan-long-45ml-113725.html,Lăn Ngăn Mùi Dove Tinh Chất Serum Thu Nhỏ Lỗ Chân Lông 45ml,265.000 ₫,62.000 ₫,113,45ml,4
+156,422209938,104767,https://hasaki.vn/san-pham/combo-vaseline-tinh-chat-duong-the-chong-nang-spf-50-pa-300mlx2-104767.html,Combo Serum Dưỡng Thể Vaseline Chống Nắng Sáng Da 300mlx2,175.000 ₫,294.000 ₫,24,2x300ml,7
+157,422205240,97399,https://hasaki.vn/san-pham/kem-duong-am-bioderma-chuyen-sau-cho-da-rat-kho-75ml-97399.html,Kem Dưỡng Ẩm Bioderma Chuyên Sâu Cho Da Rất Khô 75ml,777.000 ₫,239.000 ₫,29,75ml,4
+158,422211267,106769,https://hasaki.vn/san-pham/dao-cao-cho-nu-gilette-venus-hoa-tra-trang-1-can-2-luoi-106769.html,Dao Cạo Cho Nữ Gilette Venus Hoa Trà Trắng (1 Cán + 2 Lưỡi),236.000 ₫,192.000 ₫,36,1 cái,3
+159,303700002,89319,https://hasaki.vn/san-pham/sua-tam-thom-min-da-jojoba-bong-hoa-avatar-900ml-89319.html,Sữa Tắm Avatar Thơm Mịn Da Jojoba Bông Hoa 900ml,189.000 ₫,158.000 ₫,43,900ml,8
+160,422206652,99643,https://hasaki.vn/san-pham/combo-2-sua-duong-the-vaseline-ngan-ngua-lao-hoa-350mlx2-99643.html,Combo 2 Sữa Dưỡng Thể Vaseline Ngăn Ngừa Lão Hoá 350mlx2,286.000 ₫,208.000 ₫,33,2x350ml,79
+161,223600052,85683,https://hasaki.vn/san-pham/sua-tam-duong-am-senka-huong-hoa-diu-ngot-500ml-85683.html,Sữa Tắm Dưỡng Ẩm Senka Hương Hoa Dịu Ngọt 500ml,198.000 ₫,109.000 ₫,62,500ml,13
+162,213300030,29136,https://hasaki.vn/san-pham/serum-chong-nang-duong-the-biore-khang-bui-sang-min-mat-lanh-spf-50-pa-50ml-29136.html,Serum Chống Nắng Dưỡng Thể Bioré Sáng Mịn Mát Lạnh 50ml,79.000 ₫,69.000 ₫,97,50ml,38
+163,422209916,104611,https://hasaki.vn/san-pham/combo-cerave-kem-duong-va-sua-duong-the-cho-da-kho-den-rat-kho-104611.html,Combo CeraVe Kem Dưỡng 340g + Sữa Dưỡng Thể Da Khô Đến Rất Khô 20ml,391.000 ₫,349.000 ₫,19,340g + 20ml,1
+164,422207797,101495,https://hasaki.vn/san-pham/dau-dua-milaganics-ep-lanh-tinh-khiet-100ml-101495.html,Dầu Dừa Milaganics Ép Lạnh Tinh Khiết 100ml,117.000 ₫,46.000 ₫,142,100ml,8
+165,204100027,66988,https://hasaki.vn/san-pham/sua-tam-eucerin-cho-da-nhay-cam-400ml-66988.html,Sữa Tắm Eucerin Dịu Nhẹ Cho Da Nhạy Cảm 400ml,265.000 ₫,239.000 ₫,27,400ml,3
+166,208200027,89939,https://hasaki.vn/san-pham/combo-sua-duong-the-vaseline-diu-mat-sang-da-350mlx2-89939.html,Combo 2 Sữa Dưỡng Thể Vaseline Dịu Mát Sáng Da 350mlx2,282.000 ₫,269.000 ₫,24,2x350ml,79
+167,206500007,89157,https://hasaki.vn/san-pham/lan-khu-mui-cho-nam-old-spice-original-85g-89157.html,Sáp Khử Mùi Old Spice Hương Original Truyền Thống 85g,130.000 ₫,98.000 ₫,65,85g,27
+168,422206457,99319,https://hasaki.vn/san-pham/lan-khu-mui-cho-nam-rexona-kho-thoang-antibac-45ml-99319.html,Lăn Khử Mùi Cho Nam Rexona Khô Thoáng Antibac 45ml,62.000 ₫,51.000 ₫,123,45ml,1
+169,422206495,99373,https://hasaki.vn/san-pham/lan-ngan-mui-nivea-sang-min-se-khit-lo-chan-long-50ml-99373.html,Lăn Khử Mùi Nivea Sáng Mịn Se Khít Lỗ Chân Lông 50ml,92.000 ₫,79.000 ₫,79,50ml,7
+170,422215744,113605,https://hasaki.vn/san-pham/combo-gennie-nuoc-hoa-sua-tam-little-red-dress-50ml-450ml-113605.html,Combo Gennie Nước Hoa + Sữa Tắm Little Red Dress 50ml + 450ml,378.000 ₫,189.000 ₫,33,2 món,1
+171,386000018,83381,https://hasaki.vn/san-pham/xit-chong-nang-toan-than-jmsolution-chiet-xuat-hoa-hong-spf50-pa-180ml-83381.html,Xịt Chống Nắng Toàn Thân JMsolution Từ Hoa Hồng 180ml,300.000 ₫,134.000 ₫,47,180ml,9
+172,422207327,100797,https://hasaki.vn/san-pham/sua-tam-lifebuoy-bao-ve-khoi-vi-khuan-dang-tui-800g-100797.html,Sữa Tắm Lifebuoy Bảo Vệ Khỏi Vi Khuẩn Dạng Túi 800g,152.000 ₫,127.000 ₫,48,800g,4
+173,422204762,96361,https://hasaki.vn/san-pham/dau-cham-soc-da-bio-oil-lam-giam-ran-da-mo-seo-25ml-96361.html,"Dầu Chăm Sóc Da Bio-Oil Làm Giảm Rạn Da, Mờ Sẹo 25ml",98.000 ₫,92.000 ₫,66,25ml,71
+174,223000004,88269,https://hasaki.vn/san-pham/sua-tam-goi-danh-cho-nam-coast-946ml-88269.html,Sữa Tắm Gội Coast Dành Cho Nam 946ml,183.000 ₫,167.000 ₫,36,946ml,4
+175,100110005,2939,https://hasaki.vn/san-pham/gel-tay-te-bao-chet-purederm-da-mat-va-toan-than-50ml-2939.html,Gel Tẩy Tế Bào Chết Purederm Tái Tạo Da 50ml,50.000 ₫,36.000 ₫,164,50ml,18
+176,422207328,100793,https://hasaki.vn/san-pham/sua-tam-lifebuoy-cham-soc-da-dang-tui-800g-100793.html,Sữa Tắm Lifebuoy Chăm Sóc Da Dạng Túi 800g,152.000 ₫,127.000 ₫,46,800g,4
+177,100120061,3070,https://hasaki.vn/san-pham/sua-tam-purite-sang-min-da-huong-hoa-anh-dao-850ml-3070.html,Sữa Tắm Purité Sáng Mịn Da Hương Hoa Anh Đào 850ml,245.000 ₫,163.000 ₫,36,850ml,12
+178,214000010,70054,https://hasaki.vn/san-pham/xit-khu-mui-refre-whitening-huong-sang-trong-30ml-70054.html,Xịt Khử Mùi Refre x Hello Kitty Whitening Perfume Hương Sang Trọng 30ml,62.000 ₫,47.000 ₫,124,30ml,10
+179,241600004,77185,https://hasaki.vn/san-pham/xa-phong-pelican-giam-tham-vung-da-duoi-canh-tay-100g-77185.html,Xà Phòng Pelican Giảm Thâm Vùng Da Dưới Cánh Tay 100g,189.000 ₫,99.000 ₫,58,100g,6
+180,422208106,102037,https://hasaki.vn/san-pham/sua-duong-am-cetaphil-cho-toan-than-va-da-mat-200ml-moi-102037.html,Sữa Dưỡng Ẩm Cetaphil Dịu Lành Cho Da Nhạy Cảm 200ml,330.000 ₫,315.000 ₫,19,200ml,1
+181,422209187,103355,https://hasaki.vn/san-pham/sua-tam-duong-the-dove-duong-am-chuyen-sau-500g-103355.html,Sữa Tắm Dưỡng Thể Dove Dưỡng Ẩm Chuyên Sâu 500g,142.500 ₫,117.000 ₫,49,500g,11
+182,422201010,91103,https://hasaki.vn/san-pham/sua-tam-on-the-body-duong-am-nuoc-hoa-violet-dream-500g-91103.html,Sữa Tắm On: The Body Dưỡng Ẩm Hương Quyến Rũ 500g,150.000 ₫,109.000 ₫,52,500g,26
+183,422205415,97713,https://hasaki.vn/san-pham/dau-kho-da-nang-nuxe-duong-am-cho-da-mat-body-va-toc-50ml-97713.html,"Dầu Khô Đa Năng Nuxe Dưỡng Ẩm Cho Da Mặt, Body Và Tóc 50ml",745.000 ₫,531.000 ₫,11,50ml,4
+184,100180001,2482,https://hasaki.vn/san-pham/gel-khu-mui-gillette-giam-tiet-mo-hoi-huong-cool-wave-107g-2482.html,Gel Khử Mùi Gillette Giảm Tiết Mồ Hôi Hương Cool Wave 107g,131.000 ₫,104.000 ₫,54,107g,3
+185,422211781,107135,https://hasaki.vn/san-pham/serum-baresoul-che-khuyet-diem-mo-tham-da-duoi-canh-tay-20g-107135.html,"Serum Nách BareSoul Che Khuyết Điểm, Mờ Thâm 20g",280.000 ₫,227.000 ₫,25,20g,1
+186,422209385,103643,https://hasaki.vn/san-pham/sua-tam-nuoc-hoa-tesori-d-oriente-huong-thanh-long-500ml-103643.html,Sữa Tắm Nước Hoa Tesori d'Oriente Hương Thanh Long 500ml,275.000 ₫,219.000 ₫,26,500ml,9
+187,422209186,103353,https://hasaki.vn/san-pham/sua-tam-duong-the-dove-da-bong-min-luu-huong-thom-mat-900g-103353.html,Sữa Tắm Dưỡng Thể Dove Da Bóng Mịn Lưu Hương Thơm Mát 900g,226.000 ₫,169.000 ₫,33,900g,11
+188,355900001,75998,https://hasaki.vn/san-pham/sua-duong-sang-da-chateau-rouge-400ml-75998.html,Sữa Dưỡng Chateau Rouge Làm Sáng Da Cho Mặt & Cơ Thể 400ml,480.000 ₫,395.000 ₫,15,400ml,15
+189,422205665,98109,https://hasaki.vn/san-pham/gel-tam-nam-old-spice-wild-collection-huong-bearglove-473ml-98109.html,Gel Tắm Old Spice Hương Bearglove Mạnh Mẽ Và Bản Lĩnh 473ml,161.000 ₫,160.000 ₫,35,473ml,2
+190,422206631,99597,https://hasaki.vn/san-pham/sua-duong-the-hatomugi-nang-tong-da-chong-nang-250ml-99597.html,Sữa Dưỡng Thể Hatomugi Chống Nắng Nâng Tông SPF31 PA+++ 250ml,200.000 ₫,138.000 ₫,40,250ml,29
+191,422206463,99331,https://hasaki.vn/san-pham/lan-khu-mui-cho-nu-rexona-shower-clean-mat-lanh-50ml-99331.html,Lăn Khử Mùi Rexona Mát Lạnh Sảng Khoái Cho Nữ 50ml,55.000 ₫,45.000 ₫,120,50ml,12
+192,422209492,104155,https://hasaki.vn/san-pham/xit-nuoc-hoa-toan-than-axe-cho-nam-huong-ice-chill-135ml-104155.html,Xịt Khử Mùi AXE Cho Nam Hương Nước Hoa Ice Chill 135ml,108.000 ₫,88.000 ₫,62,135ml,6
+193,100120057,3065,https://hasaki.vn/san-pham/sua-tam-purite-sang-min-da-huong-hoa-anh-dao-500ml-3065.html,Sữa Tắm Purité Sáng Mịn Da Hương Hoa Anh Đào 500ml,159.000 ₫,130.000 ₫,42,500ml,12
+194,422208937,102897,https://hasaki.vn/san-pham/sua-tam-double-rich-can-bang-am-huong-hoa-hong-800g-102897.html,Sữa Tắm Double Rich Eva's Secret Hương Hoa Hồng 800g,159.000 ₫,134.000 ₫,40,800g,7
+195,422205321,97533,https://hasaki.vn/san-pham/xit-nuoc-hoa-toan-than-axe-cho-nam-apollo-135ml-97533.html,Xịt Khử Mùi AXE Cho Nam Hương Nước Hoa Apollo 135ml,108.000 ₫,88.000 ₫,61,135ml,6
+196,422209691,104283,https://hasaki.vn/san-pham/combo-nerman-sua-tam-goi-350ml-dung-dich-ve-sinh-nam-100ml-104283.html,Combo Nerman Sữa Tắm Gội 350ml + Dung Dịch Vệ Sinh Nam 100ml,318.000 ₫,278.000 ₫,19,2 chai,1
+197,422214293,111026,https://hasaki.vn/san-pham/sua-tam-lux-botanicals-huong-phong-lan-quyen-ru-570g-111026.html,Sữa Tắm Lux Botanicals Hương Phong Lan Quyến Rũ 570g,157.000 ₫,155.000 ₫,34,570g,3
+198,242300006,75986,https://hasaki.vn/san-pham/xit-khu-mui-mo-hoi-chan-etiaxil-100ml-75986.html,Xịt Khử Mùi Chân EtiaXil Ngăn Mồ Hôi & Giảm Mùi Hôi 100ml,249.000 ₫,209.000 ₫,25,100ml,2
+199,206200063,85913,https://hasaki.vn/san-pham/xit-ngan-mui-nivea-serum-duong-sang-da-huong-hoa-hong-hokkaido-150ml-85913.html,Xịt Khử Mùi Nivea Serum Sáng Da Hoa Hồng Hokkaido 150ml,125.000 ₫,116.000 ₫,44,150ml,3
+200,209600041,89163,https://hasaki.vn/san-pham/gel-khu-mui-gillette-giam-tiet-mo-hoi-huong-arctic-ice-107g-89163.html,Gel Khử Mùi Gillette Giảm Tiết Mồ Hôi Hương Arctic Ice 107g,131.000 ₫,104.000 ₫,49,107g,3
+201,252500003,14605,https://hasaki.vn/san-pham/kem-bo-tay-long-cleo-cho-da-thuong-50g-14605.html,Kem Tẩy Lông Cléo Dành Cho Da Thường 50g,76.000 ₫,60.000 ₫,83,50g,15
+202,422206728,99777,https://hasaki.vn/san-pham/kem-duong-the-sur-medic-sang-da-nang-tong-150ml-99777.html,Kem Dưỡng Thể Sur.Medic+ Sáng Da & Nâng Tông 150ml,499.000 ₫,328.000 ₫,15,150ml,9
+203,422208809,102571,https://hasaki.vn/san-pham/sua-tam-olay-tuoi-mat-dai-lau-huong-dau-va-bac-ha-887ml-102571.html,Sữa Tắm Olay Tươi Mát Dài Lâu Hương Dâu Và Bạc Hà 887ml,310.000 ₫,249.000 ₫,20,887ml,9
+204,422201787,91975,https://hasaki.vn/san-pham/sua-tam-on-the-body-huong-nuoc-hoa-white-pearl-500g-91975.html,Sữa Tắm On: The Body Dưỡng Ẩm Hương Thư Giãn 500g,150.000 ₫,109.000 ₫,45,500g,26
+205,422205146,97119,https://hasaki.vn/san-pham/xit-giam-mun-toan-than-caryophy-portulaca-body-mist-150ml-97119.html,Xịt Giảm Mụn Toàn Thân Caryophy Portulaca Body Mist 150ml,390.000 ₫,328.000 ₫,15,150ml,2
+206,422203706,94657,https://hasaki.vn/san-pham/lan-ngan-mo-hoi-perspi-guard-hieu-qua-toi-uu-30ml-94657.html,Lăn Khử Mùi Perspi-Guard Hiệu Quả Tối Ưu 30ml,300.000 ₫,174.000 ₫,28,30ml,1
+207,422209909,104597,https://hasaki.vn/san-pham/combo-cerave-sua-rua-mat-cho-da-dau-236ml-sua-duong-the-cho-da-kho-20ml-104597.html,Combo CeraVe Sữa Rửa Mặt Cho Da Dầu 236ml + Sữa Dưỡng Thể Cho Da Khô 20ml,326.000 ₫,285.000 ₫,17,236ml + 20ml,3
+208,200900011,8437,https://hasaki.vn/san-pham/sua-tam-goi-2-trong-1-cetaphil-diu-nhe-cho-be-230ml-8437.html,Sữa Tắm Gội Cetaphil Dịu Lành Cho Bé 230ml,174.000 ₫,137.000 ₫,35,230ml,1
+209,206400028,88625,https://hasaki.vn/san-pham/sua-tam-olay-tay-te-bao-chet-huong-muoi-bien-650ml-88625.html,Sữa Tắm Olay Tẩy Tế Bào Chết Với Hạt Muối Biển 650ml,174.000 ₫,133.000 ₫,36,650ml,9
+210,422207615,101195,https://hasaki.vn/san-pham/gel-duong-da-sau-tay-long-cleo-duong-am-va-diu-da-50g-101195.html,Gel Dưỡng Da Sau Tẩy Lông Cléo Dưỡng Ẩm Và Dịu Da 50g,73.000 ₫,60.000 ₫,79,50g,11
+211,422205414,97721,https://hasaki.vn/san-pham/dau-kho-da-nang-nuxe-duong-am-cho-da-mat-body-va-toc-100ml-97721.html,"Dầu Khô Đa Năng Nuxe Dưỡng Ẩm Cho Da Mặt, Body Và Tóc 100ml",965.000 ₫,819.000 ₫,6,100ml,4
+212,422203915,95155,https://hasaki.vn/san-pham/kem-duong-da-chan-hasi-giam-tho-rap-lam-mem-got-chan-80g-95155.html,Kem Dưỡng Da Chân Hasi Giảm Thô Ráp & Làm Mềm Gót Chân 80g,60.000 ₫,51.000 ₫,93,80g,11
+213,206200072,86297,https://hasaki.vn/san-pham/xit-ngan-mui-nu-nivea-ngoc-trai-quyen-ru-150ml-86297.html,Xịt Khử Mùi Nivea Ngọc Trai Dưỡng Da Sáng Mịn 150ml,108.000 ₫,90.000 ₫,52,150ml,6
+214,100070048,3200,https://hasaki.vn/san-pham/tinh-chat-duong-the-nivea-sang-da-ban-dem-180ml-3200.html,Serum Dưỡng Thể Nivea Sáng Da Ban Đêm 180ml,155.000 ₫,131.000 ₫,35,180ml,11
+215,422206452,99269,https://hasaki.vn/san-pham/sua-duong-the-b-o-m-nang-tong-lam-sang-da-72h-290ml-99269.html,"Sữa Dưỡng Thể B.O.M Nâng Tông, Làm Sáng Da 72h 290ml",638.000 ₫,478.000 ₫,10,290ml,7
+216,422207329,100795,https://hasaki.vn/san-pham/sua-tam-lifebuoy-bao-ve-khoi-vi-khuan-vuot-troi-10-800g-moi-100795.html,Sữa Tắm Lifebuoy Bảo Vệ Khỏi Vi Khuẩn Vượt Trội 10 800g (Mới),181.000 ₫,151.000 ₫,30,800g,1
+217,206400031,88631,https://hasaki.vn/san-pham/sua-tam-olay-duong-am-bo-hat-mo-650ml-88631.html,Sữa Tắm Olay Dưỡng Ẩm Vượt Trội Với Bơ Hạt Mỡ 650ml,190.000 ₫,189.000 ₫,24,650ml,9
+218,334900001,70357,https://hasaki.vn/san-pham/xit-khu-mui-refre-natural-huong-tra-xanh-30ml-70357.html,Xịt Khử Mùi Refre Natural Hương Trà Xanh 30ml,65.000 ₫,50.000 ₫,90,30ml,8
+219,393800020,84871,https://hasaki.vn/san-pham/kem-duong-tay-frudia-chiet-xuat-dao-30ml-84871.html,Kem Dưỡng Da Tay Frudia Chiết Xuất Đào 30ml,72.000 ₫,48.000 ₫,94,30ml,33
+220,206800003,5759,https://hasaki.vn/san-pham/sua-tam-giu-am-huong-hoa-hong-purite-by-provence-500ml-5759.html,Sữa Tắm Purité Dưỡng Da Mềm Mịn Hương Hoa Hồng 500ml,159.000 ₫,130.000 ₫,35,500ml,12
+221,223000001,4026,https://hasaki.vn/san-pham/sua-tam-goi-danh-cho-nam-coast-532ml-4026.html,Sữa Tắm Gội Coast Dành Cho Nam 532ml,140.000 ₫,109.000 ₫,41,532ml,4
+222,422205770,98297,https://hasaki.vn/san-pham/sua-duong-the-vaseline-lam-min-da-voi-5-aha-250ml-98297.html,Sữa Dưỡng Thể Vaseline Làm Mịn Da Với 5.5% AHA 250ml,270.000 ₫,230.000 ₫,20,250ml,18
+223,100120068,3170,https://hasaki.vn/san-pham/sua-tam-eucerin-danh-cho-da-nhay-cam-200ml-3170.html,Sữa Tắm Eucerin Dịu Nhẹ Cho Da Nhạy Cảm 200ml,165.000 ₫,147.000 ₫,30,200ml,3
+224,386000017,83383,https://hasaki.vn/san-pham/jmsolution-marine-luminous-pearl-sun-spray-180ml-83383.html,Xịt Chống Nắng Toàn Thân JMsolution Từ Ngọc Trai 180ml,300.000 ₫,134.000 ₫,33,180ml,9
+225,422212626,108298,https://hasaki.vn/san-pham/sap-khu-mui-old-spice-huong-oc-dao-thanh-mat-85g-108298.html,Sáp Khử Mùi Old Spice Hương Oasis Ốc Đảo Thanh Mát 85g,167.000 ₫,166.000 ₫,27,85g,27
+226,252500002,14626,https://hasaki.vn/san-pham/kem-bo-tay-long-cleo-cho-da-nhay-cam-25g-14626.html,Kem Tẩy Lông Cléo Dành Cho Da Nhạy Cảm 25g,48.000 ₫,41.000 ₫,107,25g,44
+227,417000002,89919,https://hasaki.vn/san-pham/tay-da-chet-toan-than-exclusive-cosmetic-chanh-dao-380g-89919.html,Tẩy Da Chết Toàn Thân Exclusive Cosmetic Chanh Đào 380g,149.000 ₫,88.000 ₫,50,380g,70
+228,206200001,8623,https://hasaki.vn/san-pham/lan-khu-mui-ngoc-trai-nivea-50ml-8623.html,Lăn Khử Mùi Nivea Ngọc Trai Dưỡng Da Sáng Mịn 50ml,92.000 ₫,85.000 ₫,51,50ml,1
+229,422215742,113601,https://hasaki.vn/san-pham/combo-gennie-nuoc-hoa-sua-tam-little-gold-dress-50ml-450ml-113601.html,Combo Gennie Nước Hoa + Sữa Tắm Little Gold Dress 50ml + 450ml,378.000 ₫,189.000 ₫,23,2 món,1
+230,422212531,108136,https://hasaki.vn/san-pham/xit-chong-nang-skintific-cho-mat-va-co-the-50ml-108136.html,Xịt Chống Nắng Skintific Cho Mặt Và Cơ Thể 50ml,179.000 ₫,138.000 ₫,31,50ml,3
+231,422206508,99523,https://hasaki.vn/san-pham/sua-tam-purite-duong-da-mem-min-huong-hoa-hong-1100ml-99523.html,Sữa Tắm Purité Dưỡng Da Mềm Mịn Hương Hoa Hồng 1100ml,287.000 ₫,237.000 ₫,18,1100ml,12
+232,242300007,75988,https://hasaki.vn/san-pham/xit-khu-mui-etiaxil-100ml-75988.html,Xịt Khử Mùi EtiaXil Hàng Ngày Dành Cho Nam Nữ 48H 100ml,249.000 ₫,209.000 ₫,20,100ml,2
+233,393800039,88297,https://hasaki.vn/san-pham/kem-duong-da-tay-frudia-chiet-xuat-dua-30ml-88297.html,Kem Dưỡng Da Tay Frudia Chiết Xuất Dừa 30ml,72.000 ₫,49.000 ₫,85,30ml,33
+234,100080018,89435,https://hasaki.vn/san-pham/gel-khu-mui-secret-giam-tiet-mo-hoi-unscented-khong-mui-73g-89435.html,Gel Khử Mùi Secret Giảm Tiết Mồ Hôi Unscented Không Mùi 73g,125.000 ₫,101.000 ₫,41,73g,8
+235,207400030,66180,https://hasaki.vn/san-pham/sua-duong-lam-sang-da-secret-key-snow-white-120g-66180.html,Sữa Dưỡng Secret Key Snow White Làm Sáng Da 120g,490.000 ₫,254.000 ₫,17,120g,1
+236,422211634,107610,https://hasaki.vn/san-pham/dau-tam-goi-romano-2-trong-1-danh-cho-nam-classic-650g-107610.html,Tắm Gội 2 Trong 1 Romano Hương Nước Hoa Classic 650g,175.000 ₫,144.000 ₫,29,650g,2
+237,422215930,113945,https://hasaki.vn/san-pham/combo-cocoon-tay-te-bao-chet-toan-than-moi-khong-hop-tu-ca-phe-dak-lak-113945.html,Combo Cocoon Tẩy Da Chết Toàn Thân & Môi (Không Hộp) Từ Cà Phê Đắk Lắk,200.000 ₫,125.000 ₫,31,2 món,3
+238,422210312,105489,https://hasaki.vn/san-pham/combo-2-dung-dich-ve-sinh-nam-nerman-sauvage-sanda-perfume-100ml-105489.html,Combo 2 Dung Dịch Vệ Sinh Nam Nerman Sauvage & Sanda Perfume 100ml,218.000 ₫,209.000 ₫,19,2x100ml,4
+239,207600002,89169,https://hasaki.vn/san-pham/gel-khu-mui-secret-giam-tiet-mo-hoi-protecting-powder-73g-89169.html,Gel Khử Mùi Secret Giảm Tiết Mồ Hôi Protecting Powder 73g,125.000 ₫,124.000 ₫,31,73g,8
+240,422212630,108290,https://hasaki.vn/san-pham/sap-khu-mui-old-spice-giam-tiet-mo-hoi-huong-captain-73g-108290.html,Sáp Khử Mùi Old Spice Giảm Tiết Mồ Hôi Hương Captain 73g,152.000 ₫,167.000 ₫,23,73g,18
+241,422206614,99651,https://hasaki.vn/san-pham/sua-tam-oxy-tac-dong-sau-danh-cho-nam-500ml-99651.html,Sữa Tắm Oxy Tác Động Sâu Dành Cho Nam 500ml,175.000 ₫,111.000 ₫,34,500ml,1
+242,100100003,1222,https://hasaki.vn/san-pham/kem-duong-tay-evoluderm-lam-mem-bao-ve-da-tay-chiet-xuat-bo-hat-mo-150ml-1222.html,Kem Dưỡng Tay Evoluderm Chiết Xuất Bơ Hạt Mỡ Dưỡng Ẩm Sâu 150ml,175.000 ₫,99.000 ₫,38,,3
+243,422208979,102971,https://hasaki.vn/san-pham/sua-duong-the-cerave-cho-da-kho-den-rat-kho-88ml-102971.html,Sữa Dưỡng Thể CeraVe Cho Da Khô Đến Rất Khô 88ml,820.000 ₫,138.000 ₫,28,88ml,2
+244,200900001,3822,https://hasaki.vn/san-pham/kem-duong-am-cetaphil-cho-da-co-dia-295ml-3822.html,Sữa Dưỡng Thể Cetaphil Dịu Lành Cho Viêm Da Cơ Địa 295ml,189.000 ₫,739.000 ₫,5,295ml,2
+245,241600003,11236,https://hasaki.vn/san-pham/xit-lam-giam-mun-lung-pelican-100ml-11236.html,Xịt Làm Giảm Mụn Lưng Pelican 100ml,98.000 ₫,109.000 ₫,34,100ml,3
+246,422202529,92903,https://hasaki.vn/san-pham/kem-duong-da-tay-treaclemoon-raspberry-qua-mam-xoi-75ml-92903.html,Kem Dưỡng Da Tay Treaclemoon Raspberry Quả Mâm Xôi 75ml,181.000 ₫,83.000 ₫,44,75ml,6
+247,422208321,102331,https://hasaki.vn/san-pham/sua-tam-lifebuoy-mat-lanh-sang-khoai-voi-bac-ha-800g-102331.html,Sữa Tắm Lifebuoy Mát Lạnh Sảng Khoái Với Bạc Hà 800g (Mới),190.000 ₫,159.000 ₫,23,800g,1
+248,206400026,88623,https://hasaki.vn/san-pham/sua-tam-olay-duong-am-dau-va-bac-ha-650ml-88623.html,Sữa Tắm Olay Tươi Mát Dài Lâu Với Dâu Trắng Và Bạc Hà 650ml,550.000 ₫,170.000 ₫,22,650ml,9
+249,422209573,104119,https://hasaki.vn/san-pham/duong-the-de-memoria-sang-da-huong-jasmine-on-moon-300ml-104119.html,Dưỡng Thể De Memoria Sáng Da Hương Jasmine On Moon 300ml,86.000 ₫,299.000 ₫,12,300ml,1
+250,206200039,39819,https://hasaki.vn/san-pham/lan-ngan-mui-nivea-men-mat-lanh-thom-nang-dong-50ml-39819.html,Lăn Khử Mùi Nivea Men Mát Lạnh Thơm Năng Động 50ml,139.000 ₫,64.000 ₫,56,50ml,5
+251,422200346,90403,https://hasaki.vn/san-pham/kem-giam-tham-nach-cleo-35g-90403.html,Kem Giảm Thâm Nách Cléo Chiết Xuất Lá Lộc Đề 35g,59.000 ₫,114.000 ₫,32,35g,27
+252,214000008,70064,https://hasaki.vn/san-pham/xit-khu-mui-refre-whitening-huong-tinh-te-30ml-70064.html,Xịt Khử Mùi Refre Whitening Perfume Hương Thanh Nhã 30ml,629.000 ₫,48.000 ₫,72,30ml,10
+253,422216286,114711,https://hasaki.vn/san-pham/xit-mun-lung-derladie-mo-tham-giam-viem-nang-long-150ml-114711.html,"Xịt Mụn Lưng Derladie Mờ Thâm, Giảm Viêm Nang Lông 150ml",159.000 ₫,379.000 ₫,9,150ml,6
+254,357100009,89265,https://hasaki.vn/san-pham/sua-duong-the-hatomugi-duong-sang-da-250ml-89265.html,Sữa Dưỡng Thể Hatomugi Làm Sáng Da Chiết Xuất Ý Dĩ 250ml,175.000 ₫,69.000 ₫,49,250ml,45
+255,422211637,107616,https://hasaki.vn/san-pham/dau-tam-goi-romano-2-trong-1-danh-cho-nam-gentleman-650g-107616.html,Tắm Gội 2 Trong 1 Romano Hương Nước Hoa Gentleman 650g,265.000 ₫,148.000 ₫,23,650g,2
+256,422205769,98295,https://hasaki.vn/san-pham/muoi-tam-baresoul-da-nang-cho-da-dau-co-the-300g-98295.html,Muối Tắm BareSoul Đa Năng Cho Da Đầu & Cơ Thể 330g,155.000 ₫,198.000 ₫,18,330g,1
+257,422208035,101867,https://hasaki.vn/san-pham/tinh-chat-duong-the-nivea-sang-da-mo-tham-nam-180ml-101867.html,"Tinh Chất Dưỡng Thể Nivea Sáng Da, Mờ Thâm Nám 180ml",135.000 ₫,89.000 ₫,38,180ml,3
+258,422210473,105661,https://hasaki.vn/san-pham/bo-san-pham-nuxe-duong-da-tay-sap-duong-moi-dau-da-nang-105661.html,Bộ Sản Phẩm Nuxe Dưỡng Da Tay + Sáp Dưỡng Môi + Dầu Đa Năng,31.000 ₫,560.000 ₫,6,3 món,
+259,422207219,100573,https://hasaki.vn/san-pham/gel-rua-mat-svr-lam-sach-da-khong-chua-xa-phong-55ml-100573.html,"Gel Rửa Mặt SVR Không Xà Phòng Cho Da Khô, Nhạy Cảm 55ml",98.000 ₫,115.000 ₫,30,55ml,4
+260,256700001,16841,https://hasaki.vn/san-pham/bot-cam-gao-milaganics-giup-lam-sang-da-100g-16841.html,"Bột Cám Gạo Milaganics Dưỡng Da Sáng Mịn, Mờ Thâm 100g",62.000 ₫,18.000 ₫,180,100g,10
+261,422202528,92905,https://hasaki.vn/san-pham/kem-duong-da-tay-treaclemoon-marshmallow-huong-keo-ngot-75ml-92905.html,Kem Dưỡng Tay Treaclemoon Marshmallow Hương Kẹo Ngọt 75ml,62.000 ₫,83.000 ₫,39,75ml,6
+262,422203255,93827,https://hasaki.vn/san-pham/xit-khu-mui-refre-duong-sang-da-huong-tinh-yeu-30ml-93827.html,Xịt Khử Mùi Refre Whitening Perfume Hương Tình Yêu 30ml,109.000 ₫,48.000 ₫,68,30ml,10
+263,214000007,70070,https://hasaki.vn/san-pham/xit-khu-mui-refre-whitening-huong-ngot-ngao-30ml-70070.html,Xịt Khử Mùi Refre Whitening Perfume Hương Ngọt Ngào 30ml,190.000 ₫,48.000 ₫,67,30ml,10
+264,256700012,16877,https://hasaki.vn/san-pham/gel-nha-dam-milaganics-duong-am-lam-mem-da-150ml-16877.html,Gel Nha Đam Milaganics Dưỡng Ẩm & Làm Mềm Da 150ml,59.000 ₫,43.000 ₫,74,150ml,25
+265,422210122,105031,https://hasaki.vn/san-pham/sua-tam-olay-tuoi-mat-dai-lau-lavender-nuoc-bach-duong-650ml-105031.html,[Hộp Quà] Sữa Tắm Olay Tươi Mát Dài Lâu Lavender & Nước Bạch Dương 650ml,161.000 ₫,189.000 ₫,17,650ml,9
+266,214000009,70060,https://hasaki.vn/san-pham/xit-khu-mui-refre-whitening-huong-phan-thom-30ml-70060.html,Xịt Khử Mùi Refre Whitening Perfume Hương Phấn Thơm 30ml,216.000 ₫,48.000 ₫,66,30ml,10
+267,422205666,98111,https://hasaki.vn/san-pham/gel-tam-goi-old-spice-2in1-sang-khoai-tien-loi-532ml-98111.html,Gel Tắm Gội Old Spice 2in1 Sảng Khoái & Tiện Lợi 532ml,32.000 ₫,134.000 ₫,24,532ml,2
+268,422212955,108756,https://hasaki.vn/san-pham/serum-chong-nang-duong-the-biore-sang-da-huong-qua-mong-150ml-108756.html,Serum Chống Nắng Dưỡng Thể Bioré Sáng Da Hương Quả Mọng 150ml,108.000 ₫,182.000 ₫,18,150ml,38
+269,422202435,92965,https://hasaki.vn/san-pham/dao-cao-nu-gillette-venus-3-basic-3-luoi-vi-2-cay-92965.html,Dao Cạo Nữ Gillette Simply Venus Basic 3 Lưỡi (Vỉ 2 Cây),421.000 ₫,28.000 ₫,109,2cây,4
+270,422205320,97535,https://hasaki.vn/san-pham/xit-nuoc-hoa-toan-than-axe-cho-nam-black-135ml-97535.html,Xịt Khử Mùi AXE Cho Nam Hương Nước Hoa Black 135ml,180.000 ₫,75.000 ₫,41,135ml,4
+271,422209911,104601,https://hasaki.vn/san-pham/combo-cerave-sua-rua-mat-cho-da-kho-473ml-sua-duong-the-cho-da-kho-20ml-104601.html,Combo CeraVe Sữa Rửa Mặt Cho Da Khô 473ml + Sữa Dưỡng Thể Cho Da Khô 20ml,242.000 ₫,379.000 ₫,8,473ml + 20ml,3
+272,422205847,98369,https://hasaki.vn/san-pham/sua-tam-st-ives-hoa-hong-va-lo-hoi-tuoi-moi-da-650ml-98369.html,Sữa Tắm St.Ives Tươi Mát Hoa Hồng Và Lô Hội 650ml,550.000 ₫,178.000 ₫,17,650ml,14
+273,422208034,101869,https://hasaki.vn/san-pham/tinh-chat-duong-the-nivea-vitamin-super-c-sang-da-320ml-101869.html,Tinh Chất Dưỡng Thể Nivea Vitamin Super C+ Sáng Da 320ml,265.000 ₫,235.000 ₫,13,320ml,3
+274,422209572,104121,https://hasaki.vn/san-pham/sua-tam-de-memoria-sang-da-huong-vanilla-on-mars-300ml-104121.html,Sữa Tắm De Memoria Sáng Da Hương Vanilla On Mars 300ml,99.000 ₫,299.000 ₫,10,300ml,1
+275,422208870,102725,https://hasaki.vn/san-pham/xit-tham-mun-lung-cocoon-chiet-xuat-bi-dao-140ml-102725.html,Xịt Thâm Mụn Lưng Cocoon Chiết Xuất Bí Đao 140ml,79.000 ₫,225.000 ₫,14,140ml,1
+276,422209643,104187,https://hasaki.vn/san-pham/combo-cocoon-tay-da-chet-ca-phe-dak-lak-lam-sach-co-the-moi-104187.html,Combo Cocoon Tẩy Da Chết Toàn Thân & Môi Từ Cà Phê Đắk Lắk,200.000 ₫,160.000 ₫,19,2 món,1
+277,207300001,5042,https://hasaki.vn/san-pham/sua-duong-the-st-ives-ho-tro-tre-hoa-da-621ml-5042.html,Sữa Dưỡng Thể St.Ives Collagen & Elastin Trẻ Hóa Da 621ml,192.000 ₫,171.000 ₫,17,621ml,97
+278,206200070,86293,https://hasaki.vn/san-pham/lan-ngan-mui-nivea-serum-sang-min-huong-hoa-lily-40ml-86293.html,Lăn Khử Mùi Nivea Serum Sáng Mịn Hương Hoa Lily 40ml,108.000 ₫,98.000 ₫,30,40ml,12
+279,206400032,88633,https://hasaki.vn/san-pham/sua-tam-olay-thanh-loc-da-nuoc-bach-duong-oai-huong-887ml-88633.html,Sữa Tắm Olay Tươi Mát Dài Lâu Lavender & Nước Bạch Dương 887ml,229.000 ₫,217.000 ₫,14,887ml,9
+280,213300001,6488,https://hasaki.vn/san-pham/sua-chong-nang-biore-mat-lanh-bac-ha-25ml-6488.html,Sữa Chống Nắng Bioré Bảo Vệ Hoàn Hảo - Mát Lạnh 25ml,70.000 ₫,58.000 ₫,50,25ml,11
+281,422207036,100227,https://hasaki.vn/san-pham/sua-tam-nuoc-hoa-tesori-d-oriente-huong-thanh-long-250ml-100227.html,Sữa Tắm Nước Hoa Tesori d'Oriente Hương Thanh Long 250ml,175.000 ₫,149.000 ₫,20,250ml,9
+282,393800017,84873,https://hasaki.vn/san-pham/kem-duong-tay-frudia-chiet-xuat-anh-dao-30ml-84873.html,Kem Dưỡng Da Tay Frudia Chiết Xuất Anh Đào 30ml,72.000 ₫,48.000 ₫,60,30ml,33
+283,422213095,109254,https://hasaki.vn/san-pham/serum-nach-baresoul-khu-mui-giam-san-duong-sang-20g-109254.html,"Serum Nách BareSoul Khử Mùi, Giảm Sần & Dưỡng Sáng 20g",249.000 ₫,205.000 ₫,14,20g,1
+284,422204622,96221,https://hasaki.vn/san-pham/sua-tam-st-ives-chiet-xuat-cam-chanh-lam-sang-da-473ml-96221.html,Sữa Tắm St.Ives Tẩy Tế Bào Chết Hương Cam Chanh 473ml,150.000 ₫,128.000 ₫,23,473ml,14
+285,422210230,105351,https://hasaki.vn/san-pham/mua-1-tang-1-sua-tam-biore-khang-khuan-mat-lanh-sang-khoai-800g-220g-105351.html,[Mua 1 Tặng 1] Sữa Tắm Bioré Guard Kháng Khuẩn Mát Lạnh Sảng Khoái 800g+220g,142.000 ₫,141.000 ₫,20,2 món,2
+286,206200064,85915,https://hasaki.vn/san-pham/xit-ngan-mui-nivea-serum-duong-sang-da-huong-hoa-anh-dao-150ml-85915.html,Xịt Khử Mùi Nivea Serum Sáng Da Hoa Anh Đào 150ml,125.000 ₫,112.000 ₫,25,150ml,3
+287,422212627,108286,https://hasaki.vn/san-pham/sap-khu-mui-old-spice-huong-suc-hut-hoang-da-85g-108286.html,Sáp Khử Mùi Old Spice Hương Wilderness Sức Hút Hoang Dã 85g,167.000 ₫,141.000 ₫,20,85g,27
+288,422203252,93835,https://hasaki.vn/san-pham/xit-khu-mui-refre-ngan-tiet-mo-hoi-huong-go-30ml-93835.html,Xịt Khử Mùi Refre Natural Hương Gỗ 30ml,65.000 ₫,51.000 ₫,54,30ml,8
+289,422208978,102969,https://hasaki.vn/san-pham/sua-duong-the-cerave-cho-da-kho-den-rat-kho-473ml-102969.html,Sữa Dưỡng Thể CeraVe Cho Da Thường Đến Da Khô 473ml,490.000 ₫,456.000 ₫,6,473ml,2
+290,100160067,2263,https://hasaki.vn/san-pham/kem-chong-nang-banana-boat-spf50-90ml-2263.html,Kem Chống Nắng Banana Boat SPF50 PA+++ 90ml,170.000 ₫,149.000 ₫,18,90ml,1
+291,206200073,86299,https://hasaki.vn/san-pham/xit-khu-mui-cho-nu-nivea-giam-vet-o-vang-150ml-86299.html,Xịt Khử Mùi Nivea Ngăn Ố Vàng Thanh Mát Dịu Nhẹ 150ml,109.000 ₫,86.000 ₫,31,150ml,1
+292,422208938,102899,https://hasaki.vn/san-pham/sua-tam-double-rich-tuoi-sang-da-huong-hoa-anh-dao-800g-102899.html,Sữa Tắm Double Rich Blooming Love Hương Hoa Anh Đào 800g,159.000 ₫,134.000 ₫,20,800g,7
+293,422212628,108294,https://hasaki.vn/san-pham/sap-khu-mui-old-spice-huong-nightpanther-am-ap-va-lich-lam-85g-108294.html,Sáp Khử Mùi Old Spice Hương NightPanther Ấm Áp Và Lịch Lãm 85g,167.000 ₫,166.000 ₫,16,85g,27
+294,422216661,115049,https://hasaki.vn/san-pham/combo-2-lan-khu-mui-nivea-sang-min-se-khit-lo-chan-long-50ml-115049.html,Combo 2 Lăn Khử Mùi Nivea Sáng Mịn Se Khít Lỗ Chân Lông 50ml,184.000 ₫,178.000 ₫,15,2x50ml,1
+295,422201174,91357,https://hasaki.vn/san-pham/sua-tam-nuoc-hoa-nu-parisian-chic-for-her-265ml-91357.html,Sữa Tắm Parisian Nước Hoa Nữ - Chic For Her 265ml,109.000 ₫,71.000 ₫,38,265ml,9
+296,248700116,89513,https://hasaki.vn/san-pham/sua-tam-naris-nature-diu-nhe-huong-hoa-tuoi-mat-500ml-89513.html,Sữa Tắm Naris Nature Dịu Nhẹ Hương Hoa Tươi Mát 500ml,395.000 ₫,315.000 ₫,9,500ml,2
+297,422211574,107582,https://hasaki.vn/san-pham/sua-tam-enchanteur-duong-da-huong-nuoc-hoa-sensation-650g-107582.html,Sữa Tắm Enchanteur Nước Hoa Dưỡng Da Sensation 650g,187.000 ₫,145.000 ₫,18,650g,1
+298,422205319,97537,https://hasaki.vn/san-pham/xit-nuoc-hoa-toan-than-axe-cho-nam-gold-temptation-135ml-97537.html,Xịt Khử Mùi AXE Cho Nam Hương Nước Hoa Gold Temptation 135ml,108.000 ₫,88.000 ₫,30,135ml,3
+299,422214690,111731,https://hasaki.vn/san-pham/combo-vaseline-serum-duong-the-chong-nang-sua-duong-the-nang-tong-tuc-thi-111731.html,Combo Vaseline Serum Dưỡng Thể Chống Nắng 300ml + Sữa Dưỡng Thể Nâng Tông 300ml,398.000 ₫,278.000 ₫,10,2 món,1
+300,422213083,109268,https://hasaki.vn/san-pham/dung-dich-ve-sinh-nam-gioi-loli-and-the-wolf-original-80ml-109268.html,Dung Dịch Vệ Sinh Nam Giới Loli And The Wolf Original 80ml,99.000 ₫,82.000 ₫,31,80ml,1
+301,303700001,42175,https://hasaki.vn/san-pham/sua-tam-new-moon-lam-sang-min-da-huong-nuoc-hoa-750ml-42175.html,Sữa Tắm Avatar Thơm Mịn Da Jojoba Bông Hoa 750ml,220.000 ₫,140.000 ₫,18,750ml,8
+302,422207301,100703,https://hasaki.vn/san-pham/tinh-chat-chong-nang-duong-the-nivea-duong-am-180ml-100703.html,Serum Chống Nắng Dưỡng Thể Nivea Dưỡng Ẩm Vượt Trội 180ml,198.000 ₫,187.000 ₫,14,180ml,1
+303,422209012,103031,https://hasaki.vn/san-pham/xit-khu-mui-x-men-for-boss-luxury-sang-trong-tinh-te-150ml-103031.html,Xịt Khử Mùi X-Men For Boss Luxury Sang Trọng Tinh Tế 150ml,117.000 ₫,107.000 ₫,24,150ml,2
+304,422205318,97539,https://hasaki.vn/san-pham/xit-nuoc-hoa-toan-than-axe-cho-nam-dark-temptation-135ml-97539.html,Xịt Khử Mùi AXE Cho Nam Hương Nước Hoa Dark Temptation 135ml,108.000 ₫,89.000 ₫,28,135ml,2
+305,422211595,107608,https://hasaki.vn/san-pham/sua-tam-romano-huong-nuoc-hoa-gentleman-650g-107608.html,Sữa Tắm Romano Hương Nước Hoa Gentleman 650g,175.000 ₫,142.000 ₫,18,650g,1
+306,422216662,115051,https://hasaki.vn/san-pham/combo-2-lan-khu-mui-nivea-serum-sang-min-huong-hoa-hong-40ml-115051.html,Combo 2 Lăn Khử Mùi Nivea Serum Sáng Mịn Hương Hoa Hồng 40ml,216.000 ₫,208.000 ₫,12,2x40ml,12
+307,422209190,103361,https://hasaki.vn/san-pham/sua-tam-duong-the-dove-da-bong-min-luu-huong-thom-mat-500g-103361.html,Sữa Tắm Dưỡng Thể Dove Da Bóng Mịn Lưu Hương Thơm Mát 500g,142.500 ₫,116.000 ₫,21,500g,11
+308,334900002,70279,https://hasaki.vn/san-pham/xit-khu-mui-refre-natural-huong-thao-30ml-70279.html,Xịt Khử Mùi Refre Natural Chiết Xuất Hương Thảo 30ml,65.000 ₫,50.000 ₫,48,30ml,8
+309,422203704,94661,https://hasaki.vn/san-pham/xit-ngan-mo-hoi-toan-than-perspi-guard-hieu-qua-toi-uu-30ml-94661.html,Xịt Khử Mùi Perspi-Guard Hiệu Quả Tối Ưu 30ml,300.000 ₫,299.000 ₫,8,30ml,3
+310,422211554,107552,https://hasaki.vn/san-pham/lan-khu-mui-enchanteur-sang-da-charming-50ml-107552.html,Lăn Khử Mùi Enchanteur Sáng Da Charming 50ml,90.000 ₫,71.000 ₫,34,50ml,3
+311,422204964,96941,https://hasaki.vn/san-pham/sua-tam-goi-tre-em-lactacyd-bb-giam-rom-say-ham-ke-250ml-96941.html,Sữa Tắm Gội Trẻ Em Lactacyd Bb Giảm Rôm Sảy & Hăm Kẽ 250ml,495.000 ₫,89.000 ₫,27,250ml,1
+312,248700027,11764,https://hasaki.vn/san-pham/xit-chong-nang-naris-parasola-uv-spf50-pa-90g-11764.html,Xịt Chống Nắng Naris Cosmetics Dưỡng Sáng Da 90g,157.000 ₫,371.000 ₫,7,90g,8
+313,422214294,111028,https://hasaki.vn/san-pham/sua-tam-lux-botanicals-hoa-hong-phap-nong-nan-570g-111028.html,Sữa Tắm Lux Botanicals Hoa Hồng Pháp Nồng Nàn 570g,181.000 ₫,155.000 ₫,16,570g,1
+314,422212311,107904,https://hasaki.vn/san-pham/tam-goi-romano-2-trong-1-gen-z-huong-sea-breeze-610g-107904.html,Tắm Gội 2 Trong 1 Romano Gen Z Hương Sea Breeze 610g,175.000 ₫,138.000 ₫,17,610g,1
+315,422210310,105485,https://hasaki.vn/san-pham/combo-nerman-sua-tam-goi-350ml-gel-rua-mat-cho-nam-100ml-105485.html,Combo Nerman Sữa Tắm Gội 350ml & Gel Rửa Mặt Cho Nam 100ml,358.000 ₫,332.000 ₫,7,2 món,
+316,422214157,110804,https://hasaki.vn/san-pham/combo-cocoon-tinh-dau-buoi-140ml-tay-te-bao-chet-toan-than-200ml-110804.html,Combo Cocoon Nước Dưỡng Tóc Bưởi 140ml + Tẩy Da Chết Toàn Thân 200ml,290.000 ₫,246.000 ₫,10,2 món,1
+317,422201907,92077,https://hasaki.vn/san-pham/tay-te-bao-chet-milaganics-ca-phe-sang-da-mo-tham-280g-92077.html,"Tẩy Tế Bào Chết Milaganics Cà Phê Sáng Da, Mờ Thâm 280g",183.000 ₫,99.000 ₫,24,280g,6
+318,422201791,91967,https://hasaki.vn/san-pham/sua-tam-double-rich-can-bang-am-huong-hoa-hong-550g-91967.html,Sữa Tắm Double Rich Eva's Secret Hương Hoa Hồng 550g,115.000 ₫,98.000 ₫,24,550g,7
+319,422215805,113727,https://hasaki.vn/san-pham/lan-ngan-mui-dove-tinh-chat-serum-sang-min-deu-mau-45ml-113727.html,Lăn Ngăn Mùi Dove Tinh Chất Serum Sáng Mịn Đều Màu 45ml,97.000 ₫,74.000 ₫,32,45ml,4
+320,422203251,93837,https://hasaki.vn/san-pham/xit-khu-mui-refre-ngan-tiet-mo-hoi-huong-hong-moc-lan-30ml-93837.html,Xịt Khử Mùi Refre Natural Hương Hồng Mộc Lan 30ml,65.000 ₫,50.000 ₫,46,30ml,8
+321,422208320,102329,https://hasaki.vn/san-pham/sua-tam-lifebuoy-sua-duong-am-da-bao-ve-khoi-vi-khuan-800g-102329.html,Sữa Tắm Lifebuoy Chăm Sóc Da Bảo Vệ Khỏi Vi Khuẩn 800g (Mới),181.000 ₫,159.000 ₫,15,800g,1
+322,422208243,102623,https://hasaki.vn/san-pham/tam-goi-x-men-clean-fresh-2in1-sach-sau-630g-102623.html,Tắm Gội X-Men Clean & Fresh 2in1 Sạch Sâu 630g,193.000 ₫,158.000 ₫,15,630g,1
+323,223600053,85681,https://hasaki.vn/san-pham/sua-tam-duong-am-senka-huong-hoa-tuoi-mat-500ml-85681.html,Sữa Tắm Dưỡng Ẩm Senka Hương Hoa Tươi Mát 500ml,198.000 ₫,109.000 ₫,21,500ml,13
+324,422213094,109252,https://hasaki.vn/san-pham/serum-nach-baresoul-ngan-mo-hoi-khu-mui-duong-sang-20g-109252.html,"Serum Nách Baresoul Ngăn Mồ Hôi, Khử Mùi & Dưỡng Sáng 20g",229.000 ₫,178.000 ₫,13,20ml,1
+325,422211575,107584,https://hasaki.vn/san-pham/sua-tam-enchanteur-duong-da-huong-nuoc-hoa-delightful-650g-107584.html,Sữa Tắm Enchanteur Nước Hoa Dưỡng Da Delightful 650g,187.000 ₫,164.000 ₫,14,650g,1
+326,422209913,104605,https://hasaki.vn/san-pham/combo-cerave-sua-rua-mat-cho-da-dau-88ml-sua-duong-the-cho-da-kho-20ml-104605.html,Combo CeraVe Sữa Rửa Mặt Cho Da Dầu 88ml + Sữa Dưỡng Thể Cho Da Khô 20ml,186.000 ₫,145.000 ₫,15,88ml + 20ml,3
+327,100080043,3209,https://hasaki.vn/san-pham/xit-khu-mui-cho-nam-nivea-men-phan-tu-bac-khang-khuan-150ml-3209.html,Xịt Khử Mùi Nivea Men Phân Tử Bạc Kháng Khuẩn 150ml,115.000 ₫,90.000 ₫,24,150ml,2
+328,422207815,101489,https://hasaki.vn/san-pham/bot-dau-do-milaganics-ngua-mun-duong-da-sang-min-100g-hu-101489.html,"Bột Đậu Đỏ Milaganics Ngừa Mụn, Dưỡng Sáng Da 100g (Hũ)",41.000 ₫,34.000 ₫,63,100g,7
+329,201100318,85691,https://hasaki.vn/san-pham/co-cha-got-chan-vacosi-p02-mau-hong-85691.html,Cọ Chà Gót Chân Vacosi P02 (Màu Hồng),55.000 ₫,46.000 ₫,46,,1
+330,422204960,96949,https://hasaki.vn/san-pham/kem-tay-long-veet-silk-fresh-danh-cho-da-thuong-50g-96949.html,Kem Tẩy Lông Veet Silk & Fresh Dành Cho Da Thường 50g,76.000 ₫,65.000 ₫,33,50g,2
+331,206200058,85887,https://hasaki.vn/san-pham/lan-khu-mui-cho-nu-nivea-tuoi-mat-50ml-85887.html,Lăn Khử Mùi Cho Nữ Nivea Tươi Mát 50ml,79.000 ₫,71.000 ₫,30,50ml,1
+332,422205220,97361,https://hasaki.vn/san-pham/sua-tam-monsavon-chiet-xuat-sua-va-hoa-vani-1000ml-97361.html,Sữa Tắm Monsavon Chiết Xuất Sữa Và Hoa Vani 1000ml,36.000 ₫,219.000 ₫,10,1000ml,1
+333,223000003,76948,https://hasaki.vn/san-pham/xa-phong-coast-113g-76948.html,Xà Bông Tắm Coast Hương Cổ Điển 113g,167.000 ₫,21.000 ₫,99,113g,3
+334,422212629,108292,https://hasaki.vn/san-pham/sap-khu-mui-old-spice-huong-soi-dong-va-tao-bao-85g-108292.html,Sáp Khử Mùi Old Spice Hương ElkLord Sôi Động & Táo Bạo 85g,157.000 ₫,141.000 ₫,15,85g,27
+335,422214295,111030,https://hasaki.vn/san-pham/sua-tam-lux-botanicals-huong-lan-tien-tram-tra-570g-111030.html,Sữa Tắm Lux Botanicals Hương Lan Tiên & Tràm Trà 570g,220.000 ₫,155.000 ₫,14,570g,1
+336,422203709,94651,https://hasaki.vn/san-pham/lan-khu-mo-hoi-perspi-shield-khong-chua-muoi-nhom-50ml-94651.html,Lăn Khử Mùi Perspi-Shield Không Chứa Muối Nhôm 50ml,92.000 ₫,114.000 ₫,18,50ml,4
+337,422206493,99371,https://hasaki.vn/san-pham/lan-ngan-mui-nivea-extra-brightening-sang-min-toi-uu-50ml-99371.html,Lăn Khử Mùi Nivea Extra Brightening Sáng Mịn Tối Ưu 50ml,218.000 ₫,71.000 ₫,29,50ml,2
+338,422210309,105483,https://hasaki.vn/san-pham/combo-2-dung-dich-ve-sinh-nam-gioi-nerman-sanda-perfume-100ml-105483.html,Combo 2 Dung Dịch Vệ Sinh Nam Giới Nerman Sanda Perfume 100ml,161.000 ₫,209.000 ₫,10,2x100ml,4
+339,100190160,3102,https://hasaki.vn/san-pham/gel-tam-old-spice-huong-fiji-thu-gian-va-tuoi-moi-473ml-3102.html,Gel Tắm Old Spice Hương Fiji Thư Giãn Nhẹ Nhàng 473ml,171.000 ₫,160.000 ₫,13,473ml,2
+340,422216675,115075,https://hasaki.vn/san-pham/combo-lan-ngan-mui-nivea-tuoi-mat-50ml-ngan-vet-o-vang-48h-50ml-115075.html,Combo Lăn Ngăn Mùi Nivea Tươi Mát 50ml & Ngăn Vệt Ố Vàng 48H 50ml,328.000 ₫,165.000 ₫,13,2x50ml,1
+341,422202140,92345,https://hasaki.vn/san-pham/sua-tam-hat-on-the-body-huong-muoi-hong-himalaya-600g-92345.html,Sữa Tắm Hạt On: The Body Hương Muối Hồng Himalaya 600g,88.000 ₫,239.000 ₫,9,600g,2
+342,422206459,99323,https://hasaki.vn/san-pham/xit-khu-mui-cho-nam-rexona-kho-thoang-antibac-150ml-99323.html,Xịt Khử Mùi Rexona Cho Nam Khô Thoáng Antibac 150ml,359.000 ₫,77.000 ₫,26,150ml,2
+343,422209455,103751,https://hasaki.vn/san-pham/bo-qua-tang-malissa-kiss-for-beloved-wanderlust-3-mon-103751.html,Bộ Quà Tặng Malissa Kiss For Beloved Wanderlust 3 Món,169.000 ₫,232.000 ₫,9,3 món,
+344,422208814,102589,https://hasaki.vn/san-pham/sua-tam-shc-hatomugi-cap-am-duong-da-sang-min-800ml-102589.html,Sữa Tắm SHC Hatomugi Cấp Ẩm & Dưỡng Da Sáng Mịn 800ml,129.000 ₫,105.000 ₫,19,800ml,1
+345,422204020,95437,https://hasaki.vn/san-pham/sua-duong-the-nivea-duong-sang-da-vitamin-c-e-180ml-95437.html,Sữa Dưỡng Thể Nivea Dưỡng Sáng Da Vitamin C & E 180ml,92.000 ₫,99.000 ₫,20,180ml,3
+346,206200008,41438,https://hasaki.vn/san-pham/lan-khu-mui-cho-nam-nivea-men-giam-vet-o-vang-50ml-41438.html,Lăn Khử Mùi Nivea Ngăn Ố Vàng Thanh Mát Dịu Nhẹ 50ml,120.000 ₫,89.000 ₫,23,50ml,1
+347,206800009,7785,https://hasaki.vn/san-pham/sua-duong-the-purite-sang-min-huong-hoa-anh-dao-250ml-7785.html,Sữa Dưỡng Thể Purité Sáng Mịn Hương Hoa Anh Đào 250ml,72.000 ₫,109.000 ₫,18,250ml,12
+348,393800023,84867,https://hasaki.vn/san-pham/kem-duong-tay-frudia-chiet-xuat-bo-hat-mo-30ml-84867.html,Kem Dưỡng Da Tay Frudia Chiết Xuất Bơ Hạt Mỡ 30ml,550.000 ₫,49.000 ₫,40,30ml,12
+349,422209575,104115,https://hasaki.vn/san-pham/duong-the-de-memoria-sang-da-huong-vanilla-on-mars-300ml-104115.html,Dưỡng Thể De Memoria Sáng Da Hương Vanilla On Mars 300ml,275.000 ₫,325.000 ₫,6,300ml,
+350,422207041,100237,https://hasaki.vn/san-pham/sua-tam-nuoc-hoa-tesori-d-oriente-hy-lap-co-dai-500ml-100237.html,Sữa Tắm Nước Hoa Tesori d'Oriente Hy Lạp Cổ Đại 500ml,102.000 ₫,218.000 ₫,9,500ml,9
+351,422209839,104581,https://hasaki.vn/san-pham/mua-1-tang-1-sua-tam-biore-am-min-lan-da-huong-hoa-anh-dao-530g-200g-104581.html,[Mua 1 Tặng 1] Sữa Tắm Bioré Ẩm Mịn Làn Da Hương Hoa Anh Đào 530g+200g,181.000 ₫,92.000 ₫,21,2 chai,1
+352,422212312,107906,https://hasaki.vn/san-pham/tam-goi-romano-2-trong-1-gen-z-huong-forest-cedar-610g-107906.html,Tắm Gội 2 Trong 1 Romano Gen Z Hương Forest Cedar 610g,130.000 ₫,139.000 ₫,14,610g,1
+353,422210968,106241,https://hasaki.vn/san-pham/sua-duong-am-cetaphil-cho-da-nhay-cam-59ml-moi-106241.html,Sữa Dưỡng Ẩm Cetaphil Dịu Lành Cho Da Nhạy Cảm 59ml,295.000 ₫,119.000 ₫,16,59ml,1
+354,422202522,93035,https://hasaki.vn/san-pham/xit-ngan-mui-nivea-men-ngan-vet-o-vang-150ml-93035.html,Xịt Khử Mùi Nivea Men Ngăn Vệt Ố Vàng 150ml,125.000 ₫,112.000 ₫,17,150ml,1
+355,422216194,114281,https://hasaki.vn/san-pham/combo-2-serum-chong-nang-duong-the-biore-sang-min-mat-lanh-150ml-114281.html,Combo 2 Serum Chống Nắng Dưỡng Thể Bioré Sáng Mịn Mát Lạnh 150ml,432.000 ₫,344.000 ₫,6,2x150ml,38
+356,202600015,78786,https://hasaki.vn/san-pham/kem-tay-long-byphasse-chiet-xuat-lo-hoi-125ml-78786.html,Kem Tẩy Lông Byphasse Chiết Xuất Lô Hội 125ml,190.000 ₫,105.000 ₫,18,125ml,7
+357,422213078,109266,https://hasaki.vn/san-pham/dung-dich-ve-sinh-nam-gioi-loli-and-the-wolf-bac-ha-80ml-109266.html,Dung Dịch Vệ Sinh Nam Giới Loli And The Wolf Bạc Hà 80ml,99.000 ₫,82.000 ₫,23,80ml,1
+358,422211573,107580,https://hasaki.vn/san-pham/sua-tam-enchanteur-duong-da-huong-nuoc-hoa-romantic-650g-107580.html,Sữa Tắm Enchanteur Nước Hoa Dưỡng Da Romantic 650g,187.000 ₫,145.000 ₫,13,650g,1
+359,422211627,107618,https://hasaki.vn/san-pham/sua-tam-enchanteur-dang-gel-duong-da-huong-hoa-lavender-510g-107618.html,Sữa Tắm Enchanteur Dưỡng Da Thiên Nhiên Lavender 510g,156.000 ₫,134.000 ₫,15,510g,1
+360,248700114,89473,https://hasaki.vn/san-pham/xit-chong-nang-naris-parasola-uv-spf50-pa-50g-89473.html,Xịt Chống Nắng Naris Cosmetics Dưỡng Sáng Da 50g,295.000 ₫,236.000 ₫,8,50g,8
+361,206200038,87791,https://hasaki.vn/san-pham/xit-khu-mui-cho-nam-nivea-men-cool-kick-mat-lanh-150ml-87791.html,Xịt Khử Mùi Nivea Men Mát Lạnh Thơm Năng Động 150ml,115.000 ₫,89.000 ₫,21,150ml,2
+362,334900012,70000,https://hasaki.vn/san-pham/lan-khu-mui-refre-natural-chiet-xuat-tra-xanh-40ml-70000.html,Lăn Khử Mùi Refre Natural Hương Trà Xanh 40ml,65.000 ₫,50.000 ₫,37,40ml,5
+363,223600054,85679,https://hasaki.vn/san-pham/sua-tam-duong-am-senka-perfect-whip-500ml-85679.html,Sữa Tắm Dưỡng Ẩm Senka Hương Hoa Hồng & Hoa Nhài 500ml,169.000 ₫,142.000 ₫,13,500ml,1
+364,208200002,8650,https://hasaki.vn/san-pham/sua-duong-the-vaseline-nang-tong-tuc-thi-200ml-8650.html,Sữa Dưỡng Thể Vaseline Nâng Tông Sáng Da Tức Thì 200ml,92.000 ₫,78.000 ₫,24,200ml,14
+365,422216002,114667,https://hasaki.vn/san-pham/combo-dove-sua-tam-duong-the-500g-smoothie-tay-da-chet-huong-hoa-anh-dao-298g-114667.html,Combo Dove Sữa Tắm Dưỡng Thể 500g + Smoothie Tẩy Da Chết Hương Hoa Anh Đào 298g,342.000 ₫,304.000 ₫,6,2 món,
+366,422216018,114079,https://hasaki.vn/san-pham/combo-dau-goi-tsubaki-ngan-rung-toc-490ml-sua-tam-senka-hoa-tuoi-mat-500ml-114079.html,Combo Dầu Gội Tsubaki Ngăn Rụng Tóc 490ml + Sữa Tắm Senka Hoa Tươi Mát 500ml,413.000 ₫,307.000 ₫,6,490ml + 500ml,209
+367,206200028,28134,https://hasaki.vn/san-pham/lan-khu-mui-cho-nu-nivea-kho-thoang-50ml-28134.html,Lăn Khử Mùi Nivea Comfort Khô Thoáng Cho Nữ 50ml,79.000 ₫,62.000 ₫,29,50ml,2
+368,422207357,100789,https://hasaki.vn/san-pham/combo-dau-cham-soc-da-bio-oil-125ml-25ml-100789.html,Combo Dầu Chăm Sóc Da Bio-Oil 125ml + 25ml,420.000 ₫,359.000 ₫,5,125+25ml,71
+369,422209188,103357,https://hasaki.vn/san-pham/sua-tam-duong-the-dove-cham-soc-lam-diu-da-nhay-cam-500g-103357.html,Sữa Tắm Dưỡng Thể Dove Chăm Sóc & Làm Dịu Da Nhạy Cảm 500g,142.500 ₫,120.000 ₫,15,500g,11
+370,422207218,100571,https://hasaki.vn/san-pham/kem-duong-vacosi-lam-sang-vung-da-duoi-canh-tay-30ml-100571.html,Kem Dưỡng Vacosi Làm Sáng Vùng Da Dưới Cánh Tay 30ml,165.000 ₫,128.000 ₫,14,30ml,1
+371,422209692,104285,https://hasaki.vn/san-pham/combo-face-body-hair-3-in-1-wash-dung-dich-ve-sinh-nam-elagent-men-sanda-perfume-gel-rua-mat-nano-curcumin-60s-fresh-104285.html,Combo Nerman Sữa Tắm Gội 350ml + Gel Rửa Mặt 100ml + Dung Dịch Vệ Sinh Nam 100ml,467.000 ₫,421.000 ₫,5,3 món,
+372,422211583,107592,https://hasaki.vn/san-pham/xit-khu-mui-romano-huong-nuoc-hoa-gentleman-195ml-107592.html,Xịt Khử Mùi Romano Hương Nước Hoa Gentleman 150ml,100.000 ₫,77.000 ₫,23,150ml,2
+373,100080048,3234,https://hasaki.vn/san-pham/lan-khu-mui-serum-sang-min-da-nivea-40ml-3234.html,Lăn Khử Mùi Nivea Serum Dưỡng Da Sáng Mịn 40ml,92.000 ₫,68.000 ₫,26,40ml,1
+374,248700051,71077,https://hasaki.vn/san-pham/xit-chong-nang-naris-cosmetics-nang-tone-spf50-pa-80g-71077.html,Xịt Chống Nắng Naris Cosmetics Nâng Tông Da 80g,495.000 ₫,396.000 ₫,5,80g,4
+375,422205210,97349,https://hasaki.vn/san-pham/kem-duong-emmie-lam-sang-cho-da-mat-co-the-250ml-97349.html,Kem Dưỡng Emmié Làm Sáng Cho Da Mặt & Cơ Thể 250ml,350.000 ₫,277.000 ₫,7,250ml,4
+376,256700009,16856,https://hasaki.vn/san-pham/dau-dua-tinh-khiet-vitamin-e-milaganics-100ml-16856.html,Dầu Dừa Milaganics Tinh Khiết Vitamin E 100ml,117.000 ₫,46.000 ₫,38,100ml,5
+377,422215367,112901,https://hasaki.vn/san-pham/duong-chat-giam-ran-da-happy-event-tang-do-dan-hoi-40g-112901.html,Dưỡng Chất Giảm Rạn Da Happy Event Tăng Độ Đàn Hồi 40g + Tặng Khăn Tắm Sợi Tre,495.000 ₫,443.000 ₫,4,40g,
+378,422208146,102111,https://hasaki.vn/san-pham/kem-duong-tay-mong-organic-shop-trai-anh-dao-hoa-sen-75ml-102111.html,"Kem Dưỡng Tay & Móng Organic Shop Trái Anh Đào, Hoa Sen 75ml",139.000 ₫,90.000 ₫,20,75ml,6
+379,422207038,100223,https://hasaki.vn/san-pham/sua-tam-nuoc-hoa-tesori-d-oriente-hy-lap-co-dai-250ml-100223.html,Sữa Tắm Nước Hoa Tesori d'Oriente Hy Lạp Cổ Đại 250ml,175.000 ₫,148.000 ₫,12,250ml,9
+380,422209503,104001,https://hasaki.vn/san-pham/sua-tam-hazeline-sang-min-phuc-hoi-sua-ong-chua-hoa-ly-800g-104001.html,Sữa Tắm Hazeline Sáng Mịn Phục Hồi Sữa Ong Chúa & Hoa Ly 800g,98.000 ₫,82.000 ₫,21,800g,3
+381,422204367,95835,https://hasaki.vn/san-pham/sua-tam-double-rich-duong-sang-da-huong-hoa-sen-800g-95835.html,Sữa Tắm Double Rich Glowing Lotus Hương Hoa Sen 800g,159.000 ₫,158.000 ₫,11,800g,7
+382,100120062,3072,https://hasaki.vn/san-pham/sua-tam-purite-duong-da-mem-min-huong-hoa-hong-850ml-3072.html,Sữa Tắm Purité Dưỡng Da Mềm Mịn Hương Hoa Hồng 850ml,245.000 ₫,207.000 ₫,9,850ml,12
+383,422210975,106245,https://hasaki.vn/san-pham/sap-ngan-mui-nivea-ngoc-trai-dep-quyen-ru-50ml-106245.html,Sáp Khử Mùi Nivea Ngọc Trai Đẹp Quyến Rũ 50ml,99.000 ₫,73.000 ₫,23,50ml,2
+384,422208922,102941,https://hasaki.vn/san-pham/serum-duong-the-paula-s-choice-lam-sang-phuc-hoi-da-118ml-102941.html,Serum Dưỡng Thể Paula's Choice Làm Sáng & Phục Hồi Da 118ml,980.000 ₫,823.000 ₫,2,118ml,
+385,422212493,108074,https://hasaki.vn/san-pham/combo-dau-kho-da-nang-nuxe-huile-prodigieuse-100ml-florale-10ml-108074.html,Combo Dầu Khô Đa Năng Nuxe Huile Classic 100ml & Hương Hoa Florale 10ml,965.000 ₫,820.000 ₫,2,2 món,
+386,422203914,95153,https://hasaki.vn/san-pham/kem-duong-da-tay-hasi-thao-moc-cap-am-phuc-hoi-mong-80g-95153.html,Kem Dưỡng Tay Hasi Thảo Mộc Cấp Ẩm & Phục Hồi Móng 80g,60.000 ₫,51.000 ₫,32,80g,4
+387,422205831,98393,https://hasaki.vn/san-pham/sua-tam-nuoc-hoa-gennie-loi-cuon-va-khi-chat-450ml-98393.html,Sữa Tắm Nước Hoa Nữ Gennie Lôi Cuốn & Khí Chất 450ml,159.000 ₫,104.000 ₫,16,Red,7
+388,422204024,95445,https://hasaki.vn/san-pham/lan-khu-mui-cho-nam-nivea-men-cool-kick-cool-fresh-50ml-95445.html,Lăn Khử Mùi Nivea Men Mát Lạnh Thơm Sảng Khoái 50ml,86.000 ₫,60.000 ₫,27,50ml,2
+389,422209297,103557,https://hasaki.vn/san-pham/lan-khu-mui-co-the-deou-danh-cho-nam-gioi-50ml-103557.html,Lăn Khử Mùi Rohto Deou Dành Cho Nam Giới 50ml (Mới),180.000 ₫,178.000 ₫,9,50ml,
+390,303700003,89317,https://hasaki.vn/san-pham/sua-tam-avatar-thom-min-da-jojoba-huong-hoa-350ml-89317.html,Sữa Tắm Avatar Thơm Mịn Da Jojoba Bông Hoa 350ml,93.000 ₫,80.000 ₫,20,350ml,8
+391,422205668,98115,https://hasaki.vn/san-pham/gel-tam-old-spice-huong-nang-dong-va-thanh-cong-532ml-98115.html,Gel Tắm Old Spice Hương Năng Động Và Thành Công 532ml,152.000 ₫,134.000 ₫,12,532ml,1
+392,422203256,93829,https://hasaki.vn/san-pham/lan-khu-mui-refre-duong-sang-da-huong-tinh-yeu-40ml-93829.html,Lăn Khử Mùi Refre Whitening Perfume Hương Tình Yêu 40ml,62.000 ₫,48.000 ₫,33,40ml,14
+393,422209011,103029,https://hasaki.vn/san-pham/xit-khu-mui-x-men-for-boss-intense-huong-tram-noi-luc-150ml-103029.html,Xịt Khử Mùi X-Men For Boss Intense Hương Trầm Nội Lực 150ml,117.000 ₫,93.000 ₫,17,150ml,1
+394,206400027,88635,https://hasaki.vn/san-pham/sua-tam-olay-duong-am-hoa-lan-va-qua-ly-650ml-88635.html,Sữa Tắm Olay Tươi Mát Dài Lâu Với Hoa Lan & Quả Lý 650ml,190.000 ₫,163.000 ₫,10,650ml,9
+395,422211582,107590,https://hasaki.vn/san-pham/xit-khu-mui-romano-huong-nuoc-hoa-attitude-195ml-107590.html,Xịt Khử Mùi Romano Hương Nước Hoa Attitude 150ml,100.000 ₫,82.000 ₫,20,150ml,2
+396,331300014,71125,https://hasaki.vn/san-pham/sua-duong-toan-than-curel-cap-am-chuyen-sau-220ml-71125.html,Sữa Dưỡng Toàn Thân Curél Cấp Ẩm Chuyên Sâu 220ml,441.000 ₫,264.000 ₫,6,220ml,1
+397,422202136,92353,https://hasaki.vn/san-pham/sua-tam-hat-on-the-body-huong-hoa-hong-muoi-bien-600g-92353.html,Sữa Tắm Hạt On: The Body Hương Hoa Hồng Pháp 600g,328.000 ₫,239.000 ₫,7,600g,2
+398,422204021,95439,https://hasaki.vn/san-pham/sua-duong-the-nivea-duong-sang-da-vitamin-c-a-180ml-95439.html,Sữa Dưỡng Thể Nivea Dưỡng Sáng Da Vitamin C & A 180ml,129.000 ₫,125.000 ₫,13,180ml,3
+399,422202043,92249,https://hasaki.vn/san-pham/bo-doi-cocoon-gel-tam-bi-dao-tay-da-chet-toan-than-92249.html,Combo Cocoon Gel Tắm Bí Đao 310ml + Tẩy Da Chết Toàn Thân Cà Phê Đắk Lắk 200ml,360.000 ₫,306.000 ₫,5,2món,
+400,422216003,114669,https://hasaki.vn/san-pham/combo-dove-sua-tam-duong-the-am-min-500g-smoothie-tay-da-chet-huong-luu-do-298g-114669.html,Combo Dove Sữa Tắm Dưỡng Thể Hương Anh Đào 500g + Smoothie Tẩy Da Chết Hương Lựu Đỏ 298g,342.000 ₫,304.000 ₫,5,2 món,
+401,422206462,99329,https://hasaki.vn/san-pham/lan-khu-mui-cho-nu-rexona-free-spirit-huong-thao-moc-50ml-99329.html,Lăn Khử Mùi Rexona Hương Thảo Mộc Thư Giãn Cho Nữ 50ml,55.000 ₫,47.000 ₫,32,50ml,3
+402,100120060,17883,https://hasaki.vn/san-pham/sua-tam-purite-by-provence-hoa-oai-huong-850ml-17883.html,Sữa Tắm Purité Thư Giãn Da Hương Hoa Oải Hương 850ml,245.000 ₫,198.000 ₫,8,850ml,12
+403,422209014,103035,https://hasaki.vn/san-pham/xit-khu-mui-x-men-for-boss-legend-huong-tinh-te-150ml-103035.html,Xịt Khử Mùi X-Men For Boss Legend Hương Tinh Tế 150ml,117.000 ₫,93.000 ₫,16,150ml,1
+404,393800021,84869,https://hasaki.vn/san-pham/kem-duong-tay-frudia-chiet-xuat-qua-mam-xoi-30ml-84869.html,Kem Dưỡng Da Tay Frudia Chiết Xuất Quả Mâm Xôi 30ml,72.000 ₫,49.000 ₫,30,30ml,12
+405,422206650,99639,https://hasaki.vn/san-pham/combo-2-sua-duong-the-vaseline-nang-tong-sang-da-tuc-thi-350mlx2-99639.html,Combo 2 Sữa Dưỡng Thể Vaseline Nâng Tông Sáng Da Tức Thì 350mlx2,286.000 ₫,242.000 ₫,6,2x350ml,79
+406,334900013,69974,https://hasaki.vn/san-pham/lan-khu-mui-refre-chiet-xuat-huong-thao-40ml-69974.html,Lăn Khử Mùi Refre Natural Chiết Xuất Hương Thảo 40ml,65.000 ₫,50.000 ₫,29,40ml,5
+407,422206466,99337,https://hasaki.vn/san-pham/xit-khu-mui-cho-nu-rexona-shower-clean-mat-lanh-150ml-99337.html,Xịt Khử Mùi Rexona Cho Nữ Shower Clean Mát Lạnh 150ml,90.500 ₫,85.000 ₫,17,150ml,1
+408,422212919,108752,https://hasaki.vn/san-pham/kem-tay-long-cleo-chiet-xuat-bo-cong-thuc-dot-pha-50g-108752.html,Kem Tẩy Lông Cleo Chiết Xuất Bơ Công Thức Đột Phá 50g,86.000 ₫,76.000 ₫,19,50g,1
+409,422211565,107566,https://hasaki.vn/san-pham/sap-khu-mui-enchanteur-sang-da-charming-40g-107566.html,Sáp Khử Mùi Enchanteur Sáng Da Charming 40g,84.000 ₫,72.000 ₫,20,40g,2
+410,422206641,99631,https://hasaki.vn/san-pham/sua-duong-bio-oil-body-lotion-duong-am-toan-than-250ml-99631.html,Sữa Dưỡng Thể Bio-Oil Dưỡng Ẩm Toàn Thân 250ml,295.000 ₫,285.000 ₫,5,250ml,
+411,422205978,98549,https://hasaki.vn/san-pham/sua-duong-the-nivea-duong-am-da-chuyen-sau-600ml-98549.html,Sữa Dưỡng Thể Nivea Dưỡng Ẩm Chuyên Sâu 48H 550ml,189.000 ₫,183.000 ₫,8,550ml,7
+412,422202921,93411,https://hasaki.vn/san-pham/tay-te-bao-chet-felina-dang-muoi-tinh-chat-sua-500g-93411.html,Muối Tắm Tẩy Tế Bào Chết Felina Tinh Chất Sữa 500g,140.000 ₫,109.000 ₫,13,500g,162
+413,422208252,102639,https://hasaki.vn/san-pham/lan-khu-mui-x-men-for-boss-luxury-50ml-102639.html,Lăn Khử Mùi X-Men For Boss Luxury Sang Trọng Tinh Tế 50ml,79.000 ₫,61.000 ₫,23,50ml,1
+414,422215147,112713,https://hasaki.vn/san-pham/xit-khu-mui-romano-vip-huong-passion-150ml-112713.html,Xịt Khử Mùi Romano Vip Hương Passion 150ml,117.000 ₫,93.000 ₫,16,150ml,1
+415,422208311,102311,https://hasaki.vn/san-pham/sua-tam-hazeline-yen-mach-dau-tam-sang-min-duong-am-900g-102311.html,Sữa Tắm Hazeline Sáng Mịn Dưỡng Ẩm Yến Mạch & Dâu Tằm Túi 900g,102.000 ₫,83.000 ₫,17,900g,3
+416,422211266,106773,https://hasaki.vn/san-pham/dao-cao-cho-nu-gilette-venus-smooth-3-luoi-vi-1-cai-106773.html,Dao Cạo Cho Nữ Gillette Venus Smooth 2UP (1 Cán + 2 Lưỡi),186.000 ₫,173.000 ₫,9,1 cái,2
+417,334900008,70311,https://hasaki.vn/san-pham/lan-khu-mui-refre-whitening-huong-sang-trong-40ml-70311.html,Lăn Khử Mùi Refre Whitening Perfume Hương Sang Trọng 40ml,62.000 ₫,48.000 ₫,29,40ml,14
+418,422205832,98391,https://hasaki.vn/san-pham/sua-tam-nuoc-hoa-nu-gennie-kieu-ky-diu-dang-450ml-98391.html,Sữa Tắm Nước Hoa Nữ Gennie Kiêu Kỳ & Dịu Dàng 450ml,159.000 ₫,104.000 ₫,14,Rose,7
+419,422209792,104353,https://hasaki.vn/san-pham/combo-cocoon-lam-sach-da-chet-va-duong-am-co-the-tu-ca-phe-104353.html,Combo Cocoon Làm Sạch Da Chết Và Dưỡng Ẩm Cơ Thể Từ Cà Phê,380.000 ₫,304.000 ₫,5,2 món,
+420,422202710,93111,https://hasaki.vn/san-pham/sua-duong-the-malissa-kiss-sang-da-crazy-in-love-226g-93111.html,Sữa Dưỡng Thể Malissa Kiss Sáng Da #Crazy In Love 226g,189.000 ₫,141.000 ₫,10,226g,10
+421,208200006,8689,https://hasaki.vn/san-pham/sua-duong-the-vaseline-sang-da-chong-nang-ngua-o-nhiem-spf24-pa-200ml-8689.html,Sữa Dưỡng Thể Vaseline Sáng Da Chống Nắng Và Ô Nhiễm 200ml,92.000 ₫,78.000 ₫,18,200ml,14
+422,422208241,102267,https://hasaki.vn/san-pham/duong-the-chong-nang-malissa-kiss-huong-nuoc-hoa-delight-200g-102267.html,Dưỡng Thể Chống Nắng Malissa Kiss Hương Nước Hoa Delight 200g,189.000 ₫,161.000 ₫,9,200g,5
+423,422205587,98337,https://hasaki.vn/san-pham/sua-duong-the-huong-nuoc-hoa-cathy-doll-bare-heart-150ml-98337.html,Sữa Dưỡng Thể Cathy Doll Hương Nước Hoa Bare Heart 150ml,179.000 ₫,162.000 ₫,9,150ml,3
+424,422211151,106487,https://hasaki.vn/san-pham/combo-2-sua-duong-the-vaseline-bao-ve-sang-min-ban-ngay-330ml-106487.html,Combo 2 Sữa Dưỡng Thể Vaseline Bảo Vệ Sáng Mịn Ban Ngày 330ml,300.000 ₫,239.000 ₫,6,2 x 330ml,16
+425,334900005,70263,https://hasaki.vn/san-pham/lan-khu-mui-refre-huong-ngot-ngao-40ml-70263.html,Lăn Khử Mùi Refre Whitening Perfume Hương Ngọt Ngào 40ml,62.000 ₫,48.000 ₫,28,40ml,14
+426,422208145,102109,https://hasaki.vn/san-pham/kem-duong-tay-mong-organic-shop-ngoc-lan-tay-burity-75ml-102109.html,"Kem Dưỡng Tay & Móng Organic Shop Ngọc Lan Tây, Burity 75ml",139.000 ₫,119.000 ₫,12,75ml,6
+427,422201173,91355,https://hasaki.vn/san-pham/sua-tam-nuoc-hoa-nu-parisian-lux-for-her-265ml-91355.html,Sữa Tắm Parisian Nước Hoa Nữ - Lux For Her 265ml,109.000 ₫,71.000 ₫,19,265ml,9
+428,422216674,115081,https://hasaki.vn/san-pham/combo-lan-khu-mui-sang-min-mo-tham-50ml-huong-hoa-hong-hokkaido-40ml-115081.html,Combo Lăn Khử Mùi Sáng Mịn Mờ Thâm 50ml & Hương Hoa Hồng Hokkaido 40ml,200.000 ₫,191.000 ₫,7,2 món,1
+429,206800010,7787,https://hasaki.vn/san-pham/sua-duong-the-purite-mem-min-huong-hoa-hong-250ml-7787.html,Sữa Dưỡng Thể Purité Mềm Mịn Hương Hoa Hồng 250ml,123.000 ₫,109.000 ₫,12,250ml,12
+430,422209571,104123,https://hasaki.vn/san-pham/sua-tam-de-memoria-sang-da-huong-rose-on-venus-300ml-104123.html,Sữa Tắm De Memoria Sáng Da Hương Rose On Venus 300ml,550.000 ₫,325.000 ₫,4,300ml,
+431,422202918,93417,https://hasaki.vn/san-pham/tay-te-bao-chet-felina-dang-muoi-tu-hoa-mau-don-500g-93417.html,Muối Tắm Tẩy Tế Bào Chết Felina Từ Hoa Mẫu Đơn 500g,140.000 ₫,109.000 ₫,12,500g,162
+432,422207039,100241,https://hasaki.vn/san-pham/sua-tam-nuoc-hoa-tesori-d-oriente-huong-ayurveda-250ml-100241.html,Sữa Tắm Nước Hoa Tesori d'Oriente Hương Ayurveda 250ml,175.000 ₫,148.000 ₫,9,250ml,9
+433,100120055,3062,https://hasaki.vn/san-pham/sua-tam-purite-duong-da-mem-min-huong-hoa-hong-250ml-3062.html,Sữa Tắm Purité Dưỡng Da Mềm Mịn Hương Hoa Hồng 250ml,77.000 ₫,68.000 ₫,19,250ml,12
+434,422211636,107614,https://hasaki.vn/san-pham/dau-tam-goi-romano-2-trong-1-danh-cho-nam-attitude-650g-107614.html,Tắm Gội 2 Trong 1 Romano Hương Nước Hoa Attitude 650g,175.000 ₫,144.000 ₫,9,650g,
+435,226200026,69924,https://hasaki.vn/san-pham/xa-phong-ho-tro-khang-khuan-va-ngan-ngua-mun-acnes-75g-69924.html,Xà Phòng Acnes Hỗ Trợ Kháng Khuẩn Và Ngăn Ngừa Mụn 75g,70.000 ₫,60.000 ₫,22,75g,6
+436,100080038,3204,https://hasaki.vn/san-pham/lan-khu-mui-cho-nam-nivea-men-kho-thoang-48-gio-50ml-3204.html,Lăn Khử Mùi Nivea Men Khô Thoáng Da Vượt Trội 50ml,72.000 ₫,43.000 ₫,30,50ml,3
+437,422204774,96487,https://hasaki.vn/san-pham/xa-phong-dokudami-cho-mat-toan-than-chiet-xuat-diep-ca-130g-96487.html,Xà Phòng Chinoshio Dokudami Cho Mặt & Toàn Thân 130g,59.000 ₫,47.000 ₫,27,130g,2
+438,422211579,107630,https://hasaki.vn/san-pham/lan-khu-mui-romano-huong-nuoc-hoa-gentleman-50ml-107630.html,Lăn Khử Mùi Romano Hương Nước Hoa Gentleman 50ml,65.000 ₫,51.000 ₫,25,50ml,2
+439,422203390,93995,https://hasaki.vn/san-pham/lan-khu-mui-etiaxil-ngan-mo-hoi-chuyen-biet-50ml-93995.html,Lăn Khử Mùi Etiaxil Ngăn Mồ Hôi Chuyên Biệt 50ml,249.000 ₫,209.000 ₫,6,50ml,1
+440,422202709,93109,https://hasaki.vn/san-pham/sua-duong-the-malissa-kiss-sang-da-lost-in-paradise-226g-93109.html,Sữa Dưỡng Thể Malissa Kiss Sáng Da #Lost In Paradise 226g,189.000 ₫,161.000 ₫,8,226g,10
+441,422202532,92897,https://hasaki.vn/san-pham/kem-tay-long-eveline-tu-lo-hoi-cho-da-nhay-cam-125ml-92897.html,Kem Tẩy Lông Eveline Từ Lô Hội Cho Da Nhạy Cảm 125ml,169.000 ₫,119.000 ₫,11,125ml,6
+442,422200887,90959,https://hasaki.vn/san-pham/combo-vichy-lan-khu-mui-50ml-xit-khoang-duong-da-50ml-90959.html,Combo Vichy Lăn Khử Mùi 50ml + Xịt Khoáng Dưỡng Da 50ml,387.000 ₫,309.000 ₫,4,2món,
+443,256700006,16880,https://hasaki.vn/san-pham/bot-yen-mach-milaganics-100g-16880.html,Bột Yến Mạch Milaganics Ngăn Ngừa Lão Hóa & Mụn 100g (Túi),32.000 ₫,21.000 ₫,59,100g,2
+444,393800037,87879,https://hasaki.vn/san-pham/kem-duong-da-tay-frudia-chiet-xuat-buoi-30ml-87879.html,Kem Dưỡng Da Tay Frudia Chiết Xuất Bưởi 30ml,72.000 ₫,49.000 ₫,25,30ml,33
+445,393800036,87869,https://hasaki.vn/san-pham/kem-duong-da-tay-frudia-chiet-xuat-qua-mong-30ml-87869.html,Kem Dưỡng Da Tay Frudia Chiết Xuất Quả Mọng 30ml,72.000 ₫,49.000 ₫,25,30ml,33
+446,422210973,106249,https://hasaki.vn/san-pham/sap-ngan-mui-nam-nivea-men-mat-lanh-50ml-106249.html,Sáp Khử Mùi Nivea Men Cho Nam Mát Lạnh 50ml,109.000 ₫,76.000 ₫,16,50ml,1
+447,422211592,107602,https://hasaki.vn/san-pham/sua-tam-romano-huong-nuoc-hoa-classic-650g-107602.html,Sữa Tắm Romano Hương Nước Hoa Classic 650g,175.000 ₫,136.000 ₫,9,650g,
+448,422208247,102631,https://hasaki.vn/san-pham/lan-khu-mui-x-men-for-boss-intense-huong-tram-noi-luc-50ml-102631.html,Lăn Khử Mùi X-Men For Boss Intense Hương Trầm Nội Lực 50ml,79.000 ₫,63.000 ₫,19,50ml,1
+449,422211560,112705,https://hasaki.vn/san-pham/xit-khu-mui-enchanteur-huong-nuoc-hoa-charming-150ml-112705.html,Xịt Khử Mùi Enchanteur Hương Nước Hoa Charming 150ml,96.000 ₫,95.000 ₫,13,150ml,1
+450,100020011,3213,https://hasaki.vn/san-pham/kem-tay-long-byphasse-chiet-xuat-to-tam-125ml-3213.html,Kem Tẩy Lông Byphasse Chiết Xuất Tơ Tằm 125ml,190.000 ₫,119.000 ₫,10,125ml,7
+451,422208240,102269,https://hasaki.vn/san-pham/duong-the-chong-nang-malissa-kiss-huong-nuoc-hoa-hottie-200g-102269.html,Dưỡng Thể Chống Nắng Malissa Kiss Hương Nước Hoa Hottie 200g,189.000 ₫,152.000 ₫,8,200g,5
+452,422209661,104243,https://hasaki.vn/san-pham/bo-sua-tam-va-duong-the-de-memoria-huong-rose-on-venus-2x300ml-104243.html,Bộ Sữa Tắm Và Dưỡng Thể De Memoria Hương Rose On Venus 2x300ml,1.100.000 ₫,590.000 ₫,2,2x300ml,
+453,422210832,106061,https://hasaki.vn/san-pham/kem-chong-nang-australis-pho-rong-bao-ve-toan-dien-125ml-106061.html,Kem Chống Nắng Australis Phổ Rộng Hương Trái Thơm 125ml,363.000 ₫,290.000 ₫,4,125ml,11
+454,422203254,93831,https://hasaki.vn/san-pham/lan-khu-mui-refre-natural-chiet-xuat-huong-go-40ml-93831.html,Lăn Khử Mùi Refre Natural Chiết Xuất Hương Gỗ 40ml,65.000 ₫,50.000 ₫,23,40ml,5
+455,422211580,107586,https://hasaki.vn/san-pham/xit-khu-mui-romano-huong-nuoc-hoa-classic-195ml-107586.html,Xịt Khử Mùi Romano Hương Nước Hoa Classic 150ml,100.000 ₫,86.000 ₫,14,150ml,1
+456,422201169,91587,https://hasaki.vn/san-pham/tay-da-chet-toan-than-organic-shop-huong-mam-xoi-250ml-91587.html,Tẩy Da Chết Toàn Thân Organic Shop Hương Mâm Xôi 250ml,169.000 ₫,109.000 ₫,11,250ml,29
+457,422204614,96207,https://hasaki.vn/san-pham/sua-tam-rohto-deou-lam-sach-khu-mui-mat-lanh-cho-nam-520ml-96207.html,"Sữa Tắm Rohto Deou Làm Sạch, Khử Mùi Mát Lạnh Cho Nam 520ml",280.000 ₫,225.000 ₫,5,520ml,
+458,422211557,107560,https://hasaki.vn/san-pham/lan-khu-mui-enchanteur-sang-da-sensation-50ml-107560.html,Lăn Khử Mùi Enchanteur Sáng Da Sensation 50ml,90.000 ₫,77.000 ₫,15,50ml,1
+459,422206189,98833,https://hasaki.vn/san-pham/sua-duong-the-cathy-doll-duong-sang-mo-tham-450ml-98833.html,"Sữa Dưỡng Thể Cathy Doll Dưỡng Sáng, Mờ Thâm 450ml",156.000 ₫,159.000 ₫,7,450ml,19
+460,422211629,107622,https://hasaki.vn/san-pham/sua-tam-enchanteur-dang-gel-duong-da-huong-hoa-hong-510g-107622.html,Sữa Tắm Enchanteur Dưỡng Da Thiên Nhiên Hoa Hồng 510g,59.000 ₫,134.000 ₫,9,510g,1
+461,334900007,70299,https://hasaki.vn/san-pham/lan-khu-mui-refre-whitening-huong-phan-thom-40ml-70299.html,Lăn Khử Mùi Refre Whitening Perfume Hương Phấn Thơm 40ml,125.000 ₫,48.000 ₫,23,40ml,14
+462,206200071,86295,https://hasaki.vn/san-pham/xit-ngan-mui-nivea-serum-duong-sang-da-huong-hoa-lily-150ml-86295.html,Xịt Khử Mùi Nivea Serum Dưỡng Sáng Da Hương Hoa Lily 150ml,189.000 ₫,121.000 ₫,9,150ml,3
+463,422205502,97805,https://hasaki.vn/san-pham/sua-duong-the-malissa-kiss-sang-da-sweet-poison-226g-97805.html,Sữa Dưỡng Thể Malissa Kiss Sáng Da #Sweet Poison 226g,84.000 ₫,152.000 ₫,8,226g,2
+464,422211567,107570,https://hasaki.vn/san-pham/sap-khu-mui-enchanteur-sang-da-delightful-40g-107570.html,Sáp Khử Mùi Enchanteur Sáng Da Delightful 40g,278.000 ₫,72.000 ₫,15,40g,1
+465,422209695,104291,https://hasaki.vn/san-pham/combo-nerman-dung-dich-ve-sinh-nam-sanda-perfume-100ml-xit-thom-mieng-cool-smile-10ml-104291.html,Combo Nerman Dung Dịch Vệ Sinh Nam Sanda Perfume + Xịt Thơm Miệng Cool Smile,150.000 ₫,269.000 ₫,4,2 món,
+466,422204623,96223,https://hasaki.vn/san-pham/sua-tam-st-ives-chiet-xuat-mo-tay-te-bao-chet-473ml-96223.html,Sữa Tắm St.Ives Tẩy Tế Bào Chết Hương Mơ 473ml,209.000 ₫,150.000 ₫,8,473ml,14
+467,422204620,96217,https://hasaki.vn/san-pham/sua-tam-st-ives-yen-mach-bo-hat-mo-duong-am-da-473ml-96217.html,Sữa Tắm St.Ives Dưỡng Ẩm Da Yến Mạch & Bơ Hạt Mỡ 473ml,245.000 ₫,128.000 ₫,9,473ml,14
+468,422211696,107055,https://hasaki.vn/san-pham/kem-tam-tay-te-bao-chet-felina-ca-phe-tinh-dau-dua-400g-107055.html,Kem Tắm Tẩy Tế Bào Chết Felina Cà Phê & Tinh Dầu Dừa 400g,213.000 ₫,175.000 ₫,6,400g,45
+469,309300012,56821,https://hasaki.vn/san-pham/kem-chong-nang-cathy-doll-sang-da-spf50-pa-138ml-56821.html,Kem Chống Nắng Cathy Doll Sáng Da SPF50/PA+++ 138ml,190.000 ₫,159.000 ₫,7,138ml,2
+470,422207216,100569,https://hasaki.vn/san-pham/sua-tam-purite-duong-da-mem-min-huong-hoa-linh-lan-850ml-100569.html,Sữa Tắm Purité Dưỡng Da Mềm Mịn Hương Hoa Linh Lan 850ml,392.000 ₫,217.000 ₫,5,850ml,12
+471,422202747,93187,https://hasaki.vn/san-pham/sua-tam-naris-duong-am-da-huong-cam-quyt-650ml-93187.html,Sữa Tắm Naris Dưỡng Ẩm Da Hương Cam Quýt 550ml,595.000 ₫,594.000 ₫,2,550ml,2
+472,422205504,97801,https://hasaki.vn/san-pham/sua-duong-the-malissa-kiss-sang-da-call-me-maybe-226g-97801.html,Sữa Dưỡng Thể Malissa Kiss Sáng Da #Call Me Maybe 226g,189.000 ₫,161.000 ₫,7,226g,2
+473,422211628,107620,https://hasaki.vn/san-pham/sua-tam-enchanteur-dang-gel-duong-da-huong-hoa-iris-510g-107620.html,Sữa Tắm Enchanteur Dưỡng Da Thiên Nhiên Hoa Iris 510g,156.000 ₫,134.000 ₫,8,510g,1
+474,422211698,107053,https://hasaki.vn/san-pham/kem-tam-tay-te-bao-chet-felina-ca-phe-tinh-chat-sua-400g-107053.html,Kem Tắm Tẩy Tế Bào Chết Felina Cà Phê & Tinh Chất Sữa 400g,209.000 ₫,166.000 ₫,6,400g,45
+475,422205592,98345,https://hasaki.vn/san-pham/sua-duong-the-huong-nuoc-hoa-cathy-doll-white-moon-150ml-98345.html,Sữa Dưỡng Thể Cathy Doll Hương Nước Hoa White Moon 150ml,179.000 ₫,162.000 ₫,7,150ml,3
+476,422208305,102413,https://hasaki.vn/san-pham/kem-duong-toan-than-felina-sang-da-tu-tinh-chat-sua-250g-102413.html,Kem Dưỡng Toàn Thân Felina Sáng Da Từ Tinh Chất Sữa 250g,249.000 ₫,247.000 ₫,4,250g,21
+477,422207234,100595,https://hasaki.vn/san-pham/dau-tam-bioderma-lam-sach-lam-diu-da-kho-nhay-cam-200ml-100595.html,"Dầu Tắm Bioderma Làm Sạch & Làm Dịu Da Khô, Nhạy Cảm 200ml",365.000 ₫,329.000 ₫,3,200ml,2
+478,422209375,103627,https://hasaki.vn/san-pham/combo-2-tay-da-chet-toan-than-cocoon-duong-thot-not-an-giang-200ml-103627.html,Combo 2 Tẩy Da Chết Toàn Thân Cocoon Đường Thốt Nốt An Giang 200ml,330.000 ₫,280.000 ₫,4,2x200ml,2
+479,422205590,98341,https://hasaki.vn/san-pham/sua-duong-the-huong-nuoc-hoa-cathy-doll-merry-go-round-150ml-98341.html,Sữa Dưỡng Thể Cathy Doll Nước Hoa Merry Go Round 150ml,179.000 ₫,162.000 ₫,7,150ml,3
+480,422209197,103403,https://hasaki.vn/san-pham/mini-sua-duong-the-cerave-cho-da-kho-den-rat-kho-20ml-103403.html,[Mini] Sữa Dưỡng Thể CeraVe Cho Da Khô Đến Rất Khô 20ml,41.000 ₫,25.000 ₫,39,20ml,3
+481,422203916,95157,https://hasaki.vn/san-pham/kem-duong-tay-hasi-thao-moc-duong-sang-da-tay-mong-80g-95157.html,Kem Dưỡng Tay Hasi Thảo Mộc Dưỡng Sáng Da Tay & Móng 80g,60.000 ₫,51.000 ₫,19,80g,4
+482,208200024,88619,https://hasaki.vn/san-pham/sua-duong-the-vaseline-diu-mat-sang-da-200ml-88619.html,Sữa Dưỡng Thể Vaseline Dịu Mát Sáng Da 200ml,98.000 ₫,79.000 ₫,13,200ml,14
+483,397400002,85125,https://hasaki.vn/san-pham/tay-te-bao-chet-toan-than-tree-hut-chiet-xuat-hoa-hong-510g-85125.html,Tẩy Tế Bào Chết Toàn Thân Tree Hut Hoa Hồng 510g,440.000 ₫,347.000 ₫,3,510g,13
+484,422210412,105731,https://hasaki.vn/san-pham/sua-tam-jmella-huong-cam-quyt-va-mau-don-sang-trong-500ml-105731.html,Sữa Tắm Jmella Hương Cam Quýt Và Mẫu Đơn Sang Trọng 500ml,170.000 ₫,119.000 ₫,8,500ml,
+485,422209004,103015,https://hasaki.vn/san-pham/tam-goi-nuoc-hoa-x-men-fire-2in1-thom-lau-sach-sau-650g-103015.html,Tắm Gội Nước Hoa X-Men Fire 2in1 Thơm Lâu Sạch Sâu 650g,193.000 ₫,158.000 ₫,6,650g,
+486,378200003,82589,https://hasaki.vn/san-pham/sua-tam-hasi-kokeshi-chiet-xuat-sua-bo-ngoc-trai-600ml-82589.html,Sữa Tắm Hasi Kokeshi Sữa Bò & Ngọc Trai Sáng Mịn Da 600ml,130.000 ₫,85.000 ₫,11,600ml,7
+487,422211624,107550,https://hasaki.vn/san-pham/lan-khu-mui-enchanteur-huong-nuoc-hoa-charming-50ml-107550.html,Lăn Khử Mùi Enchanteur Hương Nước Hoa Charming 50ml,84.500 ₫,62.000 ₫,15,50ml,1
+488,422203355,93955,https://hasaki.vn/san-pham/muoi-tam-argussy-tay-te-bao-chet-sang-min-da-300g-93955.html,Muối Tắm Argussy Tẩy Tế Bào Chết Sáng Da Hương Cam 300g,37.000 ₫,32.000 ₫,29,300g,8
+489,422211576,107624,https://hasaki.vn/san-pham/lan-khu-mui-romano-huong-nuoc-hoa-classic-50ml-107624.html,Lăn Khử Mùi Romano Hương Nước Hoa Classic 50ml,65.000 ₫,56.000 ₫,17,50ml,1
+490,309300020,57262,https://hasaki.vn/san-pham/tay-te-bao-chet-toan-than-trang-da-sua-bo-cathy-doll-320ml-57262.html,Tẩy Tế Bào Chết Toàn Thân Cathy Doll Sáng Da Sữa Bò 320ml,100.000 ₫,149.000 ₫,7,320ml,8
+491,422211581,107588,https://hasaki.vn/san-pham/xit-khu-mui-romano-huong-nuoc-hoa-force-195ml-107588.html,Xịt Khử Mùi Romano Hương Nước Hoa Force 150ml,346.000 ₫,77.000 ₫,12,150ml,1
+492,422209915,104609,https://hasaki.vn/san-pham/combo-cerave-sua-duong-am-ban-dem-52ml-sua-duong-the-da-kho-20ml-104609.html,Combo CeraVe Sữa Dưỡng Ẩm Ban Đêm 52ml + Sữa Dưỡng Thể Da Khô 20ml,65.000 ₫,305.000 ₫,3,2 món,
+493,422211578,107628,https://hasaki.vn/san-pham/lan-khu-mui-romano-huong-nuoc-hoa-attitude-50ml-107628.html,Lăn Khử Mùi Romano Hương Nước Hoa Attitude 50ml,65.000 ₫,49.000 ₫,19,50ml,1
+494,422203253,93833,https://hasaki.vn/san-pham/lan-khu-mui-refre-natural-chiet-xuat-huong-hong-moc-lan-40ml-93833.html,Lăn Khử Mùi Refre Natural Hương Hồng Mộc Lan 40ml,90.000 ₫,50.000 ₫,18,40ml,5
+495,422211558,107562,https://hasaki.vn/san-pham/lan-khu-mui-enchanteur-sang-da-delightful-50ml-107562.html,Lăn Khử Mùi Enchanteur Sáng Da Delightful 50ml,59.000 ₫,77.000 ₫,12,50ml,1
+496,334900006,70287,https://hasaki.vn/san-pham/lan-khu-mui-refre-whitening-huong-tinh-te-40ml-70287.html,Lăn Khử Mùi Refre Whitening Perfume Hương Thanh Nhã 40ml,79.000 ₫,48.000 ₫,18,40ml,14
+497,213300028,29145,https://hasaki.vn/san-pham/serum-chong-nang-duong-the-biore-khang-bui-duong-am-sau-spf-50-pa-50ml-29145.html,Serum Chống Nắng Dưỡng Thể Bioré Dưỡng Ẩm Vượt Trội 50ml,230.000 ₫,72.000 ₫,12,50ml,38
+498,422212954,108754,https://hasaki.vn/san-pham/gel-chong-nang-biore-mang-nuoc-duong-am-huong-hoa-mau-don-90ml-108754.html,Gel Chống Nắng Bioré Màng Nước Dưỡng Ẩm Hương Hoa Mẫu Đơn 90ml,96.000 ₫,172.000 ₫,5,90ml,
+499,422211559,112711,https://hasaki.vn/san-pham/xit-khu-mui-enchanteur-huong-nuoc-hoa-delightful-150ml-112711.html,Xịt Khử Mùi Enchanteur Hương Nước Hoa Delightful 150ml,175.000 ₫,95.000 ₫,9,150ml,
+500,422207037,100225,https://hasaki.vn/san-pham/sua-tam-nuoc-hoa-tesori-d-oriente-hoang-gia-yemen-250ml-100225.html,Sữa Tắm Nước Hoa Tesori d'Oriente Hoàng Gia Yemen 250ml,72.000 ₫,169.000 ₫,5,250ml,9
+501,206500005,87183,https://hasaki.vn/san-pham/lan-khu-mui-cho-nam-old-spice-pure-sport-85g-87183.html,Sáp Khử Mùi Old Spice Hương Pure Sport Năng Động 85g (Trắng),170.000 ₫,167.000 ₫,5,85g,
+502,393800038,88295,https://hasaki.vn/san-pham/kem-duong-da-tay-frudia-chiet-xuat-cam-quyt-30ml-88295.html,Kem Dưỡng Da Tay Frudia Chiết Xuất Cam Quýt 30ml,175.000 ₫,49.000 ₫,17,30ml,33
+503,422210413,105729,https://hasaki.vn/san-pham/sua-tam-jmella-huong-vai-va-hue-trang-phuong-dong-500ml-105729.html,Sữa Tắm Jmella Hương Vải Và Huệ Trắng Phương Đông 500ml,418.000 ₫,119.000 ₫,7,500ml,
+504,422211635,107612,https://hasaki.vn/san-pham/dau-tam-goi-romano-2-trong-1-danh-cho-nam-force-650g-107612.html,Tắm Gội 2 Trong 1 Romano Hương Nước Hoa Force 650g,115.000 ₫,144.000 ₫,6,650g,
+505,422209693,104287,https://hasaki.vn/san-pham/combo-2-sua-tam-goi-nerman-huong-nuoc-hoa-cao-cap-350mlx2-104287.html,Combo 2 Sữa Tắm Gội Nerman Hương Nước Hoa Cao Cấp 350ml,184.000 ₫,401.000 ₫,2,2x350ml,1
+506,422212525,108096,https://hasaki.vn/san-pham/mini-dung-dich-ve-sinh-nam-gioi-nerman-sanda-perfume-30g-108096.html,[Mini] Dung Dịch Vệ Sinh Nam Giới Nerman - Sanda Perfume 30g,220.000 ₫,40.000 ₫,20,30g,4
+507,422204025,95447,https://hasaki.vn/san-pham/xit-khu-mui-cho-nam-nivea-men-cool-kick-cool-fresh-150ml-95447.html,Xịt Khử Mùi Nivea Men Mát Lạnh Thơm Sảng Khoái 150ml,125.000 ₫,112.000 ₫,8,150ml,
+508,422209009,103025,https://hasaki.vn/san-pham/tam-goi-x-men-for-boss-intense-2in1-huong-tram-noi-luc-850g-103025.html,Tắm Gội X-Men For Boss Intense 2in1 Hương Trầm Nội Lực 850g,248.000 ₫,198.000 ₫,4,850g,
+509,393800041,88301,https://hasaki.vn/san-pham/kem-duong-da-tay-frudia-chiet-xuat-xoai-30ml-88301.html,Kem Dưỡng Da Tay Frudia Chiết Xuất Xoài 30ml,72.000 ₫,49.000 ₫,16,30ml,33
+510,378200004,82587,https://hasaki.vn/san-pham/sua-tam-hasi-kokeshi-duong-am-lam-sang-da-chiet-xuat-nha-dam-olive-600ml-82587.html,Sữa Tắm Hasi Kokeshi Nha Đam & Olive Ẩm Mịn Da 600ml,130.000 ₫,85.000 ₫,9,600ml,7
+511,422210323,105505,https://hasaki.vn/san-pham/combo-nerman-black-panther-sua-rua-mat-100g-sua-tam-goi-2in1-350g-105505.html,Combo Nerman Black Panther Sữa Tắm Gội 2in1 350g + Sữa Rửa Mặt 100g,408.000 ₫,379.000 ₫,2,2 món,
+512,422202708,93107,https://hasaki.vn/san-pham/sua-duong-the-malissa-kiss-sang-da-sweet-vanilla-226g-93107.html,Sữa Dưỡng Thể Malissa Kiss Sáng Da #Sweet Vanilla 226g,189.000 ₫,161.000 ₫,5,226g,10
+513,422203206,93759,https://hasaki.vn/san-pham/gel-tay-te-bao-chet-felina-chiet-xuat-qua-bo-300ml-93759.html,Gel Tẩy Tế Bào Chết Felina Chiết Xuất Quả Bơ 300ml,150.000 ₫,114.000 ₫,7,300ml,54
+514,206200067,86287,https://hasaki.vn/san-pham/xit-khu-mui-cho-nam-nivea-men-than-den-huong-rung-amazon-150ml-86287.html,Xịt Khử Mùi Nivea Men Than Hoạt Tính Hương Rừng 150ml,125.000 ₫,98.000 ₫,8,150ml,
+515,331300012,71129,https://hasaki.vn/san-pham/sua-tam-toan-than-curel-cap-am-chuyen-sau-420ml-71129.html,Sữa Tắm Toàn Thân Curél Cấp Ẩm Chuyên Sâu 420ml,339.000 ₫,247.000 ₫,3,420ml,
+516,422211562,112709,https://hasaki.vn/san-pham/xit-khu-mui-enchanteur-huong-nuoc-hoa-sensation-150ml-112709.html,Xịt Khử Mùi Enchanteur Hương Nước Hoa Sensation 150ml,179.000 ₫,96.000 ₫,8,150ml,
+517,422205588,98335,https://hasaki.vn/san-pham/sua-duong-the-huong-nuoc-hoa-cathy-doll-sweet-dew-150ml-98335.html,Sữa Dưỡng Thể Cathy Doll Hương Sweet Dew 150ml,169.000 ₫,162.000 ₫,5,150ml,3
+518,422205970,98563,https://hasaki.vn/san-pham/tay-da-chet-toan-than-organic-shop-hoa-hong-ngoc-trai-250ml-98563.html,Tẩy Da Chết Toàn Thân Organic Shop Hoa Hồng & Muối 250ml,169.000 ₫,89.000 ₫,8,250ml,29
+519,422201165,91583,https://hasaki.vn/san-pham/tay-da-chet-toan-than-organic-shop-huong-ca-phe-250ml-91583.html,Tẩy Da Chết Toàn Thân Organic Shop Hương Cà Phê 250ml,189.000 ₫,75.000 ₫,10,250ml,29
+520,422208827,102667,https://hasaki.vn/san-pham/duong-the-chong-nang-malissa-kiss-huong-nuoc-hoa-sweetie-200g-102667.html,Dưỡng Thể Chống Nắng Malissa Kiss Hương Nước Hoa Sweetie 200g,175.000 ₫,142.000 ₫,5,200g,5
+521,422211594,107606,https://hasaki.vn/san-pham/sua-tam-romano-huong-nuoc-hoa-attitude-650g-107606.html,Sữa Tắm Romano Hương Nước Hoa Attitude 650g,85.000 ₫,147.000 ₫,5,650g,
+522,100220050,3559,https://hasaki.vn/san-pham/muoi-tam-yoko-tay-te-bao-chet-lam-sang-da-220g-3559.html,Muối Tắm Yoko Tẩy Tế Bào Chết Làm Sáng Da 220g,193.000 ₫,69.000 ₫,10,220gr,3
+523,422209003,103013,https://hasaki.vn/san-pham/tam-goi-nuoc-hoa-x-men-wood-2in1-thom-lau-sach-sau-650g-103013.html,Tắm Gội Nước Hoa X-Men Wood 2in1 Thơm Lâu Sạch Sâu 650g,170.000 ₫,173.000 ₫,4,650g,
+524,422210660,105953,https://hasaki.vn/san-pham/tay-te-bao-chet-toan-than-milaganics-muoi-hong-himalaya-250g-105953.html,Tẩy Tế Bào Chết Toàn Thân Milaganics Muối Hồng 250g,275.000 ₫,108.000 ₫,7,250g,
+525,422207042,100239,https://hasaki.vn/san-pham/sua-tam-nuoc-hoa-tesori-d-oriente-huong-ayurveda-500ml-100239.html,Sữa Tắm Nước Hoa Tesori d'Oriente Hương Ayurveda 500ml,108.000 ₫,219.000 ₫,4,500ml,9
+526,422207451,100963,https://hasaki.vn/san-pham/xit-ngan-mui-nivea-shaveless-ngoc-trai-dep-quyen-ru-150ml-100963.html,Xịt Khử Mùi Nivea Shaveless Ngọc Trai Đẹp Quyến Rũ 150ml,124.000 ₫,97.000 ₫,7,150ml,2
+527,422203917,95159,https://hasaki.vn/san-pham/lotion-duong-the-hasi-sang-da-chiet-xuat-cam-chanh-180g-95159.html,"Lotion Dưỡng Thể Hasi Sáng Da Chiết Xuất Cam, Chanh 180g",189.000 ₫,105.000 ₫,7,180g,8
+528,422202706,93103,https://hasaki.vn/san-pham/sua-duong-the-malissa-kiss-sang-da-fresh-escape-226g-93103.html,Sữa Dưỡng Thể Malissa Kiss Sáng Da #Fresh Escape 226g,179.000 ₫,95.000 ₫,7,226g,3
+529,395200008,89221,https://hasaki.vn/san-pham/sua-tam-bouncia-tinh-chat-sua-duong-da-500ml-mau-xanh-89221.html,Sữa Tắm Cow Bouncia Sữa Bò Tươi Hương Hoa Cỏ 500ml,275.000 ₫,95.000 ₫,7,500ml,3
+530,422209386,103641,https://hasaki.vn/san-pham/sua-tam-nuoc-hoa-tesori-d-oriente-tinh-dau-macca-500ml-103641.html,Sữa Tắm Nước Hoa Tesori d'Oriente Tinh Dầu Macca 500ml,450.000 ₫,224.000 ₫,3,500ml,9
+531,422209378,103633,https://hasaki.vn/san-pham/combo-cocoon-tay-te-bao-chet-toan-than-tu-ca-phe-dak-lak-103633.html,Combo Cocoon Tẩy Da Chết Toàn Thân Từ Cà Phê Đắk Lắk,441.000 ₫,360.000 ₫,2,800ml,4
+532,331300013,71127,https://hasaki.vn/san-pham/gel-duong-toan-than-curel-cap-am-chuyen-sau-220ml-71127.html,Gel Dưỡng Toàn Thân Curél Cấp Ẩm Chuyên Sâu 220ml,115.000 ₫,264.000 ₫,3,220ml,
+533,422201793,91963,https://hasaki.vn/san-pham/sua-tam-double-rich-tuoi-sang-da-huong-hoa-anh-dao-550g-91963.html,Sữa Tắm Double Rich Blooming Love Hương Hoa Anh Đào 550g,109.000 ₫,98.000 ₫,7,550g,7
+534,422210523,105839,https://hasaki.vn/san-pham/bo-san-pham-acnes-cham-soc-mun-cho-da-kho-nhay-cam-5-mon-105839.html,"Bộ Sản Phẩm Acnes Chăm Sóc Mụn Cho Da Khô, Nhạy Cảm 5 Món",240.000 ₫,108.000 ₫,6,5 món,
+535,200400057,89399,https://hasaki.vn/san-pham/gel-tam-bioderma-diu-nhe-cho-da-thuong-kho-nhay-cam-100ml-89399.html,Gel Tắm Bioderma Dịu Nhẹ Cho Da Thường & Khô Nhạy Cảm 100ml,109.000 ₫,216.000 ₫,3,100ml,
+536,422215144,112717,https://hasaki.vn/san-pham/tam-goi-2-trong-1-romano-vip-huong-passion-650g-112717.html,Tắm Gội 2 Trong 1 Romano Vip Hương Passion 650g,440.000 ₫,196.000 ₫,4,650g,
+537,422210972,106251,https://hasaki.vn/san-pham/sap-ngan-mui-nam-nivea-men-phan-tu-bac-50ml-106251.html,Sáp Khử Mùi Nivea Men Cho Nam Phân Tử Bạc 50ml,37.000 ₫,80.000 ₫,8,50ml,
+538,397400012,85105,https://hasaki.vn/san-pham/tay-te-bao-chet-toan-than-tree-hut-chiet-xuat-vanilla-dau-monoi-510g-85105.html,Tẩy Tế Bào Chết Toàn Thân Tree Hut Vanilla & Dầu Monoi 510g,280.000 ₫,382.000 ₫,2,510g,13
+539,422202626,93793,https://hasaki.vn/san-pham/muoi-tam-argussy-ca-phe-tay-te-bao-chet-280g-93793.html,Muối Tắm Argussy Tẩy Tế Bào Chết Hương Cà Phê 280g,96.000 ₫,32.000 ₫,20,280g,8
+540,422204615,96209,https://hasaki.vn/san-pham/sua-tam-rohto-deou-lam-sach-khu-mui-cho-nam-520ml-96209.html,"Sữa Tắm Rohto Deou Làm Sạch, Khử Mùi Cho Nam 520ml",52.000 ₫,213.000 ₫,3,520ml,
+541,206200083,87483,https://hasaki.vn/san-pham/lan-khu-mui-cho-nam-nivea-than-den-hoat-tinh-huong-rung-amazon-50ml-87483.html,Lăn Khử Mùi Nivea Men Than Hoạt Tính Hương Rừng 50ml,79.000 ₫,86.000 ₫,8,50ml,
+542,249600043,89223,https://hasaki.vn/san-pham/dao-cao-kai-cho-nu-3-cai-89223.html,Dao Cạo Cho Nữ KAI Dành Cho Cơ Thể Cán Chữ T (3 Cây),22.000 ₫,49.000 ₫,13,3cái,1
+543,422208250,102637,https://hasaki.vn/san-pham/lan-khu-mui-x-men-for-boss-legend-50ml-102637.html,Lăn Khử Mùi X-Men For Boss Legend Hương Tinh Tế 50ml,218.000 ₫,63.000 ₫,10,50ml,1
+544,422205692,98159,https://hasaki.vn/san-pham/sap-duong-am-vaseline-pure-petroleum-jelly-100ml-98159.html,Sáp Dưỡng Ẩm Vaseline Pure Petroleum Jelly 100ml,550.000 ₫,104.000 ₫,6,100ml,7
+545,422206765,100421,https://hasaki.vn/san-pham/lan-khu-mui-angel-s-liquid-mo-tham-sang-da-60ml-mau-moi-100421.html,"Lăn Nách Angel’s Liquid Mờ Thâm, Sáng Da 60ml",499.000 ₫,294.000 ₫,3,60ml,23
+546,422214098,110748,https://hasaki.vn/san-pham/xit-chong-nang-the-thao-banana-boat-mat-lanh-170g-110748.html,Xịt Chống Nắng Thể Thao Banana Boat Mát Lạnh 170g,271.000 ₫,259.000 ₫,3,170g,
+547,422206954,100109,https://hasaki.vn/san-pham/tay-da-chet-co-the-cocoon-duong-thot-not-an-giang-200ml-100109.html,Tẩy Da Chết Toàn Thân Cocoon Đường Thốt Nốt An Giang 200ml,165.000 ₫,140.000 ₫,5,200ml,2
+548,422209662,104245,https://hasaki.vn/san-pham/bo-sua-tam-va-duong-the-de-memoria-huong-vanilla-on-mars-2x300ml-104245.html,Bộ Sữa Tắm Và Dưỡng Thể De Memoria Hương Vanilla On Mars 2x300ml,1.100.000 ₫,590.000 ₫,1,2x300ml,
+549,422209660,104247,https://hasaki.vn/san-pham/bo-sua-tam-va-duong-the-de-memoria-huong-jasmine-on-moon-2x300ml-104247.html,Bộ Sữa Tắm Và Dưỡng Thể De Memoria Hương Jasmine On Moon 2x300ml,1.100.000 ₫,589.000 ₫,1,2x300ml,
+550,422211566,107568,https://hasaki.vn/san-pham/sap-khu-mui-enchanteur-sang-da-sensation-40g-107568.html,Sáp Khử Mùi Enchanteur Sáng Da Sensation 40g,84.000 ₫,72.000 ₫,8,40g,
+551,422216481,114687,https://hasaki.vn/san-pham/combo-goi-xa-ogx-hoa-anh-dao-385ml-chai-sua-tam-johnson-s-adult-hanh-nhan-750ml-114687.html,Combo Gội & Xả OGX Hoa Anh Đào (385ml/ Chai) + Sữa Tắm Johnson's Adult Hạnh Nhân 750ml,761.000 ₫,757.000 ₫,1,3 món,
+552,422205418,97699,https://hasaki.vn/san-pham/tay-te-bao-chet-toan-than-nuxe-cho-da-kho-nhay-cam-175ml-97699.html,"Tẩy Tế Bào Chết Toàn Thân Nuxe Cho Da Khô, Nhạy Cảm 175ml",665.000 ₫,599.000 ₫,1,175ml,
+553,318300002,65516,https://hasaki.vn/san-pham/bong-bot-bien-tay-te-bao-chet-mira-suri-e279-65516.html,Bông Bọt Biển Tẩy Tế Bào Chết Mira Suri E279,79.000 ₫,43.000 ₫,13,1 miếng,6
+554,422208248,102633,https://hasaki.vn/san-pham/lan-khu-mui-x-men-for-boss-motion-nang-dong-tuoi-mat-50ml-102633.html,Lăn Khử Mùi X-Men For Boss Motion Năng Động Tươi Mát 50ml,359.000 ₫,62.000 ₫,9,50ml,1
+555,422208142,102105,https://hasaki.vn/san-pham/duong-the-organic-shop-chiet-xuat-sua-chuoi-450ml-102105.html,Dưỡng Thể Organic Shop Chiết Xuất Sữa Chuối 450ml,159.000 ₫,276.000 ₫,2,450ml,
+556,422208940,102903,https://hasaki.vn/san-pham/sua-tam-double-rich-duong-da-sang-hong-huong-hoa-lily-800g-102903.html,Sữa Tắm Double Rich White Purity Hương Hoa Lily 800g,670.000 ₫,134.000 ₫,5,800g,7
+557,422204595,96079,https://hasaki.vn/san-pham/bo-san-pham-la-roche-posay-giam-mun-kiem-soat-dau-2-mon-96079.html,Combo La Roche-Posay Chống Nắng Kiềm Dầu + Gel Rửa Mặt & Tắm,129.000 ₫,550.000 ₫,1,2 món,
+558,422207496,101089,https://hasaki.vn/san-pham/kem-duong-da-tay-kissme-cho-tre-em-huong-cam-chanh-60g-101089.html,Kem Dưỡng Da Tay Kissme Cho Trẻ Em Hương Cam Chanh 60g,129.000 ₫,116.000 ₫,5,60g,1
+559,422207495,101087,https://hasaki.vn/san-pham/kem-duong-da-tay-kissme-cho-tre-em-khong-mui-60g-101087.html,Kem Dưỡng Da Tay Kissme Cho Trẻ Em Không Mùi 60g,140.000 ₫,103.000 ₫,6,60g,1
+560,422202917,93419,https://hasaki.vn/san-pham/muoi-tam-tay-te-bao-chet-felina-tinh-dau-dua-500g-93419.html,Muối Tắm Tẩy Tế Bào Chết Felina Tinh Dầu Dừa 500g,200.000 ₫,109.000 ₫,5,500g,162
+561,422203710,95095,https://hasaki.vn/san-pham/lan-khu-mui-perspi-rock-tu-nhien-chiet-xuat-lo-hoi-50ml-95095.html,Lăn Khử Mùi Perspi-Rock Tự Nhiên Chiết Xuất Lô Hội 50ml,111.000 ₫,109.000 ₫,5,50ml,
+562,422203823,97509,https://hasaki.vn/san-pham/sua-tam-hazeline-tay-da-chet-sang-da-cam-yuzu-cherry-moi-900g-97509.html,Sữa Tắm Hazeline Cam Yuzu & Cherry Sáng Mịn Sạch Sâu 900g,72.000 ₫,90.000 ₫,6,900g,
+563,393800043,88305,https://hasaki.vn/san-pham/kem-duong-da-tay-frudia-chiet-xuat-chanh-day-30ml-88305.html,Kem Dưỡng Da Tay Frudia Chiết Xuất Chanh Dây 30ml,355.000 ₫,49.000 ₫,11,30ml,33
+564,201600037,37959,https://hasaki.vn/san-pham/xit-khu-mui-giau-khoang-vichy-giup-vung-da-duoi-canh-tay-kho-thoang-125ml-37959.html,Xịt Khử Mùi Vichy Giữ Khô Thoáng Suốt 48 Giờ 125ml,43.000 ₫,267.000 ₫,2,125ml,4
+565,422202437,92961,https://hasaki.vn/san-pham/dao-cao-nu-gillette-venus-simply-2-basic-2-luoi-vi-4-cay-92961.html,Dao Cạo Cho Nữ Gillette Venus Simply 2 Basic 2 Lưỡi (4 Cây),350.000 ₫,38.000 ₫,14,4cái,1
+566,422207859,101915,https://hasaki.vn/san-pham/kem-duong-emmie-lam-sang-da-huong-peachy-love-230g-101915.html,Kem Dưỡng Emmié Làm Sáng Da Hương Peachy Love 230g,179.000 ₫,280.000 ₫,2,230g,
+567,422214697,111751,https://hasaki.vn/san-pham/sua-tam-parisian-nuoc-hoa-nu-lux-for-her-480g-111751.html,Sữa Tắm Parisian Nước Hoa Nữ - Lux For Her 480g,179.000 ₫,129.000 ₫,4,480g,9
+568,422205589,98339,https://hasaki.vn/san-pham/sua-duong-the-huong-nuoc-hoa-cathy-doll-red-rule-150ml-98339.html,Sữa Dưỡng Thể Cathy Doll Hương Nước Hoa Red Rule 150ml,84.000 ₫,162.000 ₫,4,150ml,3
+569,422211564,107564,https://hasaki.vn/san-pham/sap-khu-mui-enchanteur-sang-da-romantic-40g-107564.html,Sáp Khử Mùi Enchanteur Sáng Da Romantic 40g,86.000 ₫,72.000 ₫,7,40g,
+570,100080040,3206,https://hasaki.vn/san-pham/lan-khu-mui-cho-nam-nivea-men-phan-tu-bac-khang-khuan-50ml-3206.html,Lăn Khử Mùi Nivea Men Phân Tử Bạc Kháng Khuẩn 50ml,249.000 ₫,55.000 ₫,9,50ml,
+571,422208306,102411,https://hasaki.vn/san-pham/kem-duong-toan-than-felina-sang-da-tu-re-nhan-sam-250g-102411.html,Kem Dưỡng Toàn Thân Felina Sáng Da Từ Rễ Nhân Sâm 250g,65.000 ₫,247.000 ₫,2,250g,21
+572,422211577,107626,https://hasaki.vn/san-pham/lan-khu-mui-romano-huong-nuoc-hoa-force-50ml-107626.html,Lăn Khử Mùi Romano Hương Nước Hoa Force 50ml,378.000 ₫,51.000 ₫,10,50ml,1
+573,422215743,113603,https://hasaki.vn/san-pham/combo-gennie-nuoc-hoa-sua-tam-little-black-dress-50ml-450ml-113603.html,Combo Gennie Nước Hoa + Sữa Tắm Little Black Dress 50ml + 450ml,129.000 ₫,189.000 ₫,3,2 món,1
+574,422212388,107976,https://hasaki.vn/san-pham/kem-tam-tay-te-bao-chet-felina-chiet-xuat-bo-200g-107976.html,Kem Tắm Tẩy Tế Bào Chết Felina Chiết Xuất Bơ 200g,169.000 ₫,97.000 ₫,5,200g,1
+575,422207279,100669,https://hasaki.vn/san-pham/xa-phong-tam-pelican-danh-cho-vung-nguc-70g-100669.html,Xà Phòng Tắm Pelican Dành Cho Vùng Ngực 70g,169.000 ₫,119.000 ₫,4,135g,
+576,422205965,98553,https://hasaki.vn/san-pham/tay-da-chet-toan-than-organic-shop-huong-cam-250ml-98553.html,"Tẩy Da Chết Toàn Thân Organic Shop Từ Cam, Đường 250ml",64.000 ₫,79.000 ₫,6,250ml,29
+577,100220061,3566,https://hasaki.vn/san-pham/muoi-tam-tay-te-bao-chet-yoko-huong-sua-bo-300g-3566.html,Muối Tắm Tẩy Tế Bào Chết Yoko Hương Sữa Bò 300g,190.000 ₫,59.000 ₫,8,300gr,6
+578,206400003,64952,https://hasaki.vn/san-pham/sua-tam-duong-da-chong-lao-hoa-olay-650ml-64952.html,Sữa Tắm Olay Ngăn Ngừa Lão Hoá Với Vitamin E 650ml,189.000 ₫,189.000 ₫,3,650ml,9
+579,422205503,97803,https://hasaki.vn/san-pham/sua-duong-the-malissa-kiss-sang-da-adore-you-226g-97803.html,Sữa Dưỡng Thể Malissa Kiss Sáng Da #Adore You 226g,150.000 ₫,141.000 ₫,4,226g,2
+580,422204621,96219,https://hasaki.vn/san-pham/sua-tam-st-ives-chiet-xuat-muoi-bien-lam-sach-sau-473ml-96219.html,Sữa Tắm St.Ives Tẩy Tế Bào Chết Muối Biển & Tảo Bẹ 473ml,249.000 ₫,137.000 ₫,4,473ml,14
+581,422209203,103371,https://hasaki.vn/san-pham/gel-tam-tinh-dau-felina-oliu-hanh-nhan-800ml-103371.html,Gel Tắm Tinh Dầu Felina Oliu & Hạnh Nhân 800ml,186.000 ₫,225.000 ₫,2,800ml,44
+582,422209914,104607,https://hasaki.vn/san-pham/combo-cerave-sua-rua-mat-cho-da-kho-88ml-sua-duong-the-cho-da-kho-20ml-104607.html,Combo CeraVe Sữa Rửa Mặt Cho Da Khô 88ml + Sữa Dưỡng Thể Cho Da Khô 20ml,245.000 ₫,145.000 ₫,3,88ml + 20ml,3
+583,100120059,3068,https://hasaki.vn/san-pham/sua-tam-purite-thu-gian-tinh-dau-huong-thom-aroma-850ml-3068.html,Sữa Tắm Purité Thư Giãn Tinh Dầu Hương Thơm Aroma 850ml,159.000 ₫,198.000 ₫,3,850ml,12
+584,422202915,93423,https://hasaki.vn/san-pham/muoi-tam-tay-te-bao-chet-felina-tu-cam-yuzu-500g-93423.html,Muối Tắm Tẩy Tế Bào Chết Felina Từ Cam Yuzu 500g,140.000 ₫,109.000 ₫,4,500g,162
+585,422202914,93425,https://hasaki.vn/san-pham/tay-te-bao-chet-felina-dang-muoi-tu-hoa-oai-huong-500g-93425.html,Muối Tắm Tẩy Tế Bào Chết Felina Từ Hoa Oải Hương 500g,140.000 ₫,109.000 ₫,4,500g,162
+586,422202913,93427,https://hasaki.vn/san-pham/muoi-tam-tay-te-bao-chet-felina-tu-lo-hoi-500g-93427.html,Muối Tắm Tẩy Tế Bào Chết Felina Từ Lô Hội 500g,140.000 ₫,109.000 ₫,4,500g,162
+587,422200163,90055,https://hasaki.vn/san-pham/sua-tam-purite-giup-thu-gian-chiet-xuat-hoa-mau-don-850ml-90055.html,Sữa Tắm Purité Thư Giãn Da Hương Hoa Mẫu Đơn 850ml,245.000 ₫,217.000 ₫,2,850ml,12
+588,422216020,114083,https://hasaki.vn/san-pham/combo-dau-goi-tsubaki-duong-bong-muot-490ml-sua-tam-senka-hoa-tuoi-mat-500ml-114083.html,Combo Dầu Gội Tsubaki Dưỡng Bóng Mượt 490ml + Sữa Tắm Senka Hoa Tươi Mát 500ml,413.000 ₫,297.000 ₫,2,490ml + 500ml,209
+589,422210419,105717,https://hasaki.vn/san-pham/sua-duong-the-jmella-huong-chanh-va-hung-que-tuoi-mat-500ml-105717.html,Sữa Dưỡng Thể Jmella Hương Chanh Và Húng Quế Tươi Mát 500ml,190.000 ₫,133.000 ₫,3,500ml,2
+590,422210038,104887,https://hasaki.vn/san-pham/bo-san-pham-oxy-lam-sach-sau-giam-nhon-kem-rua-mat-100g-sua-tam-500g-tang-dau-goi-180g-104887.html,"Bộ Sản Phẩm OXY Làm Sạch Sâu, Giảm Nhờn (Kem Rửa Mặt 100g + Sữa Tắm 500g + Tặng Dầu Gội 180g)",220.000 ₫,198.000 ₫,2,3 món,
+591,422207634,101221,https://hasaki.vn/san-pham/tay-te-bao-chet-toan-than-milaganics-tu-ca-phe-200g-moi-101221.html,Tẩy Tế Bào Chết Toàn Thân Milaganics Từ Cà Phê 200g (Mới),199.000 ₫,129.000 ₫,3,200g,
+592,422205667,98113,https://hasaki.vn/san-pham/gel-tam-old-spice-huong-tuoi-mat-va-song-dong-532ml-98113.html,Gel Tắm Old Spice Hương Tươi Mát Và Sống Động 532ml,152.000 ₫,139.000 ₫,3,532ml,
+593,200900012,8434,https://hasaki.vn/san-pham/sua-tam-cetaphil-duong-am-da-cho-be-230ml-8434.html,Sữa Tắm Cetaphil Dưỡng Ẩm Dịu Lành Cho Bé 230ml,225.000 ₫,189.000 ₫,2,230ml,1
+594,422211808,107277,https://hasaki.vn/san-pham/gift-sample-sua-tam-nuoc-hoa-tesori-d-oriente-goi-7ml-107277.html,[Mini] 1 Gói Sữa Tắm Nước Hoa Tesori d'Oriente 7ml (Mùi Ngẫu Nhiên),48.000 ₫,15.000 ₫,25,7ml,2
+595,252500001,14614,https://hasaki.vn/san-pham/kem-bo-tay-long-cleo-cho-da-thuong-25g-14614.html,Kem Tẩy Lông Cléo Dành Cho Da Thường 25g,218.000 ₫,41.000 ₫,9,25g,15
+596,422208245,102629,https://hasaki.vn/san-pham/tam-goi-x-men-for-boss-intense-2in1-huong-tram-noi-luc-650g-102629.html,Tắm Gội X-Men For Boss Intense 2in1 Hương Trầm Nội Lực 650g,189.000 ₫,178.000 ₫,2,650g,
+597,422205975,98543,https://hasaki.vn/san-pham/sua-duong-the-nivea-radiant-smooth-duong-da-sang-min-600ml-98543.html,Sữa Dưỡng Thể Nivea Mịn Mượt Sáng Da Ban Ngày 550ml,96.000 ₫,183.000 ₫,2,550ml,29
+598,422216343,114739,https://hasaki.vn/san-pham/sua-tam-daiichi-sekken-purefeel-huong-ma-tien-thao-450ml-114739.html,Sữa Tắm Daiichi Sekken Purefeel Hương Mã Tiên Thảo 450ml,169.000 ₫,175.000 ₫,2,450ml,
+599,422211561,112707,https://hasaki.vn/san-pham/xit-khu-mui-enchanteur-huong-nuoc-hoa-romantic-150ml-112707.html,Xịt Khử Mùi Enchanteur Hương Nước Hoa Romantic 150ml,72.000 ₫,95.000 ₫,4,150ml,
+600,422201166,91593,https://hasaki.vn/san-pham/tay-da-chet-toan-than-organic-shop-huong-mat-ong-que-250ml-91593.html,Tẩy Da Chết Toàn Thân Organic Shop Hương Mật Ong Quế 250ml,107.000 ₫,109.000 ₫,4,250ml,29
+601,393800042,88303,https://hasaki.vn/san-pham/kem-duong-da-tay-frudia-chiet-xuat-mang-cut-30ml-88303.html,Kem Dưỡng Da Tay Frudia Chiết Xuất Măng Cụt 30ml,182.000 ₫,49.000 ₫,7,30ml,12
+602,422210454,105631,https://hasaki.vn/san-pham/xa-phong-milaganics-thao-moc-tra-xanh-100g-105631.html,Xà Phòng Milaganics Thảo Mộc Trà Xanh 100g,21.500 ₫,68.000 ₫,5,100g,1
+603,378200010,82591,https://hasaki.vn/san-pham/sua-tam-hasi-kokeshi-duong-am-lam-sang-da-chiet-xuat-sua-bo-ngoc-trai-950ml-82591.html,Sữa Tắm Hasi Kokeshi Sữa Bò & Ngọc Trai Sáng Mịn Da 950ml,92.000 ₫,154.000 ₫,3,950ml,7
+604,209600039,83897,https://hasaki.vn/san-pham/dao-cao-nu-gillette-daisy-goi-2-cay-83897.html,Dao Cạo Nữ Gillette Daisy (Gói 2 Cây),92.000 ₫,20.500 ₫,16,2 cây,1
+605,422207453,100967,https://hasaki.vn/san-pham/lan-ngan-mui-nivea-shaveless-ngoc-trai-dep-quyen-ru-50ml-100967.html,Lăn Khử Mùi Nivea Shaveless Ngọc Trai Đẹp Quyến Rũ 50ml,432.000 ₫,81.000 ₫,5,50ml,
+606,422206496,99375,https://hasaki.vn/san-pham/lan-ngan-mui-nivea-happy-shave-sang-min-lam-diu-da-50ml-99375.html,Lăn Khử Mùi Nivea Happy Shave Sáng Mịn Làm Dịu Da 50ml,199.000 ₫,89.000 ₫,4,50ml,
+607,422216195,114283,https://hasaki.vn/san-pham/combo-2-serum-chong-nang-duong-the-biore-sang-da-min-mang-150ml-114283.html,Combo 2 Serum Chống Nắng Dưỡng Thể Bioré Sáng Da Mịn Màng 150ml,159.000 ₫,336.000 ₫,1,2x150ml,38
+608,422211961,107443,https://hasaki.vn/san-pham/sua-tam-on-the-body-duong-am-huong-hoa-dien-vi-900g-107443.html,Sữa Tắm On: The Body Dưỡng Ẩm Hương Hoa Diên Vĩ 900g,440.000 ₫,160.000 ₫,2,900g,
+609,422205830,98395,https://hasaki.vn/san-pham/sua-tam-nuoc-hoa-gennie-cuon-hut-va-an-tuong-450ml-98395.html,Sữa Tắm Nước Hoa Nữ Gennie Cuốn Hút & Ấn Tượng 450ml,440.000 ₫,104.000 ₫,4,Black,7
+610,397400001,85099,https://hasaki.vn/san-pham/tay-te-bao-chet-toan-than-tree-hut-chiet-xuat-dua-chanh-510g-85099.html,Tẩy Tế Bào Chết Toàn Thân Tree Hut Dừa & Chanh 510g,199.000 ₫,351.000 ₫,1,510g,13
+611,422209330,103595,https://hasaki.vn/san-pham/tay-te-bao-chet-toan-than-tree-hut-hoa-exotic-bloom-510g-103595.html,Tẩy Tế Bào Chết Toàn Thân Tree Hut Hoa Exotic Bloom 510g,199.000 ₫,382.000 ₫,1,510g,13
+612,422211960,107439,https://hasaki.vn/san-pham/sua-tam-on-the-body-duong-am-huong-hoa-anh-dao-900g-107439.html,Sữa Tắm On: The Body Dưỡng Ẩm Hương Hoa Anh Đào 900g,189.000 ₫,160.000 ₫,2,900g,
+613,309300067,61003,https://hasaki.vn/san-pham/sua-tam-sang-da-cathy-doll-chiet-xuat-ngoc-trai-hoa-hong-500ml-61003.html,Sữa Tắm Cathy Doll Chiết Xuất Ngọc Trai & Hoa Hồng 500ml,189.000 ₫,159.000 ₫,2,500ml,2
+614,399200002,85471,https://hasaki.vn/san-pham/xa-phong-baresoul-lam-giam-mun-mo-tham-100g-85471.html,"Xà Phòng BareSoul Làm Giảm Mụn, Mờ Thâm 100g",179.000 ₫,155.000 ₫,2,100g,6
+615,422209000,103007,https://hasaki.vn/san-pham/sua-tam-x-men-nuoc-hoa-fire-thom-lau-sach-sau-650g-103007.html,Sữa Tắm X-Men Nước Hoa Fire Thơm Lâu Sạch Sâu 650g,41.000 ₫,154.000 ₫,2,650g,
+616,422209002,103011,https://hasaki.vn/san-pham/sua-tam-x-men-nuoc-hoa-wood-thom-lau-sach-sau-650g-103011.html,Sữa Tắm X-Men Nước Hoa Wood Thơm Lâu Sạch Sâu 650g,380.000 ₫,154.000 ₫,2,650g,
+617,422203788,94913,https://hasaki.vn/san-pham/tay-da-chet-felina-hat-ca-phe-tinh-dau-dua-dang-kem-220g-94913.html,Kem Tắm Tẩy Tế Bào Chết Felina Cà Phê & Tinh Dầu Dừa 220g,550.000 ₫,102.000 ₫,3,220g,45
+618,422207816,101491,https://hasaki.vn/san-pham/bot-yen-mach-milaganics-ngan-ngua-lao-hoa-mun-90g-hu-101491.html,Bột Yến Mạch Milaganics Ngăn Ngừa Lão Hóa & Mụn 90g (Hũ),387.000 ₫,17.000 ₫,18,90g,2
+619,422209377,103631,https://hasaki.vn/san-pham/combo-cocoon-tay-te-bao-chet-toan-than-xit-tham-mun-lung-103631.html,Combo Cocoon Tẩy Da Chết Toàn Thân & Xịt Thâm Mụn Lưng,72.000 ₫,304.000 ₫,1,2 món,
+620,393800044,88307,https://hasaki.vn/san-pham/kem-duong-da-tay-frudia-chiet-xuat-trai-thom-30ml-88307.html,Kem Dưỡng Da Tay Frudia Chiết Xuất Trái Thơm 30ml,72.000 ₫,49.000 ₫,6,30ml,33
+621,422201820,91931,https://hasaki.vn/san-pham/tay-da-chet-toan-than-treaclemoon-huong-du-du-225ml-91931.html,Tẩy Da Chết Toàn Thân Treaclemoon Hương Đu Đủ 225ml,170.000 ₫,145.000 ₫,2,225ml,8
+622,422214338,111053,https://hasaki.vn/san-pham/kem-chong-nang-australis-watermelon-pho-rong-bao-ve-da-125ml-111053.html,Kem Chống Nắng Australis Phổ Rộng Hương Dưa Hấu 125ml,363.000 ₫,289.000 ₫,1,125ml,11
+623,422209252,103487,https://hasaki.vn/san-pham/sua-duong-the-vaseline-ngan-ngua-lao-hoa-200ml-moi-103487.html,Sữa Dưỡng Thể Vaseline Ngăn Ngừa Lão Hoá 200ml (Mới),98.000 ₫,82.000 ₫,4,200ml,14
+624,367400003,84751,https://hasaki.vn/san-pham/white-conc-body-lotion-245ml-84751.html,Xịt Dưỡng Sáng Da Toàn Thân WHITE CONC 245ml,350.000 ₫,280.000 ₫,1,245ml,
+625,422205643,98089,https://hasaki.vn/san-pham/sua-tam-on-the-body-cap-am-sang-da-sensual-bouquet-600g-98089.html,"Sữa Tắm On: The Body Cấp Ẩm, Sáng Da Sensual Bouquet 600g",380.000 ₫,277.000 ₫,1,600g,2
+626,422208140,102101,https://hasaki.vn/san-pham/duong-the-organic-shop-chiet-xuat-hanh-nhan-mat-ong-450ml-102101.html,Dưỡng Thể Organic Shop Chiết Xuất Hạnh Nhân & Mật Ong 450ml,359.000 ₫,276.000 ₫,1,450ml,
+627,422208143,102107,https://hasaki.vn/san-pham/duong-the-organic-shop-chiet-xuat-vanilla-450ml-102107.html,Dưỡng Thể Organic Shop Chiết Xuất Vanilla 450ml,359.000 ₫,276.000 ₫,1,450ml,
+628,422207199,100531,https://hasaki.vn/san-pham/sua-tam-malissa-kiss-huong-nuoc-hoa-adore-you-350ml-100531.html,Sữa Tắm Malissa Kiss Hương Nước Hoa #Adore You 350ml,219.000 ₫,131.000 ₫,3,350ml,2
+629,422210313,105491,https://hasaki.vn/san-pham/combo-nerman-dung-dich-ve-sinh-nam-sauvage-perfume-xit-thom-mieng-105491.html,Combo Nerman Dung Dịch Vệ Sinh Nam Sauvage Perfume + Xịt Thơm Miệng,278.000 ₫,269.000 ₫,1,2 món,
+630,422207858,101917,https://hasaki.vn/san-pham/sua-tam-emmie-dat-set-ngua-mun-huong-wild-iris-250ml-101917.html,Sữa Tắm Emmié Đất Sét Ngừa Mụn Hương Wild Iris 250ml,180.000 ₫,145.000 ₫,2,250ml,
+631,422215146,112715,https://hasaki.vn/san-pham/xit-khu-mui-romano-vip-huong-vision-150ml-112715.html,Xịt Khử Mùi Romano Vip Hương Vision 150ml,117.000 ₫,116.000 ₫,3,150ml,
+632,422205968,98559,https://hasaki.vn/san-pham/tay-da-chet-toan-than-organic-shop-huong-tre-250ml-98559.html,Tẩy Da Chết Toàn Thân Organic Shop Từ Tre Và Muối Biển 250ml,169.000 ₫,89.000 ₫,3,250ml,29
+633,422207734,101387,https://hasaki.vn/san-pham/gel-nha-dam-milaganics-duong-am-lam-mem-da-270ml-moi-101387.html,Gel Nha Đam Milaganics Dưỡng Ẩm & Làm Mềm Da 270ml (Mới),141.000 ₫,89.000 ₫,3,270ml,
+634,422206120,98735,https://hasaki.vn/san-pham/gel-tam-camay-paris-huong-oai-huong-500ml-98735.html,Gel Tắm Camay Paris Hương Oải Hương 500ml,99.000 ₫,89.000 ₫,3,500ml,1
+635,422211593,107604,https://hasaki.vn/san-pham/sua-tam-romano-huong-nuoc-hoa-force-650g-107604.html,Sữa Tắm Romano Hương Nước Hoa Force 650g,175.000 ₫,136.000 ₫,2,650g,
+636,422204847,97121,https://hasaki.vn/san-pham/sua-tam-lux-botanicals-huong-lan-tien-tram-tra-530g-97121.html,Sữa Tắm Lux Botanicals Hương Lan Tiên & Tràm Trà 530g,136.000 ₫,128.000 ₫,2,530g,
+637,422206613,99653,https://hasaki.vn/san-pham/sua-tam-oxy-tac-dong-sau-danh-cho-nam-180ml-99653.html,Sữa Tắm Oxy Tác Động Sâu Dành Cho Nam 180ml,74.000 ₫,63.000 ₫,4,180ml,1
+638,422203918,95161,https://hasaki.vn/san-pham/lotion-duong-the-hasi-sang-da-tu-nha-dam-dua-leo-180g-95161.html,Lotion Dưỡng Thể Hasi Sáng Da Từ Nha Đam & Dưa Leo 180g,124.000 ₫,82.000 ₫,3,180g,8
+639,422208033,101865,https://hasaki.vn/san-pham/tinh-chat-duong-the-nivea-vitamin-super-c-sang-da-180ml-101865.html,Tinh Chất Dưỡng Thể Nivea Vitamin Super C+ Sáng Da 180ml,162.000 ₫,127.000 ₫,2,180ml,3
+640,422210321,105501,https://hasaki.vn/san-pham/sua-tam-goi-nerman-2in1-black-panther-huong-nuoc-hoa-350g-105501.html,Sữa Tắm Gội Nerman 2in1 Black Panther Hương Nước Hoa 350g,249.000 ₫,239.000 ₫,1,350g,
+641,422208137,102095,https://hasaki.vn/san-pham/duong-the-organic-shop-tu-hoa-sen-va-5-loai-tinh-dau-250ml-102095.html,Dưỡng Thể Organic Shop Từ Hoa Sen Và 5 Loại Tinh Dầu 250ml,169.000 ₫,119.000 ₫,2,250ml,3
+642,395200009,89235,https://hasaki.vn/san-pham/sua-tam-bouncia-milky-body-soap-huong-hoa-co-550ml-89235.html,Sữa Tắm Cow Bouncia Hương Hoa Cỏ 550ml,169.000 ₫,119.000 ₫,2,550ml,
+643,422201013,91109,https://hasaki.vn/san-pham/sua-tam-on-the-body-huong-viet-quat-dau-rung-500g-91109.html,Sữa Tắm On: The Body Hương Việt Quất & Dâu Rừng 500g,139.000 ₫,115.000 ₫,2,500g,3
+644,422205573,97895,https://hasaki.vn/san-pham/sua-tam-va-goi-cetaphil-tu-hoa-cuc-diu-nhe-cho-be-230ml-97895.html,Sữa Tắm Gội Cetaphil Dịu Lành Cho Bé Tinh Chất Hoa Cúc 230ml,240.000 ₫,229.000 ₫,1,230ml,3
+645,422211154,106493,https://hasaki.vn/san-pham/sua-tam-olay-tuoi-mat-dai-lau-voi-hoa-lan-qua-ly-364ml-106493.html,Sữa Tắm Olay Tươi Mát Dài Lâu Với Hoa Lan & Quả Lý 364ml,125.000 ₫,115.000 ₫,2,364ml,9
+646,206200068,86289,https://hasaki.vn/san-pham/xit-ngan-mui-cho-nam-nivea-than-den-hoat-tinh-150ml-86289.html,Xịt Khử Mùi Nivea Men Than Đen Hương Gỗ Đen 150ml,129.000 ₫,121.000 ₫,2,150ml,
+647,422211697,107057,https://hasaki.vn/san-pham/kem-tam-tay-te-bao-chet-felina-ca-phe-tinh-chat-sua-220g-107057.html,Kem Tắm Tẩy Tế Bào Chết Felina Cà Phê & Tinh Chất Sữa 220g,230.000 ₫,103.000 ₫,2,220g,45
+648,422204765,96367,https://hasaki.vn/san-pham/dau-duong-bio-oil-cham-soc-da-tu-thien-nhien-60ml-96367.html,Dầu Dưỡng Bio-Oil Chăm Sóc Da Từ Thiên Nhiên 60ml,280.000 ₫,229.000 ₫,1,60ml,
+649,422212823,108622,https://hasaki.vn/san-pham/gift-sua-tam-hat-on-the-body-huong-hoa-hong-muoi-bien-400g-108622.html,Sữa Tắm Hạt On: The Body Hương Hoa Hồng & Muối Biển 400g,125.000 ₫,199.000 ₫,1,400g,
+650,206200084,87485,https://hasaki.vn/san-pham/xit-khu-mui-cho-nam-nivea-men-than-hoat-tinh-huong-espresso-150ml-87485.html,Xịt Khử Mùi Nivea Men Than Hoạt Tính Hương Espresso 150ml,46.000 ₫,99.000 ₫,2,150ml,
+651,422204958,96953,https://hasaki.vn/san-pham/kem-tay-long-veet-silk-fresh-danh-cho-da-thuong-25g-96953.html,Kem Tẩy Lông Veet Silk & Fresh Dành Cho Da Thường 25g,179.000 ₫,38.000 ₫,5,25g,2
+652,395200007,89219,https://hasaki.vn/san-pham/sua-tam-bouncia-tinh-chat-sua-duong-da-500ml-mau-hong-89219.html,Sữa Tắm Cow Bouncia Sữa Bò Tươi Hương Hoa Hồng 500ml,169.000 ₫,95.000 ₫,2,500ml,3
+653,422205966,98555,https://hasaki.vn/san-pham/tay-da-chet-toan-than-organic-shop-tao-va-muoi-bien-250ml-98555.html,Tẩy Da Chết Toàn Thân Organic Shop Tảo Và Muối Biển 250ml,409.000 ₫,89.000 ₫,2,250ml,29
+654,422216342,114737,https://hasaki.vn/san-pham/sua-tam-daiichi-sekken-purefeel-huong-hoa-trang-450ml-114737.html,Sữa Tắm Daiichi Sekken Purefeel Hương Hoa Trắng 450ml,182.000 ₫,175.000 ₫,1,450ml,
+655,422207939,101729,https://hasaki.vn/san-pham/tay-te-bao-chet-toan-than-beauty-buffet-huong-bo-350ml-101729.html,Tẩy Tế Bào Chết Toàn Thân Beauty Buffet Hương Bơ 350ml,99.000 ₫,166.000 ₫,1,350ml,4
+656,378200011,82593,https://hasaki.vn/san-pham/sua-tam-hasi-kokeshi-duong-am-lam-sang-da-chiet-xuat-nha-dam-olive-950ml-82593.html,Sữa Tắm Hasi Kokeshi Nha Đam & Olive Ẩm Mịn Da 950ml,169.000 ₫,154.000 ₫,2,950ml,7
+657,422207932,101761,https://hasaki.vn/san-pham/muoi-tam-beauty-buffet-tay-te-bao-chet-toan-than-300g-101761.html,Muối Tắm Beauty Buffet Tẩy Tế Bào Chết Toàn Thân 300g,179.000 ₫,55.000 ₫,3,300g,1
+658,422211962,107441,https://hasaki.vn/san-pham/sua-tam-on-the-body-duong-am-huong-hoa-hong-damask-900g-107441.html,Sữa Tắm On: The Body Dưỡng Ẩm Hương Hoa Hồng Damask 900g,199.000 ₫,160.000 ₫,1,900g,
+659,422201167,91591,https://hasaki.vn/san-pham/tay-da-chet-toan-than-organic-shop-huong-du-du-250ml-91591.html,Tẩy Da Chết Toàn Thân Organic Shop Hương Đu Đủ 250ml,138.000 ₫,99.000 ₫,2,250ml,29
+660,422212389,107974,https://hasaki.vn/san-pham/kem-tam-tay-te-bao-chet-felina-chiet-xuat-bo-400g-107974.html,Kem Tắm Tẩy Tế Bào Chết Felina Chiết Xuất Bơ 400g,209.000 ₫,156.000 ₫,1,400g,1
+661,422207200,100529,https://hasaki.vn/san-pham/sua-tam-malissa-kiss-huong-nuoc-hoa-sweet-poison-350ml-100529.html,Sữa Tắm Malissa Kiss Hương Nước Hoa #Sweet Poison 350ml,219.000 ₫,131.000 ₫,2,350ml,2
+662,422211556,107558,https://hasaki.vn/san-pham/lan-khu-mui-enchanteur-sang-da-romantic-50ml-107558.html,Lăn Khử Mùi Enchanteur Sáng Da Romantic 50ml,90.000 ₫,77.000 ₫,2,50ml,
+663,256100002,16278,https://hasaki.vn/san-pham/tay-da-chet-toan-than-treaclemoon-huong-dua-225ml-16278.html,Tẩy Da Chết Toàn Thân Treaclemoon Hương Dừa 225ml,170.000 ₫,145.000 ₫,1,225ml,8
+664,422216247,114369,https://hasaki.vn/san-pham/hsd-09-2024-sua-tam-malissa-kiss-huong-nuoc-hoa-adore-you-350ml-114369.html,[HSD 09/2024] Sữa Tắm Malissa Kiss Hương Nước Hoa #Adore You 350ml,219.000 ₫,131.000 ₫,2,350ml,
+665,422208053,101921,https://hasaki.vn/san-pham/sua-tam-emmie-dat-set-ngua-mun-huong-peachy-love-250ml-101921.html,Sữa Tắm Emmié Đất Sét Ngừa Mụn Hương Peachy Love 250ml,180.000 ₫,145.000 ₫,1,250ml,
+666,100100001,2953,https://hasaki.vn/san-pham/sap-vaseline-pure-petroleum-jelly-49gr-2953.html,Sáp Dưỡng Ẩm Vaseline Original Healing Jelly 49g,65.000 ₫,44.000 ₫,3,49g,10
+667,422214696,111749,https://hasaki.vn/san-pham/sua-tam-parisian-nuoc-hoa-nu-chic-for-her-480g-111749.html,Sữa Tắm Parisian Nước Hoa Nữ - Chic For Her 480g,179.000 ₫,129.000 ₫,1,480g,9
+668,422206906,100029,https://hasaki.vn/san-pham/sua-tam-va-goi-tre-em-cetaphil-tinh-chat-hoa-cuc-50ml-100029.html,[Mini] Sữa Tắm Gội Cetaphil Dịu Lành Cho Bé Tinh Chất Hoa Cúc 50ml,50.000 ₫,30.000 ₫,4,50ml,3
+669,422208138,102097,https://hasaki.vn/san-pham/duong-the-organic-shop-tu-hoa-tra-va-5-loai-tinh-dau-250ml-102097.html,Dưỡng Thể Organic Shop Từ Hoa Trà Và 5 Loại Tinh Dầu 250ml,169.000 ₫,119.000 ₫,1,250ml,3
+670,422208139,102099,https://hasaki.vn/san-pham/duong-the-organic-shop-tu-trai-vai-va-5-loai-tinh-dau-250ml-102099.html,Dưỡng Thể Organic Shop Từ Trái Vải Và 5 Loại Tinh Dầu 250ml,169.000 ₫,119.000 ₫,1,250ml,3
+671,378200008,82607,https://hasaki.vn/san-pham/dau-tam-goi-nam-2-trong-1-hasi-kokeshi-550g-82607.html,Dầu Tắm Gội Hasi Kokeshi 2 Trong 1 Cho Nam 550g,175.000 ₫,115.000 ₫,1,550g,
+672,100190125,3104,https://hasaki.vn/san-pham/sua-tam-dial-cap-am-da-huong-lavender-hoa-lai-473ml-3104.html,Sữa Tắm Dial Cấp Ẩm Da Hương Lavender & Hoa Lài 473ml,150.000 ₫,115.000 ₫,1,473ml,
+673,422211895,107279,https://hasaki.vn/san-pham/sua-tam-on-the-body-duong-am-huong-hoa-hong-damask-500g-107279.html,Sữa Tắm On: The Body Dưỡng Ẩm Hương Hoa Hồng Damask 500g,145.000 ₫,112.000 ₫,1,500g,
+674,422211896,107281,https://hasaki.vn/san-pham/sua-tam-on-the-body-duong-am-huong-hoa-anh-dao-500g-107281.html,Sữa Tắm On: The Body Dưỡng Ẩm Hương Hoa Anh Đào 500g,145.000 ₫,112.000 ₫,1,500g,
+675,422203919,95163,https://hasaki.vn/san-pham/lotion-duong-the-hasi-sang-da-chiet-xuat-dau-yen-mach-180g-95163.html,"Lotion Dưỡng Thể Hasi Sáng Da Chiết Xuất Dâu, Yến Mạch 180g",124.000 ₫,105.000 ₫,2,180g,8
+676,422205720,98217,https://hasaki.vn/san-pham/sua-tam-l-ovite-serum-duong-am-da-mont-blanc-aqua-400ml-98217.html,Sữa Tắm L’Ovité Serum Dưỡng Ẩm Da #Mont Blanc Aqua 400ml,125.000 ₫,111.000 ₫,1,400ml,
+677,422207278,100667,https://hasaki.vn/san-pham/xa-phong-tam-pelican-tay-da-chet-danh-cho-canh-tay-135g-100667.html,Xà Phòng Tắm Pelican Tẩy Da Chết Dành Cho Cánh Tay 135g,159.000 ₫,109.000 ₫,1,135g,
+678,422203878,95133,https://hasaki.vn/san-pham/bo-san-pham-acnes-cham-soc-da-mun-cho-mat-va-co-the-4-mon-95133.html,Bộ Sản Phẩm Acnes Chăm Sóc Da Mụn Cho Mặt Và Cơ Thể 4 Món,109.000 ₫,105.000 ₫,1,4 món,
+679,422209206,103377,https://hasaki.vn/san-pham/tinh-dau-duong-the-felina-oliu-hanh-nhan-100ml-103377.html,Tinh Dầu Dưỡng Thể Felina Oliu & Hạnh Nhân 100ml,165.000 ₫,139.000 ₫,1,100ml,46
+680,422209840,104583,https://hasaki.vn/san-pham/mua-1-tang-1-sua-tam-biore-am-min-lan-da-huong-sua-530g-200g-104583.html,[Mua 1 Tặng 1] Sữa Tắm Bioré Ẩm Mịn Làn Da Hương Sữa 530g+200g,102.000 ₫,100.000 ₫,1,2 chai,1
+681,422203216,93779,https://hasaki.vn/san-pham/gel-tay-te-bao-chet-felina-chiet-xuat-hoa-ngo-tay-300ml-93779.html,Gel Tẩy Tế Bào Chết Felina Chiết Xuất Hoa Ngò Tây 300ml,150.000 ₫,114.000 ₫,1,300ml,54
+682,213300061,76308,https://hasaki.vn/san-pham/sua-tam-biore-guard-khang-khuan-mat-lanh-sang-khoai-220g-76308.html,Sữa Tắm Bioré Guard Kháng Khuẩn Mát Lạnh Sảng Khoái 220g,49.000 ₫,48.000 ₫,2,220g,
+683,422202707,93105,https://hasaki.vn/san-pham/sua-duong-the-malissa-kiss-sang-da-cozy-beach-226g-93105.html,Sữa Dưỡng Thể Malissa Kiss Sáng Da #Cozy Beach 226g,189.000 ₫,95.000 ₫,1,226g,3
+684,378200009,82585,https://hasaki.vn/san-pham/dau-tam-goi-nam-2-trong-1-hasi-kokeshi-380g-82585.html,Dầu Tắm Gội Hasi Kokeshi 2 Trong 1 Cho Nam 380g,142.000 ₫,94.000 ₫,1,380g,
+685,213300078,81729,https://hasaki.vn/san-pham/sua-tam-duong-am-biore-huong-hoa-anh-dao-thu-gian-530g-81729.html,Sữa Tắm Dưỡng Ẩm Bioré Hương Hoa Anh Đào Thư Giãn 530g,102.000 ₫,92.000 ₫,1,530g,1
+686,422209098,103187,https://hasaki.vn/san-pham/sua-tam-hazeline-matcha-luu-do-sang-min-rang-ngoi-670g-103187.html,Sữa Tắm Hazeline Sáng Mịn Rạng Ngời Matcha & Lựu Đỏ 670g,86.000 ₫,85.000 ₫,1,670g,3
+687,422213747,110076,https://hasaki.vn/san-pham/hsd-04-2024-gel-tay-te-bao-chet-felina-tinh-dau-hanh-nhan-300ml-110076.html,[HSD 04/2024] Gel Tẩy Tế Bào Chết Felina Tinh Dầu Hạnh Nhân 300ml,150.000 ₫,23.000 ₫,4,300ml,
+688,257100003,17093,https://hasaki.vn/san-pham/muoi-tam-yc-spa-chiet-xuat-tu-lo-hoi-va-dua-chuot-300g-17093.html,Muối Tắm YC Spa Chiết Xuất Từ Lô Hội Và Dưa Chuột 300g,35.000 ₫,26.000 ₫,3,300g,5
+689,257100001,17084,https://hasaki.vn/san-pham/muoi-tam-yc-spa-chiet-xuat-tu-sua-300g-17084.html,Muối Tắm YC Spa Chiết Xuất Từ Sữa 300g,35.000 ₫,26.000 ₫,3,300g,5
+690,422210041,104891,https://hasaki.vn/san-pham/bo-kit-du-lich-oxy-sach-sau-toan-dien-3-mon-104891.html,Bộ Kit Du Lịch OXY Sạch Sâu Toàn Diện 3 Món,94.000 ₫,76.000 ₫,1,3 món,
+691,422207898,101877,https://hasaki.vn/san-pham/sua-tam-biore-guard-sach-sau-khuynh-diep-thien-nhien-220g-101877.html,Sữa Tắm Bioré Guard Sạch Sâu Khuynh Diệp Thiên Nhiên 220g,49.000 ₫,37.000 ₫,2,220g,
+692,226000007,71959,https://hasaki.vn/san-pham/muoi-tam-tay-te-bao-chet-mori-huong-sua-gao-700g-71959.html,Muối Tắm Tẩy Tế Bào Chết Mori Hương Sữa Gạo 700g,100.000 ₫,69.000 ₫,1,700g,61
+693,422200408,90463,https://hasaki.vn/san-pham/xa-phong-himalaya-herbals-hanh-nhan-duong-am-da-75g-90463.html,Xà Phòng Himalaya Herbals Hạnh Nhân Dưỡng Ẩm Da 75g,36.000 ₫,29.000 ₫,2,75g,
+694,422209323,103559,https://hasaki.vn/san-pham/mini-dau-tam-bioderma-lam-sach-lam-diu-da-kho-nhay-cam-8ml-103559.html,"[Mini] Dầu Tắm Bioderma Làm Sạch & Làm Dịu Da Khô, Nhạy Cảm 8ml",20.000 ₫,19.000 ₫,3,8ml,
+695,422204966,97173,https://hasaki.vn/san-pham/dao-cao-cho-nu-schick-silk-effects-2s-vi-1-can-2-luoi-97173.html,Dao Cạo Cho Nữ Schick Silk Effects 2S (1 Cán + 2 Lưỡi),80.000 ₫,53.000 ₫,1,1 gói,1
+696,422207913,101681,https://hasaki.vn/san-pham/mini-gel-nha-dam-milaganics-duong-am-lam-mem-da-30ml-101681.html,[Mini] Gel Nha Đam Milaganics Dưỡng Ẩm & Làm Mềm Da 30ml,36.000 ₫,20.000 ₫,1,30ml,1
+697,422203690,94447,https://hasaki.vn/san-pham/gel-tam-bioderma-diu-nhe-cho-da-thuong-kho-nhay-cam-8ml-94447.html,[Mini] Gel Tắm Bioderma Dịu Nhẹ Cho Da Thường & Khô Nhạy Cảm 8ml,20.000 ₫,19.000 ₫,1,8ml,
+698,422207912,101679,https://hasaki.vn/san-pham/mini-tay-te-bao-chet-milaganics-ca-phe-sang-da-20g-101679.html,[Mini] Tẩy Tế Bào Chết Milaganics Cà Phê Sáng Da 20g,36.000 ₫,15.000 ₫,1,20g,
+699,422216278,114421,https://hasaki.vn/san-pham/hsd-09-2024-bo-san-pham-nuxe-duong-da-tay-sap-duong-moi-dau-da-nang-114421.html,[HSD 09/2024] Bộ Sản Phẩm Nuxe Dưỡng Da Tay + Sáp Dưỡng Môi + Dầu Đa Năng,560.000 ₫,336.000 ₫,13,3món,
+700,422214411,111185,https://hasaki.vn/san-pham/hsd-05-2024-sua-duong-the-cathy-doll-nuoc-hoa-once-upon-a-beach-150ml-111185.html,[HSD 05/2024] Sữa Dưỡng Thể Cathy Doll Nước Hoa Once Upon A Beach 150ml,179.000 ₫,36.000 ₫,4,150ml,
+701,422218659,118514,https://hasaki.vn/san-pham/hsd-08-2024-sua-duong-the-vaseline-gluta-hya-nang-tong-tuc-thi-300ml-118514.html,[HSD 08/2024] Sữa Dưỡng Thể Vaseline Gluta-Hya Nâng Tông Tức Thì 300ml,195.000 ₫,128.000 ₫,1,1 chai,
+702,422218504,118070,https://hasaki.vn/san-pham/hsd-08-2024-tay-te-bao-chet-milaganics-ca-phe-sang-da-mo-tham-280g-118070.html,"[HSD 08/2024] Tẩy Tế Bào Chết Milaganics Cà Phê Sáng Da, Mờ Thâm 280g",183.000 ₫,90.000 ₫,3,280g,
+703,422210415,105725,https://hasaki.vn/san-pham/sua-tam-jmella-huong-hoa-hong-ngot-ngao-500ml-105725.html,Sữa Tắm Jmella Hương Hoa Hồng Ngọt Ngào 500ml,170.000 ₫,119.000 ₫,1,500ml,
+704,422200779,90867,https://hasaki.vn/san-pham/sua-tam-lifebuoy-bao-ve-khoi-vi-khuan-mat-lanh-sang-khoai-850g-90867.html,Sữa Tắm Lifebuoy Bảo Vệ Khỏi Vi Khuẩn Mát Lạnh 850g,181.000 ₫,159.000 ₫,5,850g,
+705,422218432,117858,https://hasaki.vn/san-pham/hsd-10-2024-sua-duong-the-eucerin-lam-sang-da-spf-7-250ml-117858.html,[HSD 10/2024] Sữa Dưỡng Thể Eucerin Làm Sáng Da SPF 7 250ml,370.000 ₫,260.000 ₫,1,250ml,
+706,422218564,118250,https://hasaki.vn/san-pham/hsd-12-2024-sua-tam-hat-on-the-body-huong-muoi-hong-himalaya-600g-118250.html,[HSD 12/2024] Sữa Tắm Hạt On: The Body Hương Muối Hồng Himalaya 600g,328.000 ₫,216.000 ₫,108,600g,
+707,422218439,117874,https://hasaki.vn/san-pham/hsd-06-2024-gel-tam-camay-paris-huong-oai-huong-500ml-117874.html,[HSD 06/2024] Gel Tắm Camay Paris Hương Oải Hương 500ml,99.000 ₫,54.000 ₫,3,500ml,
+708,422218267,117524,https://hasaki.vn/san-pham/hsd-10-2024-sua-tam-duong-am-senka-huong-hoa-hong-hoa-nhai-500ml-117524.html,[HSD 10/2024] Sữa Tắm Dưỡng Ẩm Senka Hương Hoa Hồng & Hoa Nhài 500ml,169.000 ₫,114.000 ₫,1,500ml,
+709,422209329,103593,https://hasaki.vn/san-pham/tay-te-bao-chet-toan-than-tree-hut-chiet-xuat-vitamin-c-510g-103593.html,Tẩy Tế Bào Chết Toàn Thân Tree Hut Vitamin C 510g,440.000 ₫,382.000 ₫,12,510g,13
+710,422207035,100229,https://hasaki.vn/san-pham/sua-tam-nuoc-hoa-tesori-d-oriente-thao-moc-ai-cap-250ml-100229.html,Sữa Tắm Nước Hoa Tesori d'Oriente Thảo Mộc Ai Cập 250ml,175.000 ₫,169.000 ₫,2,250ml,9
+711,422218069,117134,https://hasaki.vn/san-pham/hsd-11-2024-sua-duong-the-malissa-kiss-sang-da-fresh-escape-226g-117134.html,[HSD 11/2024] Sữa Dưỡng Thể Malissa Kiss Sáng Da #Fresh Escape 226g,409.000 ₫,86.000 ₫,5,226g,
+712,422214811,111965,https://hasaki.vn/san-pham/hsd-07-2024-duong-the-beauty-buffet-sua-bo-lam-sang-da-250ml-111965.html,[HSD 07/2024] Dưỡng Thể Beauty Buffet Sữa Bò Làm Sáng Da 250ml,985.000 ₫,120.000 ₫,1,250ml,
+713,422218612,119296,https://hasaki.vn/san-pham/dau-duong-kho-nuxe-da-nang-co-nhu-100ml-119296.html,Dầu Dưỡng Khô Nuxe Đa Năng Có Nhũ 100ml,175.000 ₫,965.000 ₫,31,100ml,
+714,422218972,119446,https://hasaki.vn/san-pham/hsd-05-2024-sua-duong-the-love-beauty-and-planet-cap-nuoc-cho-da-400ml-119446.html,[HSD 05/2024] Sữa Dưỡng Thể Love Beauty And Planet Cấp Nước Cho Da 400ml,192.000 ₫,89.000 ₫,2,400ml,
+715,422218712,118734,https://hasaki.vn/san-pham/hsd-01-2025-sua-duong-the-st-ives-vitamin-e-bo-duong-am-da-621ml-118734.html,[HSD 01/2025] Sữa Dưỡng Thể St.Ives Vitamin E & Bơ Dưỡng Ẩm Da 621ml,189.000 ₫,154.000 ₫,4,621ml,
+716,422218476,117978,https://hasaki.vn/san-pham/hsd-11-2024-sua-duong-the-malissa-kiss-sang-da-crazy-in-love-226g-117978.html,[HSD 11/2024] Sữa Dưỡng Thể Malissa Kiss Sáng Da #Crazy In Love 226g,177.000 ₫,127.000 ₫,8,226g,
+717,422205236,97373,https://hasaki.vn/san-pham/sua-tam-lifebuoy-detox-tram-tra-muoi-hong-850g-97373.html,Sữa Tắm Lifebuoy Detox Tràm Trà & Muối Hồng 850g,190.000 ₫,150.000 ₫,8,850g,
+718,422210420,105715,https://hasaki.vn/san-pham/sua-duong-the-jmella-huong-co-an-de-hit-va-vanilla-500ml-105715.html,Sữa Dưỡng Thể Jmella Hương Cỏ An Đê Hít Và Vanilla 500ml,159.000 ₫,133.000 ₫,2,500ml,2
+719,422214426,111215,https://hasaki.vn/san-pham/hsd-04-2024-sua-tam-cathy-doll-chiet-xuat-ngoc-trai-hoa-hong-500ml-111215.html,[HSD 04/2024] Sữa Tắm Cathy Doll Chiết Xuất Ngọc Trai & Hoa Hồng 500ml,625.000 ₫,32.000 ₫,4,500ml,
+720,422203354,94159,https://hasaki.vn/san-pham/muoi-tam-argussy-tay-te-bao-chet-huong-sua-bo-300g-94159.html,Muối Tắm Argussy Tẩy Tế Bào Chết Hương Sữa Bò 300g,380.000 ₫,32.000 ₫,3,300g,8
+721,422205416,97719,https://hasaki.vn/san-pham/gel-rua-mat-tam-toan-than-nuxe-cho-da-kho-nhay-cam-400ml-97719.html,"Gel Rửa Mặt & Tắm Toàn Thân Nuxe Cho Da Khô, Nhạy Cảm 400ml",240.000 ₫,549.000 ₫,2,400ml,3
+722,422205644,98087,https://hasaki.vn/san-pham/sua-tam-on-the-body-cap-am-sang-da-refreshing-herb-600g-98087.html,"Sữa Tắm On: The Body Cấp Ẩm, Sáng Da Refreshing Herb 600g",100.000 ₫,277.000 ₫,3,600g,2
+723,395200010,89239,https://hasaki.vn/san-pham/sua-tam-bouncia-milky-body-soap-huong-hoa-hong-550ml-89239.html,Sữa Tắm Cow Bouncia Hương Hoa Hồng 550ml,169.000 ₫,105.000 ₫,1,550ml,
+724,422202911,93429,https://hasaki.vn/san-pham/muoi-tam-tay-te-bao-chet-felina-tinh-dau-cuc-calendula-500g-93429.html,Muối Tắm Tẩy Tế Bào Chết Felina Tinh Dầu Cúc Calendula 500g,140.000 ₫,109.000 ₫,1,500g,162
+725,422200088,90119,https://hasaki.vn/san-pham/sua-tam-lifebuoy-detox-tra-xanh-kho-qua-850g-90119.html,Sữa Tắm Lifebuoy Detox Matcha & Khổ Qua 850g,177.000 ₫,148.000 ₫,50,850g,
+726,422205361,97573,https://hasaki.vn/san-pham/bo-doi-malissa-kiss-duong-the-xit-thom-huong-cozy-beach-97573.html,Combo Malissa Kiss Dưỡng Thể & Xịt Thơm Cozy Beach,338.000 ₫,304.000 ₫,4,2 món,
+727,422215163,112557,https://hasaki.vn/san-pham/hsd-04-2024-sua-tam-happy-bath-chiet-xuat-tu-trai-cay-thien-nhien-900g-112557.html,[HSD 04/2024] Sữa Tắm Happy Bath Chiết Xuất Từ Trái Cây Thiên Nhiên 900g,200.000 ₫,24.000 ₫,2,900g,
