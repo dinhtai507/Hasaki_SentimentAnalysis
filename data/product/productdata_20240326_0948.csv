@@ -1,0 +1,528 @@
+﻿,product_id,data_product_id,link_item,title,original_price,current_price,quantity_sold,product_variant,review_count
+0,347800034,87553,https://hasaki.vn/san-pham/dau-goi-tsubaki-premium-ngan-ngua-rung-toc-490ml-87553.html,Dầu Gội Tsubaki Phục Hồi Ngăn Rụng Tóc 490ml,215.000 ₫,139.000 ₫,794,490ml,209
+1,422212249,107840,https://hasaki.vn/san-pham/nuoc-duong-toc-cocoon-tinh-dau-buoi-310ml-107840.html,Nước Dưỡng Tóc Cocoon Tinh Dầu Bưởi 310ml,325.000 ₫,291.000 ₫,379,310ml,19
+2,422210339,105519,https://hasaki.vn/san-pham/phien-ban-moi-nuoc-duong-toc-cocoon-tinh-dau-buoi-140ml-105519.html,[Phiên Bản Mới] Nước Dưỡng Tóc Cocoon Tinh Dầu Bưởi 140ml,165.000 ₫,140.000 ₫,562,140ml,19
+3,241200034,88323,https://hasaki.vn/san-pham/combo-tresemme-keratin-smooth-vao-nep-muot-ma-dau-goi-640g-dau-xa-620g-88323.html,Bộ Gội Xả TRESemmé Keratin Vào Nếp Suôn Mượt 640g+620g,370.000 ₫,303.000 ₫,253,2 món,2
+4,422205616,97971,https://hasaki.vn/san-pham/combo-tsubaki-dau-goi-kem-xa-ngan-ngua-rung-toc-490ml-180g-97971.html,Bộ Gội Xả Tsubaki Phục Hồi Ngăn Rụng Tóc 490ml+180g,420.000 ₫,215.000 ₫,300,2 món,1
+5,422211538,106953,https://hasaki.vn/san-pham/kem-u-toc-fino-premium-touch-cai-thien-toc-hu-ton-230g-106953.html,Kem Ủ Tóc Fino Premium Touch Cải Thiện Tóc Hư Tổn 230g,209.000 ₫,125.000 ₫,490,230g,6
+6,422207312,100901,https://hasaki.vn/san-pham/dau-goi-selsun-ngua-gau-giam-ngua-da-dau-250ml-100901.html,Dầu Gội Selsun Ngừa Gàu Và Ngứa 1% Selenium Sulfide 250ml,223.000 ₫,178.000 ₫,290,250ml,31
+7,422213294,109256,https://hasaki.vn/san-pham/bo-goi-xa-tsubaki-phuc-hoi-ngan-rung-toc-490mlx2-109256.html,Bộ Gội Xả Tsubaki Phục Hồi Ngăn Rụng Tóc 490mlx2,430.000 ₫,297.000 ₫,173,2x490ml,17
+8,422204498,96009,https://hasaki.vn/san-pham/bo-doi-goi-xa-tsubaki-sach-dau-mat-lanh-490ml-chai-96009.html,Bộ Gội Xả Tsubaki Sạch Dầu Mát Lạnh (490ml/chai),418.000 ₫,215.000 ₫,208,2 món,10
+9,347800035,87555,https://hasaki.vn/san-pham/dau-xa-tsubaki-premium-ngan-ngua-rung-toc-490ml-87555.html,Dầu Xả Tsubaki Phục Hồi Ngăn Rụng Tóc 490ml,215.000 ₫,145.000 ₫,293,490ml,23
+10,347800032,87549,https://hasaki.vn/san-pham/dau-goi-tsubaki-premium-duong-toc-bong-muot-490ml-87549.html,Dầu Gội Tsubaki Dưỡng Tóc Bóng Mượt 490ml,215.000 ₫,135.000 ₫,292,490ml,209
+11,422200840,90921,https://hasaki.vn/san-pham/dau-goi-kho-girlz-only-toc-bong-benh-tuc-thi-200ml-90921.html,Dầu Gội Khô Girlz Only Tóc Bồng Bềnh Tức Thì 200ml,175.000 ₫,89.000 ₫,436,200ml,23
+12,422205221,97359,https://hasaki.vn/san-pham/dau-goi-buoi-cocoon-giam-gay-rung-kich-thich-moc-toc-310ml-97359.html,Dầu Gội Bưởi Cocoon Giảm Rụng & Kích Thích Mọc Tóc 310ml,245.000 ₫,219.000 ₫,177,Dầu gội 310ml,14
+13,347800025,78298,https://hasaki.vn/san-pham/mat-na-toc-cao-cap-tsubaki-phuc-hoi-hu-ton-180g-78298.html,Mặt Nạ Tóc Tsubaki Cao Cấp Phục Hồi Hư Tổn 180g,295.000 ₫,192.000 ₫,200,180g,26
+14,241200028,87977,https://hasaki.vn/san-pham/dau-goi-tresemme-tinh-dau-argan-keratin-vao-nep-suon-muot-640g-87977.html,Dầu Gội TRESemmé Vào Nếp Suôn Mượt 640g,220.000 ₫,178.000 ₫,214,640g,9
+15,422212028,107483,https://hasaki.vn/san-pham/combo-cocoon-dau-goi-nuoc-duong-toc-tinh-dau-buoi-107483.html,Combo Cocoon Dầu Gội & Nước Dưỡng Tóc Tinh Dầu Bưởi,410.000 ₫,245.000 ₫,155,2 món,3
+16,224200002,4379,https://hasaki.vn/san-pham/dau-goi-selsun-ngua-gau-giam-ngua-da-dau-100ml-4379.html,Dầu Gội Selsun Ngừa Gàu Và Ngứa 1% Selenium Sulfide 100ml,96.000 ₫,82.000 ₫,440,100ml,31
+17,422215527,113217,https://hasaki.vn/san-pham/bo-goi-xa-buoi-cocoon-giam-gay-rung-toc-500ml-310ml-113217.html,Bộ Gội Xả Bưởi Cocoon Giảm Gãy Rụng Tóc 500ml+310ml,560.000 ₫,375.000 ₫,86,Gội xả 500ml+310ml,14
+18,422207384,100909,https://hasaki.vn/san-pham/dau-goi-l-oreal-paris-duong-toc-suon-muot-toc-cao-cap-440ml-100909.html,Dầu Gội L'Oreal Paris Dưỡng Tóc Suôn Mượt Tóc Cao Cấp 440ml,249.000 ₫,205.000 ₫,156,440ml,3
+19,422215295,112793,https://hasaki.vn/san-pham/dau-goi-buoi-cocoon-giam-rung-kich-thich-moc-toc-500ml-112793.html,Dầu Gội Bưởi Cocoon Giảm Rụng & Kích Thích Mọc Tóc 500ml,375.000 ₫,318.000 ₫,101,Dầu gội 500ml,14
+20,422210446,105609,https://hasaki.vn/san-pham/dau-goi-tsubaki-phuc-hoi-hu-ton-nang-giam-gay-rung-490ml-105609.html,Dầu Gội Tsubaki Phục Hồi Hư Tổn Nặng & Giảm Gãy Rụng 490ml,249.000 ₫,148.000 ₫,202,490ml,209
+21,241200016,81911,https://hasaki.vn/san-pham/serum-tresemme-duong-toc-vao-nep-bong-muot-97ml-81911.html,Serum Dưỡng Tóc TRESemmé Vào Nếp Bóng Mượt 97ml,196.000 ₫,118.000 ₫,249,97ml,6
+22,422216433,114573,https://hasaki.vn/san-pham/bo-cham-soc-toc-cocoon-dau-goi-500ml-dau-xa-310ml-nuoc-duong-toc-tinh-dau-buoi-140ml-114573.html,Bộ Chăm Sóc Tóc Cocoon Dầu Gội 500ml + Dầu Xả 310ml + Nước Dưỡng Tóc Tinh Dầu Bưởi 140ml,725.000 ₫,616.000 ₫,46,3 món,1
+23,205100467,76026,https://hasaki.vn/san-pham/dau-duong-toc-tinh-dau-hoa-tu-nhien-l-oreal-100ml-76026.html,Dầu Dưỡng Tóc L'Oreal Tinh Dầu Hoa Tự Nhiên 100ml,289.000 ₫,239.000 ₫,116,100ml,39
+24,361900003,77012,https://hasaki.vn/san-pham/dau-goi-kumano-salon-link-danh-cho-toc-yeu-1000ml-77012.html,Dầu Gội Kumano Salon Link Phục Hồi Dành Cho Tóc Yếu 1000ml,229.000 ₫,139.000 ₫,186,10000ml,7
+25,347800033,87551,https://hasaki.vn/san-pham/dau-xa-tsubaki-premium-duong-toc-bong-muot-490ml-87551.html,Dầu Xả Tsubaki Dưỡng Tóc Bóng Mượt 490ml,215.000 ₫,135.000 ₫,191,490ml,23
+26,250900001,13710,https://hasaki.vn/san-pham/mat-na-u-toc-fanola-phuc-hoi-toc-hu-ton-1500ml-13710.html,Mặt Nạ Ủ Tóc Fanola Phục Hồi Tóc Hư Tổn 1500ml,370.000 ₫,279.000 ₫,89,1500ml,20
+27,422201800,91949,https://hasaki.vn/san-pham/nuoc-duong-toc-double-rich-cham-soc-kho-xo-hu-ton-250ml-91949.html,"Nước Xịt Dưỡng Tóc Double Rich Cho Tóc Khô Xơ, Hư Tổn 250ml",85.000 ₫,58.000 ₫,419,250ml,43
+28,422208805,102553,https://hasaki.vn/san-pham/tay-te-bao-chet-da-dau-organic-shop-tu-sung-hanh-nhan-75ml-102553.html,Tẩy Tế Bào Chết Da Đầu Organic Shop Kiềm Dầu 75ml,199.000 ₫,137.000 ₫,172,75ml,9
+29,422200286,90313,https://hasaki.vn/san-pham/dau-goi-pantene-ngan-rung-toc-900g-90313.html,Dầu Gội Pantene Ngăn Rụng Tóc 900ml,225.000 ₫,191.000 ₫,123,900ml,6
+30,422201278,91461,https://hasaki.vn/san-pham/dau-goi-tresemme-tinh-dau-argan-keratin-vao-nep-suon-muot-850g-91461.html,Dầu Gội TRESemmé Vào Nếp Suôn Mượt 850g,263.000 ₫,215.000 ₫,106,850g,9
+31,241200026,87973,https://hasaki.vn/san-pham/dau-xa-tresemme-tinh-dau-argan-keratin-vao-nep-suon-muot-620g-87973.html,Dầu Xả TRESemmé Vào Nếp Suôn Mượt 620g,220.000 ₫,186.000 ₫,121,620g,1
+32,219600014,81901,https://hasaki.vn/san-pham/dau-goi-dove-phuc-hoi-hu-ton-chiet-xuat-bo-dau-argan-500g-81901.html,Dầu Gội Dove Phục Hồi Hư Tổn Chiết Xuất Bơ & Dầu Argan 500g,196.000 ₫,156.000 ₫,135,500g,4
+33,422205621,98059,https://hasaki.vn/san-pham/dau-goi-l-oreal-paris-ngan-gay-rung-toc-620ml-98059.html,Dầu Gội L'Oreal Paris Ngăn Gãy Rụng Tóc 620ml,169.000 ₫,139.000 ₫,136,620ml,11
+34,422206468,99347,https://hasaki.vn/san-pham/dau-goi-dr-forhair-ngan-ngua-rung-toc-500ml-99347.html,"Dầu Gội Dr.ForHair Giảm Gãy Rụng, Giúp Mọc Tóc 500ml",580.000 ₫,379.000 ₫,50,500ml,4
+35,422210537,105867,https://hasaki.vn/san-pham/kem-u-toc-dove-keratin-phuc-hoi-hu-ton-cao-cap-180ml-105867.html,Kem Ủ Tóc Dove Keratin Phục Hồi Hư Tổn Cao Cấp 180ml,110.000 ₫,89.000 ₫,201,180ml,7
+36,422210557,105873,https://hasaki.vn/san-pham/combo-2-nuoc-duong-toc-cocoon-tinh-dau-buoi-phien-ban-moi-140ml-105873.html,Combo 2 Nước Dưỡng Tóc Cocoon Tinh Dầu Bưởi Phiên Bản Mới 140ml,330.000 ₫,165.000 ₫,107,2x140ml,19
+37,422207789,101449,https://hasaki.vn/san-pham/dau-dua-milaganics-ep-lanh-tinh-khiet-250ml-101449.html,Dầu Dừa Milaganics Ép Lạnh Tinh Khiết 250ml,210.000 ₫,90.000 ₫,184,250ml,8
+38,241200033,87987,https://hasaki.vn/san-pham/dau-goi-tresemme-ngan-ngua-toc-gay-rung-850g-87987.html,Dầu Gội TRESemmé Ngăn Tóc Gãy Rụng 850g,263.000 ₫,207.000 ₫,79,850g,9
+39,204600008,83741,https://hasaki.vn/san-pham/dau-goi-head-shoulders-bac-ha-mat-lanh-625ml-83741.html,Dầu Gội Head & Shoulders Bạc Hà Mát Lạnh 625ml,179.000 ₫,149.000 ₫,109,625ml,4
+40,422214255,110944,https://hasaki.vn/san-pham/muoi-tay-te-bao-chet-da-dau-aromatica-tu-huong-thao-165g-110944.html,Muối Tẩy Tế Bào Chết Da Đầu Aromatica Từ Hương Thảo 165g,468.000 ₫,288.000 ₫,56,165g,2
+41,422205442,97683,https://hasaki.vn/san-pham/combo-tsubaki-dau-goi-kem-xa-duong-toc-bong-muot-490ml-180g-97683.html,Bộ Gội Xả Tsubaki Dưỡng Tóc Bóng Mượt 490ml+180g,510.000 ₫,299.000 ₫,53,2 chai,5
+42,347800038,87561,https://hasaki.vn/san-pham/xit-duong-toc-tsubaki-premium-ngan-ngua-rung-toc-220ml-87561.html,Xịt Dưỡng Tóc Tsubaki Hỗ Trợ Phục Hồi Hư Tổn 220ml,179.000 ₫,148.000 ₫,107,220ml,5
+43,100330018,1095,https://hasaki.vn/san-pham/dau-goi-vichy-ngan-ngua-giam-rung-toc-lam-toc-day-muot-200ml-1095.html,Dầu Gội Vichy Ngăn Ngừa & Giảm Rụng Tóc 200ml,415.000 ₫,335.000 ₫,47,200ml,3
+44,422208871,102729,https://hasaki.vn/san-pham/bo-goi-xa-l-oreal-duong-toc-suon-muot-toc-cao-cap-440mlx2-102729.html,Bộ Gội Xả L'Oreal Dưỡng Tóc Suôn Mượt Tóc Cao Cấp 440mlx2,398.000 ₫,319.000 ₫,49,2x440ml,6
+45,422213296,109260,https://hasaki.vn/san-pham/bo-goi-xa-tsubaki-phuc-hoi-hu-ton-nang-giam-gay-rung-490mlx2-109260.html,Bộ Gội Xả Tsubaki Phục Hồi Hư Tổn Nặng & Giảm Gãy Rụng 490mlx2,498.000 ₫,368.000 ₫,43,2x490ml,4
+46,422205222,97357,https://hasaki.vn/san-pham/dau-xa-buoi-cocoon-cung-cap-duong-chat-do-am-310ml-97357.html,Dầu Xả Bưởi Cocoon Cung Cấp Dưỡng Chất & Độ Ẩm 310ml,185.000 ₫,157.000 ₫,98,310ml,2
+47,361900004,77008,https://hasaki.vn/san-pham/dau-xa-kumano-salon-link-cho-toc-yeu-1000ml-77008.html,Dầu Xả Kumano Salon Link Phục Hồi Cho Tóc Yếu 1000ml,229.000 ₫,139.000 ₫,110,1000ml,3
+48,100330001,2260,https://hasaki.vn/san-pham/dau-xa-ogx-biotin-collagen-lam-day-toc-385ml-2260.html,Dầu Xả OGX Biotin & Collagen Làm Dày Tóc 385ml,295.000 ₫,206.000 ₫,73,385ml,5
+49,422204435,96191,https://hasaki.vn/san-pham/dau-goi-dove-ho-tro-phuc-hoi-toc-hu-ton-880g-96191.html,Dầu Gội Dove Hỗ Trợ Phục Hồi Tóc Hư Tổn 880g,216.000 ₫,176.000 ₫,85,880g,2
+50,422207385,100907,https://hasaki.vn/san-pham/dau-xa-l-oreal-paris-duong-toc-suon-muot-toc-cao-cap-440ml-100907.html,Dầu Xả L'Oreal Paris Dưỡng Tóc Suôn Mượt Tóc Cao Cấp 440ml,249.000 ₫,205.000 ₫,72,440ml,1
+51,379200005,87917,https://hasaki.vn/san-pham/dau-goi-sach-gau-clear-nuoi-duong-da-dau-mat-lanh-bac-ha-630g-87917.html,Dầu Gội Clear Sạch Gàu Mát Lạnh Bạc Hà 630g,174.000 ₫,155.000 ₫,90,630g,2
+52,422210447,105611,https://hasaki.vn/san-pham/dau-xa-tsubaki-phuc-hoi-hu-ton-nang-giam-gay-rung-490ml-105611.html,Dầu Xả Tsubaki Phục Hồi Hư Tổn Nặng & Giảm Gãy Rụng 490ml,249.000 ₫,173.000 ₫,79,490ml,23
+53,422205282,97505,https://hasaki.vn/san-pham/bo-goi-xa-buoi-cocoon-giam-gay-rung-toc-310ml-chai-97505.html,Bộ Gội Xả Bưởi Cocoon Giảm Gãy Rụng Tóc (310ml/chai),430.000 ₫,347.000 ₫,39,Gội xả 2x310ml,14
+54,224200004,70802,https://hasaki.vn/san-pham/combo-selsun-dau-goi-va-dau-xa-giup-ngua-gau-100ml-70802.html,Bộ Gội Xả Selsun Giúp Làm Giảm & Ngăn Ngừa Gàu 100mlx2,128.350 ₫,113.000 ₫,114,2 món,4
+55,422203294,93867,https://hasaki.vn/san-pham/dau-goi-buoi-milaganics-kich-thich-moc-ngan-rung-toc-500ml-93867.html,Dầu Gội Milaganics Tinh Dầu Bưởi Kích Thích Mọc Tóc 500ml,451.000 ₫,195.000 ₫,65,500ml,29
+56,422210151,105213,https://hasaki.vn/san-pham/tinh-chat-duong-toc-mise-en-scene-phuc-hoi-hu-ton-80ml-105213.html,Tinh Chất Dưỡng Tóc Mise en scène Phục Hồi Hư Tổn 80ml,289.000 ₫,239.000 ₫,53,80ml,2
+57,372200001,79803,https://hasaki.vn/san-pham/dau-goi-kho-girlz-only-party-nights-200ml-79803.html,Dầu Gội Khô Girlz Only Hương Trái Cây Ngọt Ngào 200ml,175.000 ₫,89.000 ₫,139,200ml,23
+58,422211186,106535,https://hasaki.vn/san-pham/combo-2-nuoc-nuoc-duong-toc-cocoon-tinh-dau-buoi-sa-chi-140ml-106535.html,Combo Cocoon Nước Dưỡng Tóc Tinh Dầu Bưởi 140ml & Nước Dưỡng Tóc Sa-Chi 140ml,310.000 ₫,248.000 ₫,49,2 x 140ml,5
+59,422201797,91955,https://hasaki.vn/san-pham/gel-giu-nep-double-rich-giu-toc-co-dinh-dang-xit-170ml-91955.html,Keo Tạo Kiểu Tóc Double Rich Dạng Xịt Giữ Tóc Cố Định 170ml,79.000 ₫,78.000 ₫,154,170ml,2
+60,422204439,96261,https://hasaki.vn/san-pham/kem-xa-dove-phuc-hoi-hu-ton-cho-toc-chac-khoe-moi-610g-96261.html,Kem Xả Dove Phục Hồi Hư Tổn Cho Tóc Chắc Khỏe (Mới) 610g,155.000 ₫,135.000 ₫,88,610g,1
+61,422201212,91419,https://hasaki.vn/san-pham/muoi-tam-baresoul-tay-te-bao-chet-cho-co-the-toc-300g-91419.html,Muối Tắm BareSoul Tẩy Tế Bào Chết Cho Da Đầu & Cơ Thể 330g,250.000 ₫,195.000 ₫,58,330g,11
+62,422210003,105171,https://hasaki.vn/san-pham/tinh-dau-duong-toc-raip-bong-muot-huong-baby-powder-100ml-105171.html,Tinh Dầu Dưỡng Tóc Raip Bóng Mượt Hương Baby Powder 100ml,125.000 ₫,109.000 ₫,104,100ml,14
+63,422206706,99833,https://hasaki.vn/san-pham/dau-goi-sunsilk-natural-mem-muot-toa-huong-650g-99833.html,Dầu Gội Sunsilk Natural Mềm Mượt Tỏa Hương 650g,145.000 ₫,129.000 ₫,85,650g,3
+64,379200009,87925,https://hasaki.vn/san-pham/dau-goi-sach-gau-clear-thao-duoc-cham-soc-da-dau-yeu-630g-87925.html,Dầu Gội Clear 9 Thảo Dược Chăm Sóc Da Đầu Yếu 630g,198.000 ₫,147.000 ₫,74,630g,2
+65,422202690,93081,https://hasaki.vn/san-pham/bo-goi-xa-ogx-biotin-collagen-lam-day-toc-2x385ml-93081.html,Bộ Gội Xả OGX Biotin & Collagen Làm Dày Tóc 2x385ml,590.000 ₫,411.000 ₫,27,2x385ml,3
+66,422215795,113709,https://hasaki.vn/san-pham/bo-dau-goi-vichy-giam-gau-cho-da-dau-dau-ngua-200ml-50ml-113709.html,"Bộ Dầu Gội Vichy Giảm Gàu Cho Da Đầu Dầu, Ngứa 200ml + 50ml",518.000 ₫,415.000 ₫,26,200ml + 50ml,3
+67,422205679,98127,https://hasaki.vn/san-pham/thuoc-nhuom-toc-phu-bac-dang-kem-bigen-881-den-tu-nhien-98127.html,Thuốc Nhuộm Tóc Bigen Phủ Bạc Dạng Kem 881 Đen Tự Nhiên 80ml,168.000 ₫,166.000 ₫,64,881 Natural Black,14
+68,422205230,97385,https://hasaki.vn/san-pham/dau-goi-dove-ong-mem-tu-nhien-moi-640g-97385.html,Dầu Gội Dove Óng Mềm Tự Nhiên 640g (Mới),190.000 ₫,143.000 ₫,73,640g,3
+69,422203295,93869,https://hasaki.vn/san-pham/serum-goi-bo-ket-milaganics-den-muot-ong-a-250ml-93869.html,Serum Gội Bồ Kết Milaganics Đen Mượt Óng Ả 250ml,234.000 ₫,92.000 ₫,113,250ml,7
+70,422210000,105167,https://hasaki.vn/san-pham/tinh-dau-duong-toc-raip-bong-muot-huong-elegance-100ml-105167.html,Tinh Dầu Dưỡng Tóc Raip Bóng Mượt Hương Elegance 100ml,125.000 ₫,109.000 ₫,96,100ml,14
+71,204600009,83743,https://hasaki.vn/san-pham/dau-goi-head-shoulders-cho-da-dau-ngua-625ml-83743.html,Dầu Gội Head & Shoulders Cho Da Đầu Ngứa 625ml,179.000 ₫,147.000 ₫,70,625ml,4
+72,387400003,83575,https://hasaki.vn/san-pham/dau-goi-rejoice-sieu-mem-muot-650g-83575.html,Dầu Gội Rejoice Siêu Mềm Mượt 48 Giờ 650ml,143.000 ₫,126.000 ₫,80,650ml,8
+73,422208324,102337,https://hasaki.vn/san-pham/kem-u-toc-tresemme-keratin-smooth-vao-nep-suon-muot-180ml-moi-102337.html,Kem Ủ Tóc TRESemmé Keratin Smooth Vào Nếp Suôn Mượt 180ml (Mới),162.000 ₫,97.000 ₫,103,180ml,10
+74,204600015,83755,https://hasaki.vn/san-pham/dau-goi-head-shoulders-bang-lanh-sach-gau-550ml-83755.html,Dầu Gội Head & Shoulders Băng Lạnh Sạch Gàu 550ml,171.000 ₫,144.000 ₫,69,550ml,3
+75,422211156,106495,https://hasaki.vn/san-pham/combo-goi-xa-tresemme-salon-rebond-ngan-gay-rung-toc-640g-620g-106495.html,Bộ Gội Xả TRESemmé Salon Rebond Ngăn Gãy Rụng Tóc 640g+620g,440.000 ₫,385.000 ₫,26,2 món,2
+76,205100222,61111,https://hasaki.vn/san-pham/thuoc-nhuom-toc-l-oreal-3-natural-dark-brown-61111.html,Màu Nhuộm L'Oreal Phủ Bạc 3 Nâu Đen Tự Nhiên 172ml,219.000 ₫,169.000 ₫,58,3 Natural Dark Brown,11
+77,422206890,100017,https://hasaki.vn/san-pham/dau-goi-avatar-tinh-chat-buoi-ha-thu-o-600ml-100017.html,Dầu Gội Avatar Tinh Chất Bưởi Hà Thủ Ô 600ml,199.000 ₫,166.000 ₫,59,600ml,3
+78,422204811,96723,https://hasaki.vn/san-pham/kem-nhuom-toc-reen-phu-bac-thao-duoc-mau-nau-den-128g-96723.html,Kem Nhuộm Tóc Reen Phủ Bạc Thảo Dược Màu Nâu Đen 128g,162.000 ₫,161.000 ₫,61,128g,11
+79,422211259,106783,https://hasaki.vn/san-pham/dau-goi-xa-old-spice-2in1-cho-nam-huong-go-dan-timber-650ml-106783.html,Dầu Gội Xả 2in1 Old Spice Cho Nam Hương Gỗ Đàn 650ml,208.000 ₫,176.000 ₫,55,650ml,6
+80,422216660,115047,https://hasaki.vn/san-pham/combo-fino-kem-u-toc-230g-dau-duong-toc-cai-thien-toc-hu-ton-70ml-115047.html,Combo Fino Kem Ủ Tóc 230g + Dầu Dưỡng Tóc Cải Thiện Tóc Hư Tổn 70ml,458.000 ₫,297.000 ₫,32,2 món,3
+81,422205229,97387,https://hasaki.vn/san-pham/dau-goi-clear-hoa-anh-dao-bang-lanh-sach-gau-moi-630g-97387.html,Dầu Gội Clear Sạch Gàu Hoa Anh Đào Băng Lạnh 630g (Mới),174.000 ₫,155.000 ₫,61,630g,2
+82,422205460,97745,https://hasaki.vn/san-pham/dau-goi-kho-batiste-huong-hoa-anh-dao-200ml-97745.html,Dầu Gội Khô Batiste Hương Hoa Anh Đào 200ml,156.000 ₫,138.000 ₫,68,200ml,7
+83,422211159,106503,https://hasaki.vn/san-pham/kem-xa-dove-serum-2in1-phuc-hoi-ngan-gay-rung-230ml-106503.html,Kem Xả Dove Serum 2in1 Phục Hồi & Ngăn Gãy Rụng 230ml,230.000 ₫,161.000 ₫,55,230ml,5
+84,422204814,96729,https://hasaki.vn/san-pham/kem-nhuom-toc-reen-phu-bac-thao-duoc-mau-nau-sang-128g-96729.html,Kem Nhuộm Tóc Reen Phủ Bạc Thảo Dược Màu Nâu Sáng 128g,162.000 ₫,161.000 ₫,55,128g,11
+85,422202341,92653,https://hasaki.vn/san-pham/serum-duong-toc-ellips-vitamin-mem-muot-ong-a-hu-50-vien-92653.html,Serum Dưỡng Tóc Ellips Vitamin Óng Mượt Hũ 50 Viên,212.930 ₫,193.000 ₫,45,50 viên,13
+86,422204816,96733,https://hasaki.vn/san-pham/nuoc-duong-toc-double-rich-cham-soc-toc-kho-hu-ton-120ml-96733.html,"Nước Xịt Dưỡng Tóc Double Rich Cho Tóc Khô Xơ, Hư Tổn 120ml",52.000 ₫,35.000 ₫,245,120ml,43
+87,422201280,91475,https://hasaki.vn/san-pham/dau-goi-tresemme-gung-tra-xanh-detox-toc-chac-khoe-850g-91475.html,Dầu Gội TRESemmé Detox Tóc Chắc Khỏe & Sạch Sâu 850g,263.000 ₫,227.000 ₫,38,850g,9
+88,100330044,1096,https://hasaki.vn/san-pham/dau-goi-giam-gau-danh-cho-da-dau-nhay-cam-vichy-200ml-1096.html,Dầu Gội Vichy Giảm Gàu Cho Da Đầu Nhạy Cảm 200ml,415.000 ₫,340.000 ₫,24,200ml,3
+89,205100202,56224,https://hasaki.vn/san-pham/kem-nhuom-l-oreal-duong-toc-sau-6-1-nau-khoi-172ml-56224.html,Kem Nhuộm L'Oreal Dưỡng Tóc Sâu 6.1 Nâu Lạnh 172ml,219.000 ₫,169.000 ₫,48,,14
+90,422200253,90223,https://hasaki.vn/san-pham/dau-duong-toc-tsubaki-ho-tro-phuc-hoi-hu-ton-50ml-90223.html,Dầu Dưỡng Tóc Tsubaki Phục Hồi Hư Tổn 50ml,339.000 ₫,279.000 ₫,30,50ml,7
+91,422212091,107800,https://hasaki.vn/san-pham/dau-duong-olaplex-no-7-giup-toc-bong-muot-chac-khoe-30ml-107800.html,"Dầu Dưỡng Olaplex No.7 Giúp Tóc Bóng Mượt, Chắc Khoẻ 30ml",890.000 ₫,690.000 ₫,12,30ml,9
+92,422214256,110946,https://hasaki.vn/san-pham/xit-duong-chan-toc-aromatica-chiet-xuat-huong-thao-100ml-110946.html,Xịt Dưỡng Chân Tóc Aromatica Chiết Xuất Hương Thảo 100ml,416.000 ₫,229.000 ₫,35,100ml,2
+93,214600011,83561,https://hasaki.vn/san-pham/dau-goi-pantene-ngan-rung-toc-650g-83561.html,Dầu Gội Pantene Ngăn Rụng Tóc 650ml,165.000 ₫,144.000 ₫,54,650ml,6
+94,422212877,108680,https://hasaki.vn/san-pham/bo-goi-xa-olaplex-phuc-hoi-duong-toc-chac-khoe-250mlx2-108680.html,"Bộ Gội Xả Olaplex Phục Hồi, Dưỡng Tóc Chắc Khoẻ (250ml/chai)",1.780.000 ₫,1.380.000 ₫,6,2x250ml,
+95,422205526,98007,https://hasaki.vn/san-pham/dau-goi-l-oreal-professionnel-ben-mau-toc-nhuom-300ml-98007.html,Dầu Gội L'Oréal Professionnel Bền Màu Tóc Nhuộm 300ml,439.000 ₫,249.000 ₫,30,300ml,66
+96,422211158,106497,https://hasaki.vn/san-pham/dau-goi-dove-phuc-hoi-ngan-gay-rung-380ml-106497.html,Dầu Gội Dove Phục Hồi & Ngăn Gãy Rụng 380ml,230.000 ₫,161.000 ₫,47,380ml,4
+97,422213295,109258,https://hasaki.vn/san-pham/bo-goi-xa-tsubaki-duong-toc-bong-muot-490mlx2-109258.html,Bộ Gội Xả Tsubaki Dưỡng Tóc Bóng Mượt 490mlx2,430.000 ₫,316.000 ₫,24,2x490ml,2
+98,422202342,92651,https://hasaki.vn/san-pham/serum-duong-toc-ellips-vitamin-phuc-hoi-hu-ton-hu-50-vien-92651.html,Serum Dưỡng Tóc Ellips Vitamin Phục Hồi Hư Tổn Hũ 50 viên,212.930 ₫,193.000 ₫,39,50 viên,13
+99,214600019,83901,https://hasaki.vn/san-pham/dau-xa-pantene-ngan-rung-toc-650ml-83901.html,Dầu Xả Pantene Ngăn Rụng Tóc 650ml,165.000 ₫,138.000 ₫,54,650ml,1
+100,248700117,89511,https://hasaki.vn/san-pham/dau-goi-naris-nature-diu-nhe-huong-hoa-tuoi-mat-500ml-89511.html,Dầu Gội Naris Nature Dịu Nhẹ Hương Hoa Tươi Mát 500ml,395.000 ₫,316.000 ₫,23,500ml,12
+101,422211362,106805,https://hasaki.vn/san-pham/kem-xa-dove-phuc-hoi-hu-ton-1-phut-sieu-duong-300ml-106805.html,Kem Xả Dove Phục Hồi Hư Tổn 1 Phút Siêu Dưỡng 300ml,120.000 ₫,115.000 ₫,63,300ml,6
+102,422209250,103481,https://hasaki.vn/san-pham/dau-goi-clear-men-sach-gau-cool-sport-bac-ha-900g-moi-103481.html,Dầu Gội Clear Men Sạch Gàu Cool Sport Bạc Hà 900g (Mới),229.000 ₫,170.000 ₫,42,900g,4
+103,422207738,101395,https://hasaki.vn/san-pham/serum-buoi-milaganics-ngan-rung-kich-thich-moc-toc-500ml-101395.html,Serum Bưởi Milaganics Ngăn Rụng & Kích Thích Mọc Tóc 500ml,327.000 ₫,175.000 ₫,41,500ml,33
+104,256700013,16868,https://hasaki.vn/san-pham/serum-buoi-milaganics-danh-cho-toc-gay-rung-kho-xo-100ml-16868.html,Serum Bưởi Milaganics Ngăn Rụng & Kích Thích Mọc Tóc 100ml,109.000 ₫,58.000 ₫,123,100ml,33
+105,252300018,14472,https://hasaki.vn/san-pham/thuoc-nhuom-toc-phu-bac-bigen-mau-nau-sam-5-dark-brown-14472.html,Thuốc Nhuộm Tóc Bigen Phủ Bạc Dạng Kem #5 Nâu Sẫm 80ml,246.000 ₫,244.000 ₫,30,5 Dark Brown,17
+106,422212050,107536,https://hasaki.vn/san-pham/dau-duong-toc-fino-premium-touch-cai-thien-toc-hu-ton-70ml-107536.html,Dầu Dưỡng Tóc Fino Premium Touch Cải Thiện Tóc Hư Tổn 70ml,249.000 ₫,186.000 ₫,38,70ml,3
+107,422204813,96727,https://hasaki.vn/san-pham/kem-nhuom-toc-reen-phu-bac-thao-duoc-mau-nau-tu-nhien-128g-96727.html,Kem Nhuộm Tóc Reen Phủ Bạc Thảo Dược Màu Nâu Tự Nhiên 128g,162.000 ₫,161.000 ₫,44,128g,11
+108,100890007,3678,https://hasaki.vn/san-pham/mau-nhuom-l-oreal-duong-toc-phu-bac-5-nau-hat-de-172ml-3678.html,Màu Nhuộm L'Oreal Dưỡng Tóc Phủ Bạc 5 Nâu Hạt Dẻ 172ml,110.000 ₫,219.000 ₫,32,05 Natural Light Brown,3
+109,422207405,100845,https://hasaki.vn/san-pham/dau-goi-kho-girlz-only-huong-trai-cay-ngot-ngao-100ml-100845.html,Dầu Gội Khô Girlz Only Hương Trái Cây Ngọt Ngào 100ml,219.000 ₫,64.000 ₫,109,100ml,23
+110,422203493,94151,https://hasaki.vn/san-pham/mau-nhuom-l-oreal-duong-toc-phu-bac-5-35-nau-socola-172ml-94151.html,Màu Nhuộm L'Oreal Dưỡng Tóc Phủ Bạc 5.35 Nâu Socola 172ml,188.000 ₫,169.000 ₫,41,5.35 Chocolate Brown,11
+111,206800016,8177,https://hasaki.vn/san-pham/dau-goi-oliv-natural-nourish-duong-toc-bong-benh-650ml-8177.html,Dầu Gội Ôliv Natural Nourish Dưỡng Tóc Bồng Bềnh 650ml,220.000 ₫,167.000 ₫,41,650ml,5
+112,241200032,87985,https://hasaki.vn/san-pham/dau-goi-tresemme-ngan-ngua-toc-gay-rung-640g-87985.html,Dầu Gội TRESemmé Ngăn Tóc Gãy Rụng 640g,26.750 ₫,186.000 ₫,36,640g,9
+113,422202334,92667,https://hasaki.vn/san-pham/serum-duong-toc-ellips-keratin-phuc-hoi-hu-ton-vi-6-vien-92667.html,Serum Dưỡng Tóc Ellips Keratin Phục Hồi Hư Tổn Vỉ 6 Viên,169.000 ₫,21.000 ₫,316,6 viên,10
+114,422204809,96719,https://hasaki.vn/san-pham/dau-goi-organist-nuoi-duong-toc-gung-va-bac-ha-500ml-96719.html,Dầu Gội Organist Bạc Hà & Gừng Cho Da Đầu Gàu Ngứa 500ml,117.000 ₫,103.000 ₫,64,500ml,11
+115,422207797,101495,https://hasaki.vn/san-pham/dau-dua-milaganics-ep-lanh-tinh-khiet-100ml-101495.html,Dầu Dừa Milaganics Ép Lạnh Tinh Khiết 100ml,51.000 ₫,46.000 ₫,142,100ml,8
+116,422207131,100453,https://hasaki.vn/san-pham/dau-goi-selsun-ngua-gau-giam-ngua-da-dau-5ml-x-10-goi-100453.html,Dầu Gội Selsun Ngừa Gàu & Giảm Ngứa Da Đầu 5ml x 10 Gói,234.000 ₫,47.000 ₫,137,5ml x 10 gói,31
+117,422201905,92081,https://hasaki.vn/san-pham/dau-goi-milaganics-tinh-dau-buoi-kich-thich-moc-toc-250ml-92081.html,Dầu Gội Milaganics Tinh Dầu Bưởi Kích Thích Mọc Tóc 250ml,155.000 ₫,92.000 ₫,69,250ml,29
+118,422204436,97519,https://hasaki.vn/san-pham/dau-goi-dove-ho-tro-phuc-hoi-toc-hu-ton-640g-97519.html,Dầu Gội Dove Hỗ Trợ Phục Hồi Tóc Hư Tổn 640g,85.000 ₫,135.000 ₫,47,640g,2
+119,422211415,106843,https://hasaki.vn/san-pham/dau-duong-toc-l-oreal-chiet-xuat-hoa-hong-100ml-106843.html,Dầu Dưỡng Tóc L’Oréal Chiết Xuất Hoa Hồng 100ml,289.000 ₫,252.000 ₫,25,100ml,39
+120,422211874,107251,https://hasaki.vn/san-pham/kem-u-toc-buoi-cocoon-giam-gay-rung-va-lam-mem-toc-200ml-107251.html,Kem Ủ Tóc Bưởi Cocoon Giảm Gãy Rụng Và Làm Mềm Tóc 200ml,215.000 ₫,192.000 ₫,33,200ml,3
+121,422209985,104823,https://hasaki.vn/san-pham/combo-selsun-goi-xa-ngan-gau-dau-goi-250ml-dau-xa-100ml-104823.html,Bộ Gội Xả Selsun Ngăn Gàu (Dầu Gội 250ml + Dầu Xả 100ml),264.000 ₫,235.000 ₫,25,250+100ml,2
+122,422212085,107788,https://hasaki.vn/san-pham/kem-u-olaplex-no-3-phuc-hoi-toc-hu-ton-100ml-107788.html,Kem Ủ Olaplex No.3 Phục Hồi Tóc Hư Tổn 100ml,890.000 ₫,690.000 ₫,9,100ml,
+123,422205415,97713,https://hasaki.vn/san-pham/dau-kho-da-nang-nuxe-duong-am-cho-da-mat-body-va-toc-50ml-97713.html,"Dầu Khô Đa Năng Nuxe Dưỡng Ẩm Cho Da Mặt, Body Và Tóc 50ml",745.000 ₫,531.000 ₫,11,50ml,4
+124,422214253,110940,https://hasaki.vn/san-pham/dau-goi-aromatica-huong-thao-ngan-rung-toc-400ml-110940.html,Dầu Gội Aromatica Hương Thảo Ngăn Rụng Tóc 400ml,624.000 ₫,398.000 ₫,14,400ml,1
+125,422200841,90919,https://hasaki.vn/san-pham/dau-goi-kho-girlz-only-lam-sach-toc-sau-1-lan-xit-200ml-90919.html,Dầu Gội Khô Girlz Only Làm Sạch Tóc Sau 1 Lần Xịt 200ml,175.000 ₫,89.000 ₫,60,200ml,23
+126,252300017,14478,https://hasaki.vn/san-pham/thuoc-nhuom-phu-bac-bigen-mau-nau-caramen-4-medium-brown-14478.html,Thuốc Nhuộm Tóc Bigen Phủ Bạc Dạng Kem #4 Nâu Caramen 80ml,246.000 ₫,208.000 ₫,26,4 Medium Brown,17
+127,422211161,106501,https://hasaki.vn/san-pham/kem-xa-dove-serum-2in1-toc-phong-day-ngan-lao-hoa-230ml-106501.html,Kem Xả Dove Serum 2in1 Tóc Phồng Dày & Ngăn Lão Hóa 230ml,230.000 ₫,172.000 ₫,31,230ml,3
+128,422215796,113711,https://hasaki.vn/san-pham/dau-goi-vichy-sach-gau-cho-da-dau-dau-ngua-75ml-113711.html,"Dầu Gội Vichy Sạch Gàu Cho Da Đầu Dầu, Ngứa 75ml",160.000 ₫,144.000 ₫,37,75ml,3
+129,422202335,92663,https://hasaki.vn/san-pham/serum-duong-toc-ellips-keratin-ong-muot-vi-6-vien-92663.html,Serum Dưỡng Tóc Ellips Keratin Óng Mượt Vỉ 6 viên,26.750 ₫,24.000 ₫,219,6 viên,10
+130,422204810,96721,https://hasaki.vn/san-pham/kem-nhuom-toc-reen-phu-bac-thao-duoc-mau-den-128g-96721.html,Kem Nhuộm Tóc Reen Phủ Bạc Thảo Dược Màu Đen 128g,162.000 ₫,161.000 ₫,33,128g,11
+131,308100016,84641,https://hasaki.vn/san-pham/serum-cocoon-ho-tro-phuc-hoi-toc-70ml-84641.html,Tinh Chất Dưỡng Tóc Cocoon Hỗ Trợ Phục Hồi & Bảo Vệ 70ml,165.000 ₫,148.000 ₫,36,70ml,17
+132,422209494,104167,https://hasaki.vn/san-pham/kem-xa-dove-ong-mem-tu-nhien-610g-moi-104167.html,Kem Xả Dove Óng Mềm Tự Nhiên 610g (Mới),190.000 ₫,172.000 ₫,31,610g,3
+133,422208130,102249,https://hasaki.vn/san-pham/may-uon-toc-halio-tu-xoay-360-do-ion-am-mau-rose-gold-102249.html,Máy Uốn Tóc Halio Tự Xoay 360 Độ Ion Âm Màu Rose Gold,950.000 ₫,898.000 ₫,6,1 cái,
+134,422202349,92637,https://hasaki.vn/san-pham/kem-u-toc-ellips-keratin-phuc-hoi-hu-ton-hair-repair-18g-92637.html,Kem Ủ Tóc Ellips Keratin Hỗ Trợ Phục Hồi Hư Tổn 18g,12.840 ₫,12.000 ₫,429,18g,5
+135,422209983,104819,https://hasaki.vn/san-pham/combo-2-dau-goi-selsun-ngan-ngua-gau-va-ngua-250mlx2-104819.html,Combo 2 Dầu Gội Selsun Ngăn Ngừa Gàu Và Ngứa 250mlx2,416.000 ₫,366.000 ₫,14,2x250ml,31
+136,422207350,100763,https://hasaki.vn/san-pham/dau-goi-gennie-pomelo-ngan-rung-kich-thich-moc-toc-400ml-100763.html,"Dầu Gội Gennie Bưởi Ngăn Rụng, Kích Thích Mọc Tóc 400ml",149.000 ₫,118.000 ₫,44,400ml,4
+137,422216452,114605,https://hasaki.vn/san-pham/combo-dove-dau-goi-380ml-kem-xa-serum-2in1-phuc-hoi-ngan-gay-rung-230ml-114605.html,Combo Dove Dầu Gội 380ml + Kem Xả Serum 2in1 Phục Hồi & Ngăn Gãy Rụng 230ml,460.000 ₫,315.000 ₫,17,2 món,1
+138,214600024,83525,https://hasaki.vn/san-pham/kem-xa-pantene-cao-cap-3-phut-dieu-ky-cham-soc-toc-hu-ton-300ml-83525.html,Dầu Xả Pantene 3 Phút Diệu Kỳ Phục Hồi Tóc Hư Tổn 300ml,122.000 ₫,97.000 ₫,53,300ml,3
+139,214600009,83555,https://hasaki.vn/san-pham/dau-goi-pantene-ngan-rung-toc-300g-83555.html,Dầu Gội Pantene Ngăn Rụng Tóc 300ml,95.000 ₫,84.000 ₫,60,300ml,6
+140,422207378,100835,https://hasaki.vn/san-pham/nuoc-duong-toc-cocoon-sa-chi-cap-am-phuc-hoi-hu-ton-140ml-100835.html,"Nước Dưỡng Tóc Cocoon Sa-Chi Cấp Ẩm, Phục Hồi Hư Tổn 140ml",145.000 ₫,123.000 ₫,41,140ml,3
+141,100360006,1418,https://hasaki.vn/san-pham/kem-u-l-oreal-paris-ho-tro-phuc-hoi-toc-hu-ton-200ml-1418.html,Kem Ủ Tóc L'Oréal Paris Hỗ Trợ Phục Hồi Tóc Hư Tổn 200ml,149.000 ₫,114.000 ₫,43,200ml,4
+142,214600023,83523,https://hasaki.vn/san-pham/kem-xa-pantene-cao-cap-3-phut-dieu-ky-ngan-rung-toc-300ml-83523.html,Dầu Xả Pantene 3 Phút Diệu Kỳ Ngăn Rụng Tóc 300ml,122.000 ₫,97.000 ₫,51,300ml,3
+143,422203293,93865,https://hasaki.vn/san-pham/dau-xa-buoi-milaganics-phuc-hoi-duong-toc-mem-muot-500ml-93865.html,Dầu Xả Milaganics Tinh Dầu Bưởi Dưỡng Tóc Mềm Mượt 500ml,317.000 ₫,125.000 ₫,39,500ml,29
+144,422204437,96183,https://hasaki.vn/san-pham/dau-goi-dove-duong-toc-bong-benh-khong-bet-dinh-640g-96183.html,"Dầu Gội Dove Dưỡng Tóc Bồng Bềnh, Không Bết Dính 640g",155.000 ₫,134.000 ₫,37,640g,2
+145,241200015,81909,https://hasaki.vn/san-pham/xit-bao-ve-toc-khoi-nhiet-tresemme-236ml-81909.html,Xịt Dưỡng TRESemmé Bảo Vệ Tóc Khỏi Nhiệt 236ml,250.000 ₫,209.000 ₫,24,236ml,4
+146,241200041,89663,https://hasaki.vn/san-pham/combo-tresemme-detox-toc-chac-khoe-dau-goi-640g-dau-xa-620g-89663.html,Bộ Gội Xả TRESemmé Detox Tóc Chắc Khoẻ 640g+620g,370.000 ₫,320.000 ₫,15,640g + 620g,1
+147,422202734,93123,https://hasaki.vn/san-pham/mau-nhuom-l-oreal-duong-toc-phu-bac-01-den-tu-nhien-172ml-93123.html,Màu Nhuộm L'Oreal Dưỡng Tóc Phủ Bạc 1 Đen Tự Nhiên 172ml,219.000 ₫,169.000 ₫,28,1 Natural Black,11
+148,422205414,97721,https://hasaki.vn/san-pham/dau-kho-da-nang-nuxe-duong-am-cho-da-mat-body-va-toc-100ml-97721.html,"Dầu Khô Đa Năng Nuxe Dưỡng Ẩm Cho Da Mặt, Body Và Tóc 100ml",965.000 ₫,819.000 ₫,6,100ml,4
+149,241200030,87981,https://hasaki.vn/san-pham/dau-xa-tresemme-ngan-ngua-toc-gay-rung-620g-87981.html,Dầu Xả TRESemmé Ngăn Tóc Gãy Rụng 620g,220.000 ₫,195.000 ₫,24,620g,1
+150,422202625,93001,https://hasaki.vn/san-pham/serum-buoi-milaganics-nuoi-duong-kich-thich-moc-toc-250ml-93001.html,Serum Bưởi Milaganics Ngừa Rụng & Kích Thích Mọc Tóc 250ml,217.000 ₫,115.000 ₫,40,250ml,33
+151,422212122,107784,https://hasaki.vn/san-pham/dau-goi-kho-olaplex-no-4d-lam-sach-toc-250ml-107784.html,Dầu Gội Khô Olaplex No.4D Làm Sạch Tóc 250ml,890.000 ₫,690.000 ₫,7,250ml,
+152,252300019,14451,https://hasaki.vn/san-pham/thuoc-nhuom-toc-phu-bac-bigen-mau-nau-den-6-darkest-brown-14451.html,Thuốc Nhuộm Tóc Bigen Phủ Bạc Dạng Kem #6 Nâu Đen 80ml,246.000 ₫,244.000 ₫,19,6 Darkest Brown,17
+153,422206476,99363,https://hasaki.vn/san-pham/xit-duong-toc-dr-forhair-ho-tro-moc-toc-120ml-99363.html,Xịt Dưỡng Tóc Dr.ForHair Hỗ Trợ Mọc Tóc 120ml,384.000 ₫,258.000 ₫,17,120ml,1
+154,422209834,104567,https://hasaki.vn/san-pham/dau-goi-kho-girlz-only-cho-toc-bet-roi-toc-xoan-kho-200ml-104567.html,"Dầu Gội Khô Girlz Only Cho Tóc Bết Rối, Tóc Xoăn, Khô 200ml",175.000 ₫,106.000 ₫,41,200ml,23
+155,347800037,87559,https://hasaki.vn/san-pham/kem-xa-tsubaki-premium-ngan-ngua-rung-toc-180g-87559.html,Kem Xả Tsubaki Phục Hồi Ngăn Rụng Tóc 180g,205.000 ₫,196.000 ₫,22,180g,2
+156,224200001,4380,https://hasaki.vn/san-pham/dau-goi-selsun-ngua-gau-giam-ngua-da-dau-50ml-4380.html,Dầu Gội Selsun Ngừa Gàu Và Ngứa 1% Selenium Sulfide 50ml,59.000 ₫,52.000 ₫,82,50ml,31
+157,422202350,92635,https://hasaki.vn/san-pham/kem-u-toc-ellips-keratin-mem-muot-moi-smooth-silky-18g-92635.html,Kem Ủ Tóc Ellips Keratin Dưỡng Tóc Bóng Mượt 18g,12.840 ₫,12.000 ₫,351,18g,5
+158,422202041,92245,https://hasaki.vn/san-pham/dau-goi-clear-men-sach-gau-deep-cleanse-sach-sau-630g-92245.html,Dầu Gội Clear Men Deep Cleanse Sạch Sâu 630g,180.000 ₫,154.000 ₫,27,630g,2
+159,422206374,99105,https://hasaki.vn/san-pham/kem-nhuom-l-oreal-duong-toc-6-34-nau-dong-cam-172ml-99105.html,Kem Nhuộm L'Oreal Dưỡng Tóc Sâu 6.34 Nâu Đồng Cam 172ml,199.000 ₫,169.000 ₫,24,172ml,14
+160,422209342,103585,https://hasaki.vn/san-pham/combo-dau-goi-selsun-ngua-gau-ngua-1-selenium-sulfide-100mlx2-103585.html,Combo 2 Dầu Gội Selsun Ngăn Ngừa Gàu Và Ngứa 100mlx2,182.000 ₫,162.000 ₫,25,2x100ml,31
+161,422210002,105169,https://hasaki.vn/san-pham/tinh-dau-duong-toc-raip-bong-muot-huong-lovely-100ml-105169.html,Tinh Dầu Dưỡng Tóc Raip Bóng Mượt Hương Lovely 100ml,125.000 ₫,109.000 ₫,37,100ml,14
+162,422211166,106513,https://hasaki.vn/san-pham/tinh-dau-duong-toc-raip-bong-muot-huong-grapefruit-100ml-106513.html,Tinh Dầu Dưỡng Tóc Raip Bóng Mượt Hương Grapefruit 100ml,125.000 ₫,109.000 ₫,37,100ml,14
+163,422202330,92675,https://hasaki.vn/san-pham/serum-duong-toc-ellips-vitamin-mem-muot-ong-a-6-vien-92675.html,Serum Dưỡng Tóc Ellips Vitamin Óng Mượt Vỉ 6 Viên,26.750 ₫,24.000 ₫,165,6 viên,13
+164,422210001,105173,https://hasaki.vn/san-pham/tinh-dau-duong-toc-raip-bong-muot-huong-ocean-blue-100ml-105173.html,Tinh Dầu Dưỡng Tóc Raip Bóng Mượt Hương Ocean Blue 100ml,125.000 ₫,109.000 ₫,36,100ml,14
+165,422207262,100641,https://hasaki.vn/san-pham/bo-goi-xa-ogx-chiet-xuat-hoa-anh-dao-cap-am-cho-toc-2x385ml-100641.html,Bộ Gội Xả OGX Chiết Xuất Hoa Anh Đào Cấp Ẩm Cho Tóc 2x385ml,590.000 ₫,588.000 ₫,7,2x385ml,
+166,100330050,2440,https://hasaki.vn/san-pham/dau-goi-ogx-argan-oil-giup-phuc-hoi-toc-hu-ton-385ml-2440.html,Dầu Gội OGX Argan Oil Giúp Phục Hồi Tóc Hư Tổn 385ml,295.000 ₫,224.000 ₫,18,385ml,16
+167,422203975,95263,https://hasaki.vn/san-pham/dau-goi-clear-men-cool-sport-bac-ha-sach-gau-630g-95263.html,Dầu Gội Clear Men Cool Sport Bạc Hà Sạch Gàu 630g,180.000 ₫,156.000 ₫,25,630g,2
+168,329700001,68122,https://hasaki.vn/san-pham/dau-goi-ducray-giup-ngan-rung-toc-200ml-68122.html,Dầu Gội Ducray Giúp Ngăn Rụng Tóc 200ml,494.000 ₫,419.000 ₫,9,200ml,1
+169,422204438,96281,https://hasaki.vn/san-pham/dau-goi-dove-ngan-gay-rung-toc-640gr-96281.html,Dầu Gội Dove Ngăn Gãy Rụng Tóc 640g (Mới),155.000 ₫,135.000 ₫,28,640g,2
+170,422205618,98069,https://hasaki.vn/san-pham/dau-xa-l-oreal-paris-duong-toc-giam-gay-rung-280ml-98069.html,Dầu Xả L'Oreal Paris Dưỡng Tóc Giảm Gãy Rụng 280ml,139.000 ₫,106.000 ₫,35,280ml,1
+171,422212506,108082,https://hasaki.vn/san-pham/luoc-goi-dau-baresoul-massage-dau-ngua-rung-toc-mau-hong-108082.html,"Lược Gội Đầu BareSoul Massage Đầu, Ngừa Rụng Tóc Màu Hồng",150.000 ₫,119.000 ₫,32,1 cái,1
+172,372200002,79799,https://hasaki.vn/san-pham/dau-goi-kho-girlz-only-dusk-til-dawn-200ml-79799.html,Dầu Gội Khô Girlz Only Hương Cam Quýt Tươi Mát 200ml,175.000 ₫,99.000 ₫,38,200ml,23
+173,422211782,107133,https://hasaki.vn/san-pham/luoc-goi-dau-baresoul-massage-dau-ngua-rung-toc-107133.html,"Lược Gội Đầu BareSoul Massage Đầu, Ngừa Rụng Tóc Màu Tím",150.000 ₫,122.000 ₫,30,1 cái,1
+174,241200027,87975,https://hasaki.vn/san-pham/dau-goi-tresemme-gung-tra-xanh-detox-toc-chac-khoe-640g-1-87975.html,Dầu Gội TRESemmé Detox Tóc Chắc Khỏe & Sạch Sâu 640g,220.000 ₫,162.000 ₫,22,640g,9
+175,100320003,2886,https://hasaki.vn/san-pham/mau-nhuom-l-oreal-duong-toc-phu-bac-4-nau-tu-nhien-172ml-2886.html,Màu Nhuộm L'Oreal Dưỡng Tóc Phủ Bạc 4 Nâu Tự Nhiên 172ml,219.000 ₫,169.000 ₫,21,04 Brown,11
+176,422205542,97987,https://hasaki.vn/san-pham/dau-goi-l-oreal-professionnel-phuc-hoi-hu-ton-300ml-97987.html,Dầu Gội L'Oréal Professionnel Phục Hồi Hư Tổn 300ml,439.000 ₫,438.000 ₫,9,300ml,7
+177,422202185,92501,https://hasaki.vn/san-pham/dau-goi-l-oreal-professionnel-cap-am-cho-toc-kho-600ml-92501.html,Dầu Gội L’Oréal Professionnel Cấp Ẩm Cho Tóc Khô 600ml,319.000 ₫,318.000 ₫,11,600ml,1
+178,422211376,106789,https://hasaki.vn/san-pham/combo-tresemme-goi-640g-xa-620g-u-180ml-keratin-vao-nep-suon-muot-106789.html,"Combo TRESemmé Gội 640g, Xả 620g & Ủ 180ml Keratin Vào Nếp Suôn Mượt",544.000 ₫,400.000 ₫,9,3 món,
+179,422202331,92673,https://hasaki.vn/san-pham/serum-duong-toc-ellips-vitamin-phuc-hoi-hu-ton-6-vien-92673.html,Serum Dưỡng Tóc Ellips Vitamin Phục Hồi Hư Tổn Vỉ 6 Viên,26.750 ₫,19.000 ₫,180,6 viên,13
+180,422201799,91951,https://hasaki.vn/san-pham/gel-tao-kieu-double-rich-strong-giu-nep-uon-toc-250ml-91951.html,Gel Tạo Kiểu Tóc Double Rich Giữ Nếp Tóc Uốn 250ml,80.000 ₫,79.000 ₫,44,250ml,5
+181,422201798,91953,https://hasaki.vn/san-pham/gel-tao-kieu-double-rich-soft-giu-nep-tu-nhien-250ml-91953.html,Gel Tạo Kiểu Tóc Double Rich Giữ Nếp Tự Nhiên 250ml,80.000 ₫,73.000 ₫,47,250ml,5
+182,422211633,107600,https://hasaki.vn/san-pham/dau-goi-romano-huong-nuoc-hoa-gentleman-650g-107600.html,Dầu Gội Romano Hương Nước Hoa Gentleman 650g,181.000 ₫,151.000 ₫,23,650g,2
+183,422205769,98295,https://hasaki.vn/san-pham/muoi-tam-baresoul-da-nang-cho-da-dau-co-the-300g-98295.html,Muối Tắm BareSoul Đa Năng Cho Da Đầu & Cơ Thể 330g,265.000 ₫,198.000 ₫,18,330g,1
+184,422204818,96737,https://hasaki.vn/san-pham/kem-u-toc-double-rich-cham-soc-toc-kho-xo-hu-ton-150g-96737.html,Kem Ủ Tóc Double Rich Chăm Sóc Tóc Khô Xơ & Hư Tổn 150g,79.000 ₫,78.000 ₫,44,150g,11
+185,422212088,107796,https://hasaki.vn/san-pham/dau-xa-olaplex-no-5-phuc-hoi-duong-toc-chac-khoe-250ml-107796.html,"Dầu Xả Olaplex No.5 Phục Hồi, Dưỡng Tóc Chắc Khoẻ 250ml",890.000 ₫,690.000 ₫,5,250ml,
+186,422212087,107794,https://hasaki.vn/san-pham/dau-goi-olaplex-no-4-phuc-hoi-duong-toc-chac-khoe-100ml-107794.html,"Dầu Gội Olaplex No.4 Phục Hồi, Dưỡng Tóc Chắc Khoẻ 100ml",450.000 ₫,338.000 ₫,10,100ml,1
+187,422210152,105215,https://hasaki.vn/san-pham/dau-goi-mise-en-scene-ho-tro-phuc-hoi-toc-hu-ton-530ml-105215.html,Dầu Gội Mise en scène Hỗ Trợ Phục Hồi Tóc Hư Tổn 530ml,230.000 ₫,190.000 ₫,18,530ml,1
+188,205100027,6220,https://hasaki.vn/san-pham/dau-hap-l-oreal-professionnel-cham-soc-toc-thu-gian-500ml-6220.html,Dầu Hấp L'Oréal Professionnel Chăm Sóc Tóc Thư Giãn 500ml,369.000 ₫,368.000 ₫,9,500ml,64
+189,422200029,90103,https://hasaki.vn/san-pham/dau-goi-ogx-keratin-vao-nep-suon-muot-385ml-90103.html,Dầu Gội OGX Keratin Vào Nếp Suôn Mượt 385ml,295.000 ₫,294.000 ₫,12,385 ml,16
+190,422206702,99841,https://hasaki.vn/san-pham/dau-goi-sunsilk-ong-muot-rang-ngoi-chiet-xuat-bo-ket-1-4kg-99841.html,Dầu Gội Sunsilk Óng Mượt Rạng Ngời 1.4kg,290.000 ₫,269.000 ₫,12,1.4kg,1
+191,422213967,110442,https://hasaki.vn/san-pham/combo-cocoon-dau-goi-buoi-310ml-nuoc-duong-toc-tinh-dau-buoi-310ml-110442.html,Combo Cocoon Dầu Gội Bưởi 310ml + Nước Dưỡng Tóc Tinh Dầu Bưởi 310ml,570.000 ₫,456.000 ₫,7,2 món,1
+192,422210776,106009,https://hasaki.vn/san-pham/xit-toc-milaganics-keratin-biotin-4-giup-moc-toc-150ml-106009.html,Xịt Tóc Milaganics Keratin & Biotin 4% Giúp Mọc Tóc 150ml,213.000 ₫,138.000 ₫,24,150ml,1
+193,422209495,104053,https://hasaki.vn/san-pham/dau-goi-dove-ngan-gay-rung-toc-880g-moi-104053.html,Dầu Gội Dove Ngăn Gãy Rụng Tóc 880g (Mới),216.000 ₫,177.000 ₫,18,880g,2
+194,422215529,113209,https://hasaki.vn/san-pham/tinh-chat-duong-toc-unove-cham-soc-toc-kho-va-hu-ton-70ml-113209.html,Serum Dưỡng Tóc Unove Chăm Sóc Tóc Khô Và Hư Tổn 70ml,348.000 ₫,346.000 ₫,9,70ml,
+195,422212121,107782,https://hasaki.vn/san-pham/dau-goi-olaplex-no-4c-lam-sach-sau-cho-toc-da-dau-250ml-107782.html,Dầu Gội Olaplex No.4C Làm Sạch Sâu Cho Tóc & Da Đầu 250ml,890.000 ₫,690.000 ₫,5,250ml,
+196,422206711,99823,https://hasaki.vn/san-pham/dau-xa-sunsilk-mem-muot-dieu-ky-tu-tinh-dau-tu-nhien-640g-99823.html,Dầu Xả Sunsilk Mềm Mượt Diệu Kỳ 640g,141.000 ₫,134.000 ₫,23,640g,2
+197,205100067,14697,https://hasaki.vn/san-pham/kem-nhuom-l-oreal-duong-toc-sau-5-13-nau-anh-tro-172ml-14697.html,Kem Nhuộm L'Oreal Dưỡng Tóc Sâu 5.13 Nâu Ánh Tro 172ml,199.000 ₫,169.000 ₫,18, 172ml,14
+198,422211031,106627,https://hasaki.vn/san-pham/dau-goi-organist-lam-sach-sau-huong-thao-va-muoi-bien-500ml-106627.html,Dầu Gội Organist Hương Thảo & Muối Biển Cho Tóc Dầu 500ml,169.000 ₫,117.000 ₫,26,500ml,11
+199,422211406,106835,https://hasaki.vn/san-pham/bo-doi-goi-xa-mise-en-scene-ho-tro-phuc-hoi-toc-hu-ton-530mlx2-106835.html,Bộ Gội Xả Mise En Scène Hỗ Trợ Phục Hồi Tóc Hư Tổn 530mlx2,460.000 ₫,381.000 ₫,8,2 chai,
+200,204600003,83643,https://hasaki.vn/san-pham/dau-goi-head-shoulders-bac-ha-mat-lanh-170ml-83643.html,Dầu Gội Head & Shoulders Bạc Hà Mát Lạnh 170ml,68.000 ₫,67.000 ₫,45,170ml,4
+201,387400008,83617,https://hasaki.vn/san-pham/dau-xa-rejoice-duong-toc-suon-muot-huong-hoa-mau-don-320ml-83617.html,Dầu Xả Rejoice Dưỡng Suôn Mượt Hương Nước Hoa Mẫu Đơn 320ml,239.000 ₫,79.000 ₫,38,320ml,2
+202,422208231,102291,https://hasaki.vn/san-pham/bot-kem-nhuom-toc-liese-mau-nau-lanh-airy-brown-108ml-102291.html,Bọt Kem Nhuộm Tóc Liese Màu Nâu Lạnh Airy Brown 108ml,289.000 ₫,159.000 ₫,19,108ml,5
+203,422210148,105207,https://hasaki.vn/san-pham/tinh-chat-duong-toc-mise-en-scene-giup-toc-suon-muot-80ml-105207.html,Tinh Chất Dưỡng Tóc Mise en scène Giúp Tóc Suôn Mượt 80ml,89.000 ₫,218.000 ₫,14,80ml,2
+204,387400007,83615,https://hasaki.vn/san-pham/dau-xa-rejoice-sieu-mem-muot-320ml-83615.html,Dầu Xả Rejoice Siêu Mềm Mượt 48 Giờ 320ml,81.000 ₫,88.000 ₫,33,320ml,3
+205,422208253,102609,https://hasaki.vn/san-pham/sap-vuot-toc-x-men-dang-dac-giu-nep-cung-70g-102609.html,Sáp Vuốt Tóc X-Men Tạo Phồng & Giữ Nếp 8H 70g,156.000 ₫,72.000 ₫,41,70g,4
+206,224500001,4446,https://hasaki.vn/san-pham/dau-goi-kho-batiste-huong-co-dien-nguyen-ban-200ml-4446.html,Dầu Gội Khô Batiste Hương Cổ Điển Nguyên Bản 200ml,767.000 ₫,139.000 ₫,21,200ml,7
+207,422213297,109262,https://hasaki.vn/san-pham/bo-goi-xa-mat-na-u-toc-tsubaki-phuc-hoi-hu-ton-nang-giam-gay-rung-3-mon-109262.html,Bộ Chăm Sóc Tóc Tsubaki Phục Hồi Hư Tổn Nặng & Giảm Gãy Rụng 3 Món,289.000 ₫,575.000 ₫,5,3 món,
+208,422210149,105209,https://hasaki.vn/san-pham/tinh-chat-duong-toc-mise-en-scene-huong-nuoc-hoa-80ml-105209.html,Tinh Chất Dưỡng Tóc Mise en scène Hương Nước Hoa 80ml,175.000 ₫,239.000 ₫,13,80ml,2
+209,422209040,103113,https://hasaki.vn/san-pham/dau-goi-kho-girlz-only-cho-toc-nau-toi-mau-200ml-103113.html,"Dầu Gội Khô Girlz Only Cho Tóc Nâu, Tối Màu 200ml",60.000 ₫,106.000 ₫,27,200ml,23
+210,224200003,4378,https://hasaki.vn/san-pham/dau-xa-selsun-duong-toc-ngan-ngua-gau-100ml-4378.html,Dầu Xả Selsun Dưỡng Tóc Ngăn Ngừa Gàu 100ml,270.000 ₫,51.000 ₫,56,100ml,4
+211,422211197,106551,https://hasaki.vn/san-pham/kem-u-toc-le-petit-olivier-dau-olive-bo-hat-mo-dau-argan-330ml-106551.html,Kem Ủ Tóc Le Petit Olivier Phục Hồi Sâu Hư Tổn 330ml,890.000 ₫,218.000 ₫,13,330ml,5
+212,422212086,107790,https://hasaki.vn/san-pham/dau-goi-olaplex-no-4-phuc-hoi-duong-toc-chac-khoe-250ml-107790.html,"Dầu Gội Olaplex No.4 Phục Hồi, Dưỡng Tóc Chắc Khoẻ 250ml",129.000 ₫,690.000 ₫,4,250ml,
+213,422205617,98071,https://hasaki.vn/san-pham/dau-xa-l-oreal-paris-giam-5-dau-hieu-cua-toc-hu-ton-280ml-98071.html,Dầu Xả L'Oreal Paris Giảm 5 Dấu Hiệu Của Tóc Hư Tổn 280ml,79.000 ₫,106.000 ₫,26,280ml,1
+214,422204819,96739,https://hasaki.vn/san-pham/kem-u-toc-double-rich-cham-soc-chuyen-sau-cho-toc-nhuom-150g-96739.html,Kem Ủ Tóc Double Rich Chuyên Sâu Cho Tóc Nhuộm 150g,100.000 ₫,78.000 ₫,35,150g,11
+215,422204440,97541,https://hasaki.vn/san-pham/kem-xa-dove-ngan-gay-rung-toc-moi-320g-97541.html,Kem Xả Dove Ngăn Gãy Rụng Tóc (Mới) 320g,295.000 ₫,89.000 ₫,30,320g,1
+216,100340026,2441,https://hasaki.vn/san-pham/dau-xa-ogx-argan-oil-giup-phuc-hoi-toc-hu-ton-385ml-2441.html,Dầu Xả OGX Argan Oil Giúp Phục Hồi Tóc Hư Tổn 385ml,230.000 ₫,208.000 ₫,13,385ml,5
+217,422211160,106499,https://hasaki.vn/san-pham/dau-goi-dove-toc-phong-day-ngan-lao-hoa-380ml-106499.html,Dầu Gội Dove Tóc Phồng Dày & Ngăn Lão Hóa 380ml,418.000 ₫,161.000 ₫,17,380ml,1
+218,422213964,110436,https://hasaki.vn/san-pham/combo-2-kem-u-toc-fino-premium-touch-cai-thien-toc-hu-ton-230g-110436.html,Combo 2 Kem Ủ Tóc Fino Cao Cấp Giúp Phục Hồi Hư Tổn 230g,181.000 ₫,292.000 ₫,9,2x230g,6
+219,422211632,107598,https://hasaki.vn/san-pham/dau-goi-romano-huong-nuoc-hoa-attitude-650g-107598.html,Dầu Gội Romano Hương Nước Hoa Attitude 650g,212.930 ₫,146.000 ₫,18,650g,1
+220,422202343,92649,https://hasaki.vn/san-pham/serum-duong-toc-ellips-vitamin-cho-toc-nhuom-hu-50-vien-92649.html,Serum Dưỡng Tóc Ellips Vitamin Cho Tóc Nhuộm Hũ 50 Viên,729.000 ₫,193.000 ₫,14,50 viên,13
+221,422205544,97979,https://hasaki.vn/san-pham/dau-duong-da-nang-l-oreal-professionnel-phuc-hoi-hu-ton-90ml-97979.html,Dầu Dưỡng Tóc L'Oréal Professionnel Phục Hồi Hư Tổn 90ml,199.000 ₫,728.000 ₫,4,90ml,4
+222,422207981,101809,https://hasaki.vn/san-pham/kem-nhuom-l-oreal-duong-toc-sau-7-12-nau-bambi-172ml-101809.html,Kem Nhuộm L'Oreal Dưỡng Tóc Sâu 7.12 Nâu Mật Ong Khói 172ml,169.000 ₫,169.000 ₫,15,172ml,14
+223,422211028,106633,https://hasaki.vn/san-pham/dau-goi-organist-hoa-anh-dao-cho-toc-kho-500ml-moi-106633.html,Dầu Gội Organist Hoa Anh Đào Cho Tóc Khô Xơ 500ml,125.000 ₫,129.000 ₫,20,500ml,11
+224,422209999,105165,https://hasaki.vn/san-pham/tinh-dau-duong-toc-raip-bong-muot-huong-original-100ml-105165.html,Tinh Dầu Dưỡng Tóc Raip Bóng Mượt Hương Original 100ml,74.000 ₫,109.000 ₫,23,100ml,14
+225,422204820,96741,https://hasaki.vn/san-pham/mousse-tao-kieu-toc-double-rich-soft-hold-150ml-96741.html,Mousse Tạo Kiểu Tóc Double Rich Giữ Nếp Tự Nhiên 150ml,52.000 ₫,58.000 ₫,43,150ml,4
+226,422204817,96735,https://hasaki.vn/san-pham/nuoc-duong-toc-double-rich-chuyen-sau-cho-toc-nhuom-120ml-96735.html,Nước Xịt Dưỡng Tóc Double Rich Chuyên Sâu Cho Tóc Nhuộm 120ml,141.000 ₫,36.000 ₫,68,120ml,43
+227,422206710,99825,https://hasaki.vn/san-pham/dau-xa-sunsilk-ong-muot-rang-ngoi-chiet-xuat-bo-ket-640g-99825.html,Dầu Xả Sunsilk Óng Mượt Rạng Ngời 640g,199.000 ₫,134.000 ₫,18,640g,2
+228,422206376,99101,https://hasaki.vn/san-pham/kem-nhuom-l-oreal-duong-toc-6-11-xam-khoi-172ml-99101.html,Kem Nhuộm L'Oreal Dưỡng Tóc Sâu 6.11 Xám Khói 172ml,340.000 ₫,169.000 ₫,14,172ml,14
+229,250900072,33186,https://hasaki.vn/san-pham/dau-goi-fanola-phuc-hoi-toc-hu-ton-1000ml-33186.html,Dầu Gội Fanola Phục Hồi Tóc Hư Tổn 1000ml,290.000 ₫,279.000 ₫,9,1000ml,1
+230,422214157,110804,https://hasaki.vn/san-pham/combo-cocoon-tinh-dau-buoi-140ml-tay-te-bao-chet-toan-than-200ml-110804.html,Combo Cocoon Nước Dưỡng Tóc Bưởi 140ml + Tẩy Da Chết Toàn Thân 200ml,595.000 ₫,246.000 ₫,10,2 món,1
+231,422202586,92989,https://hasaki.vn/san-pham/tinh-chat-50-megumi-duong-va-ngan-rung-toc-120ml-92989.html,Tinh Chất 50 Megumi Dưỡng Và Ngăn Rụng Tóc 120ml,81.000 ₫,463.000 ₫,5,120ml,1
+232,422208251,102625,https://hasaki.vn/san-pham/sap-dat-set-x-men-giu-nep-sieu-cung-70gr-102625.html,Sáp Vuốt Tóc X-Men 8H Siêu Giữ Nếp & Kiềm Dầu 70g,183.000 ₫,59.000 ₫,39,70g,3
+233,422201906,92079,https://hasaki.vn/san-pham/dau-xa-milaganics-tinh-dau-buoi-duong-toc-mem-muot-250ml-92079.html,Dầu Xả Milaganics Tinh Dầu Bưởi Dưỡng Tóc Mềm Mượt 250ml,149.000 ₫,92.000 ₫,25,250ml,29
+234,422207351,100765,https://hasaki.vn/san-pham/dau-goi-gennie-raspberry-giu-mau-toc-nhuom-400ml-100765.html,Dầu Gội Gennie Raspberry Giữ Màu Tóc Nhuộm 400ml,295.000 ₫,96.000 ₫,24,400ml,4
+235,422207204,100543,https://hasaki.vn/san-pham/dau-xa-ogx-chiet-xuat-hoa-anh-dao-cap-am-cho-toc-385ml-100543.html,Dầu Xả OGX Chiết Xuất Hoa Anh Đào Cấp Ẩm Cho Tóc 385ml,169.000 ₫,208.000 ₫,11,385ml,5
+236,422204808,96717,https://hasaki.vn/san-pham/dau-goi-nuoi-duong-toc-organist-tinh-dau-morocco-argan-500ml-96717.html,Dầu Gội Organist Tinh Dầu Argan Cho Tóc Hư Tổn 500ml,439.000 ₫,129.000 ₫,17,500ml,11
+237,422205537,97993,https://hasaki.vn/san-pham/dau-goi-l-oreal-professionnel-lam-dai-giam-gay-rung-300ml-97993.html,"Dầu Gội L'Oréal Professionnel Làm Dài, Giảm Gãy Rụng 300ml",63.000 ₫,438.000 ₫,5,300ml,1
+238,422209619,104029,https://hasaki.vn/san-pham/dau-goi-s-o-n-bo-ket-buoi-giam-gay-rung-gau-300ml-104029.html,Dầu Gội S.O.N Bồ Kết & Bưởi Giảm Gãy Rụng & Gàu 300ml,275.000 ₫,249.000 ₫,9,300ml,20
+239,422206704,99837,https://hasaki.vn/san-pham/dau-goi-sunsilk-mem-muot-dieu-ky-tu-tinh-dau-tu-nhien-1-4kg-99837.html,Dầu Gội Sunsilk Mềm Mượt Diệu Kỳ 1.4kg,290.000 ₫,269.000 ₫,8,1.4kg,
+240,422205680,98129,https://hasaki.vn/san-pham/thuoc-nhuom-toc-phu-bac-dang-kem-bigen-882-nau-den-98129.html,Thuốc Nhuộm Tóc Bigen Phủ Bạc Dạng Kem 882 Nâu Đen 80ml,168.000 ₫,152.000 ₫,14,882 Brownish Black,14
+241,422207808,101513,https://hasaki.vn/san-pham/dau-olive-milaganics-nguyen-chat-duong-da-duong-toc-250ml-101513.html,"Dầu Olive Milaganics Nguyên Chất Dưỡng Da, Dưỡng Tóc 250ml",199.000 ₫,98.000 ₫,22,250ml,1
+242,422207732,101383,https://hasaki.vn/san-pham/dau-goi-milaganics-tinh-dau-buoi-kich-thich-moc-toc-280ml-moi-101383.html,Dầu Gội Milaganics Tinh Dầu Bưởi Kích Thích Mọc Tóc 280ml (Mới),227.000 ₫,149.000 ₫,14,280ml,1
+243,422212123,107786,https://hasaki.vn/san-pham/serum-olaplex-no-9-giup-phuc-hoi-toc-90ml-107786.html,Serum Olaplex No.9 Giúp Phục Hồi Tóc 90ml,890.000 ₫,690.000 ₫,3,90ml,45
+244,422208116,102069,https://hasaki.vn/san-pham/dau-goi-kho-colab-extreme-volume-lam-phong-toc-200ml-102069.html,Dầu Gội Khô Colab Extreme Volume Làm Phồng Tóc 200ml,225.000 ₫,138.000 ₫,15,200ml,2
+245,214600025,83527,https://hasaki.vn/san-pham/dau-goi-pantene-thanh-loc-lam-sach-chiet-xuat-tao-bien-530ml-83527.html,Dầu Gội Pantene Từ Tảo Biển Thanh Lọc & Làm Sạch 530ml,179.000 ₫,140.000 ₫,15,530ml,6
+246,422211032,106625,https://hasaki.vn/san-pham/dau-goi-organist-tay-da-chet-muoi-hong-himalaya-500ml-106625.html,Dầu Gội Organist Muối Hồng Himalaya Cho Tóc Gàu 500ml,169.000 ₫,117.000 ₫,18,500ml,11
+247,422205459,97747,https://hasaki.vn/san-pham/dau-goi-kho-batiste-huong-hoa-quyen-ru-200ml-97747.html,Dầu Gội Khô Batiste Hương Hoa Quyến Rũ 200ml,156.000 ₫,118.000 ₫,17,200ml,7
+248,422211630,107594,https://hasaki.vn/san-pham/dau-goi-romano-huong-nuoc-hoa-classic-650g-107594.html,Dầu Gội Romano Hương Nước Hoa Classic 650g,181.000 ₫,156.000 ₫,13,650g,1
+249,422214254,110942,https://hasaki.vn/san-pham/dau-xa-aromatica-huong-thao-lam-day-toc-400ml-110942.html,Dầu Xả Aromatica Hương Thảo Làm Dày Tóc 400ml,572.000 ₫,364.000 ₫,6,400ml,
+250,422209010,103027,https://hasaki.vn/san-pham/dau-goi-x-men-for-boss-intense-huong-tram-noi-luc-850g-103027.html,Dầu Gội X-Men For Boss Intense Hương Trầm Nội Lực 850g,248.000 ₫,198.000 ₫,10,850g,1
+251,422206709,99827,https://hasaki.vn/san-pham/dau-xa-sunsilk-natural-mem-muot-toa-huong-320g-99827.html,Dầu Xả Sunsilk Natural Mềm Mượt Tỏa Hương 320g,86.000 ₫,79.000 ₫,25,320g,2
+252,422212442,108004,https://hasaki.vn/san-pham/bo-goi-xa-mat-na-u-toc-tsubaki-phuc-hoi-ngan-rung-toc-3-mon-108004.html,"Bộ Chăm Sóc Tóc Tsubaki Phục Hồi, Ngăn Rụng Tóc 3 Món",725.000 ₫,501.000 ₫,4,3 món,1
+253,422207203,100545,https://hasaki.vn/san-pham/dau-goi-ogx-chiet-xuat-hoa-anh-dao-cap-am-cho-toc-385ml-100545.html,Dầu Gội OGX Chiết Xuất Hoa Anh Đào Cấp Ẩm Cho Tóc 385ml,295.000 ₫,206.000 ₫,10,385ml,16
+254,422200254,90221,https://hasaki.vn/san-pham/sua-duong-toc-tsubaki-chong-nang-phuc-hoi-hu-ton-100ml-90221.html,Sữa Dưỡng Tóc Tsubaki Chống Nắng Và Phục Hồi Hư Tổn 100ml,189.000 ₫,157.000 ₫,12,100ml,2
+255,422209672,104257,https://hasaki.vn/san-pham/kem-u-toc-tresemme-salon-rebond-ngan-gay-rung-180ml-104257.html,Kem Ủ Tóc Tresemmé Salon Rebond Ngăn Gãy Rụng 180ml,162.000 ₫,97.000 ₫,19,180ml,1
+256,422216018,114079,https://hasaki.vn/san-pham/combo-dau-goi-tsubaki-ngan-rung-toc-490ml-sua-tam-senka-hoa-tuoi-mat-500ml-114079.html,Combo Dầu Gội Tsubaki Ngăn Rụng Tóc 490ml + Sữa Tắm Senka Hoa Tươi Mát 500ml,413.000 ₫,307.000 ₫,6,490ml + 500ml,209
+257,422202332,92671,https://hasaki.vn/san-pham/serum-duong-toc-ellips-vitamin-cho-toc-nhuom-6-vien-92671.html,Serum Dưỡng Tóc Ellips Vitamin Cho Tóc Nhuộm 6 Viên,26.750 ₫,24.000 ₫,75,6 viên,13
+258,422211532,106949,https://hasaki.vn/san-pham/sap-vuot-toc-tao-kieu-uno-giu-nep-tu-nhien-80g-106949.html,Sáp Vuốt Tóc Tạo Kiểu Uno Giữ Nếp Tự Nhiên 80g,149.000 ₫,147.000 ₫,12,80g,1
+259,256700009,16856,https://hasaki.vn/san-pham/dau-dua-tinh-khiet-vitamin-e-milaganics-100ml-16856.html,Dầu Dừa Milaganics Tinh Khiết Vitamin E 100ml,117.000 ₫,46.000 ₫,38,100ml,5
+260,422205620,98065,https://hasaki.vn/san-pham/dau-xa-l-oreal-paris-bao-ve-danh-cho-toc-nhuom-280ml-98065.html,Dầu Xả L'Oreal Paris Bảo Vệ Dành Cho Tóc Nhuộm 280ml,129.000 ₫,106.000 ₫,16,280ml,1
+261,100890008,3677,https://hasaki.vn/san-pham/mau-nhuom-l-oreal-duong-toc-phu-bac-6-30-nau-anh-vang-172ml-3677.html,Màu Nhuộm L'Oreal Dưỡng Tóc Phủ Bạc 6.30 Nâu Ánh Vàng 172ml,219.000 ₫,169.000 ₫,10,6.30 Golden Dark,11
+262,422207344,100777,https://hasaki.vn/san-pham/dau-goi-lab-nature-sach-gau-cho-me-bau-no-01-473ml-100777.html,Dầu Gội Lab Nature Sạch Gàu Cho Mẹ Bầu No 01 473ml,325.000 ₫,239.000 ₫,7,473ml,
+263,422209493,104051,https://hasaki.vn/san-pham/dau-goi-clear-48-gio-sach-gau-ngua-630g-104051.html,Dầu Gội Clear 48 Giờ Sạch Gàu Ngứa 630g,174.000 ₫,151.000 ₫,11,630g,2
+264,422205500,97779,https://hasaki.vn/san-pham/kem-xa-dove-duong-toc-chac-khoe-tu-nhien-610g-97779.html,Kem Xả Dove Dưỡng Tóc Chắc Khỏe Tự Nhiên 610g,190.000 ₫,155.000 ₫,11,610g,1
+265,422214252,110938,https://hasaki.vn/san-pham/dau-goi-aromatica-huong-thao-ngan-rung-toc-180ml-110938.html,Dầu Gội Aromatica Hương Thảo Ngăn Rụng Tóc 180ml,390.000 ₫,215.000 ₫,8,180ml,
+266,422212493,108074,https://hasaki.vn/san-pham/combo-dau-kho-da-nang-nuxe-huile-prodigieuse-100ml-florale-10ml-108074.html,Combo Dầu Khô Đa Năng Nuxe Huile Classic 100ml & Hương Hoa Florale 10ml,965.000 ₫,820.000 ₫,2,2 món,
+267,422211625,107572,https://hasaki.vn/san-pham/dau-goi-enchanteur-duong-toc-sieu-muot-charming-650g-107572.html,Dầu Gội Enchanteur Dưỡng Tóc Siêu Mượt Charming 650g,182.500 ₫,149.000 ₫,11,650g,1
+268,422216453,114607,https://hasaki.vn/san-pham/combo-dove-dau-goi-380ml-kem-xa-serum-2in1-toc-phong-day-ngan-lao-hoa-230ml-114607.html,Combo Dove Dầu Gội 380ml + Kem Xả Serum 2in1 Tóc Phồng Dày & Ngăn Lão Hóa 230ml,460.000 ₫,321.000 ₫,6,2 món,1
+269,422210478,105681,https://hasaki.vn/san-pham/may-tao-kieu-toc-khong-day-da-nang-unix-multi-round-105681.html,Máy Tạo Kiểu Tóc Không Dây Đa Năng UNIX Multi Round,1.150.000 ₫,805.000 ₫,2,1 cái,
+270,422203699,95039,https://hasaki.vn/san-pham/dau-goi-some-by-mi-giam-gay-rung-cham-soc-da-dau-285ml-95039.html,Dầu Gội Some By Mi Giảm Gãy Rụng & Chăm Sóc Da Đầu 285ml,325.000 ₫,229.000 ₫,7,285ml,3
+271,347800036,87557,https://hasaki.vn/san-pham/kem-xa-tsubaki-premium-duong-toc-bong-muot-180g-87557.html,Kem Xả Tsubaki Dưỡng Tóc Bóng Mượt 180g,295.000 ₫,168.000 ₫,10,180g,2
+272,422207352,100767,https://hasaki.vn/san-pham/dau-goi-gennie-macadamia-phuc-hoi-hu-ton-400ml-100767.html,Dầu Gội Gennie Macadamia Phục Hồi Hư Tổn 400ml,149.000 ₫,125.000 ₫,13,400ml,4
+273,422200390,90429,https://hasaki.vn/san-pham/xit-duong-toc-hairburst-tao-do-phong-kich-thich-moc-toc-125ml-90429.html,"Xịt Dưỡng Tóc Hairburst Làm Phồng, Kích Thích Mọc Tóc 125ml",800.000 ₫,649.000 ₫,3,125ml,
+274,422202346,92643,https://hasaki.vn/san-pham/kem-u-toc-ellips-phuc-hoi-hu-ton-hair-treatment-20g-92643.html,Kem Ủ Tóc Ellips Phục Hồi Hư Tổn Hair Treatment 20g,12.840 ₫,12.000 ₫,130,20g,4
+275,422205501,97777,https://hasaki.vn/san-pham/dau-goi-dove-duong-toc-chac-khoe-tu-nhien-640g-97777.html,Dầu Gội Dove Dưỡng Tóc Chắc Khỏe Tự Nhiên 640g,190.000 ₫,155.000 ₫,10,640g,3
+276,422208119,102063,https://hasaki.vn/san-pham/dau-goi-kho-colab-unicorn-huong-co-tich-200ml-102063.html,Dầu Gội Khô Colab Unicorn Hương Cổ Tích 200ml,195.000 ₫,139.000 ₫,12,200ml,2
+277,422202333,92669,https://hasaki.vn/san-pham/serum-duong-toc-ellips-vitamin-suc-song-moi-6-vien-92669.html,Serum Dưỡng Tóc Ellips Vitamin Sức Sống Mới 6 Viên,26.750 ₫,24.000 ₫,65,6 viên,13
+278,422206708,99829,https://hasaki.vn/san-pham/dau-xa-sunsilk-natural-duong-ngan-gay-rung-320g-99829.html,Dầu Xả Sunsilk Natural Dưỡng Ngăn Gãy Rụng 320g,86.000 ₫,76.000 ₫,21,320g,2
+279,422204812,96725,https://hasaki.vn/san-pham/kem-nhuom-toc-reen-phu-bac-thao-duoc-mau-nau-sam-128g-96725.html,Kem Nhuộm Tóc Reen Phủ Bạc Thảo Dược Màu Nâu Sẫm 128g,162.000 ₫,161.000 ₫,10,128g,11
+280,422207978,101803,https://hasaki.vn/san-pham/kem-nhuom-l-oreal-duong-toc-sau-8-22-nau-hong-tra-sua-172ml-101803.html,Kem Nhuộm L'Oreal Dưỡng Tóc Sâu 8.22 Nâu Ánh Hồng 172ml,199.000 ₫,169.000 ₫,9,172ml,14
+281,422205231,97383,https://hasaki.vn/san-pham/dau-goi-dove-vao-nep-tu-nhien-moi-640g-97383.html,Dầu Gội Dove Vào Nếp Tự Nhiên 640g (Mới),190.000 ₫,171.000 ₫,9,640g,3
+282,422215299,112801,https://hasaki.vn/san-pham/dau-goi-duoc-lieu-nguyen-xuan-cho-toc-hu-ton-250ml-112801.html,Dầu Gội Dược Liệu Nguyên Xuân Cho Tóc Hư Tổn 250ml,86.000 ₫,82.000 ₫,19,250ml,2
+283,422207737,101393,https://hasaki.vn/san-pham/serum-buoi-milaganics-ngan-rung-kich-thich-moc-toc-150ml-moi-101393.html,Serum Bưởi Milaganics Ngăn Rụng & Kích Thích Mọc Tóc 150ml (Mới),141.000 ₫,89.000 ₫,17,150ml,2
+284,214600021,83519,https://hasaki.vn/san-pham/kem-xa-pantene-cao-cap-3-phut-dieu-ky-cham-soc-toc-hu-ton-150ml-83519.html,Dầu Xả Pantene 3 Phút Diệu Kỳ Phục Hồi Tóc Hư Tổn 150ml,63.000 ₫,54.000 ₫,28,150ml,3
+285,422209041,103111,https://hasaki.vn/san-pham/dau-goi-kho-girlz-only-cho-toc-nau-toi-mau-100ml-103111.html,"Dầu Gội Khô Girlz Only Cho Tóc Nâu, Tối Màu 100ml",110.000 ₫,64.000 ₫,24,100ml,23
+286,422207353,100769,https://hasaki.vn/san-pham/dau-xa-gennie-pomelo-ngan-rung-kich-thich-moc-toc-400ml-100769.html,"Dầu Xả Gennie Bưởi Ngăn Rụng, Kích Thích Mọc Tóc 400ml",149.000 ₫,125.000 ₫,12,400ml,1
+287,422208246,102611,https://hasaki.vn/san-pham/dau-goi-x-men-for-boss-intense-huong-tram-noi-luc-650g-102611.html,Dầu Gội X-Men For Boss Intense Hương Trầm Nội Lực 650g,218.000 ₫,178.000 ₫,8,650g,
+288,422202347,92641,https://hasaki.vn/san-pham/kem-u-toc-ellips-toc-nhuom-ruc-ro-nutri-color-20g-92641.html,Kem Ủ Tóc Ellips Tóc Nhuộm Rực Rỡ Nutri Color 20g,12.840 ₫,9.000 ₫,156,20g,4
+289,241200025,87971,https://hasaki.vn/san-pham/dau-xa-tresemme-gung-tra-xanh-detox-toc-chac-khoe-620g-87971.html,Dầu Xả TRESemmé Detox Tóc Chắc Khỏe 620g,220.000 ₫,190.000 ₫,8,620g,1
+290,422202336,92665,https://hasaki.vn/san-pham/serum-duong-toc-ellips-keratin-den-muot-vi-6-vien-92665.html,Serum Dưỡng Tóc Ellips Keratin Đen Mượt Vỉ 6 viên,26.750 ₫,21.000 ₫,67,6 viên,10
+291,422215298,112799,https://hasaki.vn/san-pham/dau-goi-duoc-lieu-nguyen-xuan-cho-toc-dau-bet-660ml-112799.html,Dầu Gội Dược Liệu Nguyên Xuân Cho Tóc Dầu Bết 660ml,220.000 ₫,209.000 ₫,7,660ml,
+292,422216451,114603,https://hasaki.vn/san-pham/combo-tresemme-dau-xa-620g-serum-duong-toc-vao-nep-bong-muot-97ml-114603.html,Combo TRESemmé Dầu Xả 620g + Serum Dưỡng Tóc Vào Nếp Bóng Mượt 97ml,416.000 ₫,231.000 ₫,6,2 món,
+293,422215296,112795,https://hasaki.vn/san-pham/dau-goi-duoc-lieu-nguyen-xuan-cho-toc-hu-ton-660ml-112795.html,Dầu Gội Dược Liệu Nguyên Xuân Cho Tóc Hư Tổn 660ml,192.000 ₫,184.000 ₫,8,660ml,2
+294,422208234,102297,https://hasaki.vn/san-pham/bot-kem-nhuom-toc-liese-mau-nau-tim-deep-violet-108ml-102297.html,Bọt Kem Nhuộm Tóc Liese Màu Nâu Tím Deep Violet 108ml,239.000 ₫,143.000 ₫,10,108ml,5
+295,100890010,3675,https://hasaki.vn/san-pham/mau-nhuom-l-oreal-phu-bac-7-01-vang-sang-172ml-3675.html,Màu Nhuộm L'Oreal Dưỡng Tóc Phủ Bạc 7.01 Vàng Sáng 172ml,219.000 ₫,169.000 ₫,8,7.01 Cool Blonde,11
+296,100320005,2889,https://hasaki.vn/san-pham/mau-nhuom-l-oreal-phu-bac-4-2-nau-anh-tim-172ml-2889.html,Màu Nhuộm L'Oreal Dưỡng Tóc Phủ Bạc 4.2 Nâu Ánh Tím 172ml,219.000 ₫,169.000 ₫,8,4.2 Pearly Brown,11
+297,100890006,3679,https://hasaki.vn/san-pham/mau-nhuom-l-oreal-duong-toc-phu-bac-6-35-nau-ho-phach-172ml-3679.html,Màu Nhuộm L'Oreal Dưỡng Tóc Phủ Bạc 6.35 Nâu Hổ Phách 172ml,219.000 ₫,169.000 ₫,8,6.35 Light Amber,11
+298,422202351,92633,https://hasaki.vn/san-pham/kem-u-toc-ellips-keratin-den-ong-a-silky-black-18g-92633.html,Kem Ủ Tóc Ellips Keratin Dưỡng Tóc Đen Mượt 18g,12.840 ₫,9.000 ₫,150,18g,5
+299,422202348,92639,https://hasaki.vn/san-pham/kem-u-toc-ellips-toc-bong-quyen-ru-volume-miracle-20g-92639.html,Kem Ủ Tóc Ellips Tóc Bồng Quyến Rũ Volume Miracle 20g,12.840 ₫,12.000 ₫,111,20g,4
+300,422209984,104821,https://hasaki.vn/san-pham/combo-2-dau-goi-selsun-ngan-ngua-gau-va-ngua-100ml-250ml-104821.html,Combo 2 Dầu Gội Selsun Ngăn Ngừa Gàu Và Ngứa 100ml+250ml,299.000 ₫,265.000 ₫,5,100+250ml,31
+301,422203494,94157,https://hasaki.vn/san-pham/dau-goi-milaganics-chiet-xuat-gung-sa-lam-sach-gau-250ml-94157.html,Dầu Gội Milaganics Chiết Xuất Gừng Sả Làm Sạch Gàu 250ml,267.000 ₫,105.000 ₫,13,250ml,2
+302,422208233,102295,https://hasaki.vn/san-pham/bot-kem-nhuom-toc-liese-mau-nau-hong-sugar-pink-108ml-102295.html,Bọt Kem Nhuộm Tóc Liese Màu Nâu Hồng Sugar Pink 108ml,239.000 ₫,159.000 ₫,8,108ml,5
+303,252300033,79078,https://hasaki.vn/san-pham/thuoc-nhuom-toc-phu-bac-bigen-mau-3n-nau-den-79078.html,Thuốc Nhuộm Tóc Bigen Phủ Bạc Dạng Kem 3N Nâu Đen 80ml,196.000 ₫,194.000 ₫,7,3N Nâu Đen,13
+304,422208798,102529,https://hasaki.vn/san-pham/dau-duong-toc-milaganics-vitamin-e-sachi-phuc-hoi-toc-80ml-102529.html,"Dầu Dưỡng Tóc Milaganics Vitamin E, Sachi Phục Hồi Tóc 80ml",149.000 ₫,83.000 ₫,15,80ml,1
+305,422209986,104825,https://hasaki.vn/san-pham/combo-selsun-goi-xa-ngan-gau-dau-goi-50ml-dau-xa-100ml-104825.html,Bộ Gội Xả Selsun Ngăn Gàu (Dầu Gội 50ml + Dầu Xả 100ml),110.000 ₫,102.000 ₫,12,50+100ml,1
+306,422212090,107792,https://hasaki.vn/san-pham/kem-xa-kho-olaplex-no-6-tao-kieu-duong-toc-chac-khoe-100ml-107792.html,"Kem Xả Khô Olaplex No.6 Tạo Kiểu, Dưỡng Tóc Chắc Khoẻ 100ml",890.000 ₫,690.000 ₫,2,100ml,
+307,422212120,107780,https://hasaki.vn/san-pham/tinh-chat-olaplex-no-0-phuc-hoi-duong-toc-chac-khoe-155ml-107780.html,"Tinh Chất Olaplex No.0 Phục Hồi, Dưỡng Tóc Chắc Khỏe 155ml",890.000 ₫,690.000 ₫,2,155ml,
+308,422210154,105219,https://hasaki.vn/san-pham/dau-goi-mise-en-scene-duong-suon-muot-cho-toc-uon-530ml-105219.html,Dầu Gội Mise en scène Dưỡng Suôn Mượt Cho Tóc Uốn 530ml,230.000 ₫,190.000 ₫,7,530ml,1
+309,422210697,106021,https://hasaki.vn/san-pham/dau-goi-rejoice-hoa-hong-jeju-han-quoc-thom-mem-muot-900ml-106021.html,Dầu Gội Rejoice Hoa Hồng Jeju Hàn Quốc Thơm Mềm Mượt 900ml,200.000 ₫,199.000 ₫,6,900ml,
+310,422211199,106555,https://hasaki.vn/san-pham/xit-duong-toc-le-petit-olivier-sua-hanh-nhan-va-sua-gao-150ml-106555.html,Xịt Dưỡng Tóc Le Petit Olivier Sữa Hạnh Nhân & Sữa Gạo 150ml,220.000 ₫,164.000 ₫,7,150ml,3
+311,422207130,100455,https://hasaki.vn/san-pham/dau-goi-chong-gau-selsun-anti-dandruff-shampoo-hop-6-goi-5ml-100455.html,Dầu Gội Selsun Ngừa Gàu & Giảm Ngứa Da Đầu 5ml x 6 Gói,32.500 ₫,28.000 ₫,41,5ml x 6 gói,31
+312,214600016,83569,https://hasaki.vn/san-pham/dau-xa-pantene-ngan-rung-toc-300ml-83569.html,Dầu Xả Pantene Ngăn Rụng Tóc 300ml,95.000 ₫,94.000 ₫,12,300ml,1
+313,422202345,92645,https://hasaki.vn/san-pham/kem-u-toc-ellips-duong-toc-ong-muot-smooth-shiny-20g-92645.html,Kem Ủ Tóc Ellips Dưỡng Tóc Óng Mượt Smooth & Shiny 20g,12.840 ₫,9.000 ₫,125,20g,4
+314,422201796,91957,https://hasaki.vn/san-pham/mousse-tao-kieu-toc-double-rich-tao-kieu-toc-ca-tinh-150ml-91957.html,Mousse Tạo Kiểu Tóc Double Rich Giữ Nếp Mạnh 150ml,74.000 ₫,58.000 ₫,20,150ml,2
+315,422205030,96895,https://hasaki.vn/san-pham/thuoc-nhuom-toc-mise-en-scene-6n-mau-nau-socola-30ml-96895.html,Thuốc Nhuộm Tóc Mise en scène 6N Màu Nâu Socola 30ml,299.000 ₫,248.000 ₫,5,6N Choco Brown,4
+316,422202202,92537,https://hasaki.vn/san-pham/dau-goi-l-oreal-professionnel-lam-day-giup-moc-toc-250ml-92537.html,Dầu Gội L'Oréal Professionnel Làm Dày & Giúp Mọc Tóc 250ml,84.000 ₫,550.000 ₫,2,250ml,
+317,422208093,102021,https://hasaki.vn/san-pham/tinh-chat-50-megumi-duong-va-ngan-rung-toc-30ml-102021.html,Tinh Chất 50 Megumi Dưỡng Và Ngăn Rụng Tóc 30ml,165.000 ₫,132.000 ₫,8,30ml,1
+318,422211626,107574,https://hasaki.vn/san-pham/dau-goi-enchanteur-duong-toc-sieu-muot-sensation-keratin-650g-107574.html,Dầu Gội Enchanteur Dưỡng Tóc Siêu Mượt Sensation 650g,182.500 ₫,149.000 ₫,7,650g,
+319,422203700,95041,https://hasaki.vn/san-pham/xit-duong-toc-some-by-mi-giam-gay-rung-xo-roi-150ml-95041.html,Xịt Dưỡng Tóc Some By Mi Kích Thích Mọc Tóc 150ml,365.000 ₫,286.000 ₫,4,150ml,13
+320,422212027,107485,https://hasaki.vn/san-pham/combo-cocoon-kem-u-nuoc-duong-toc-tinh-dau-buoi-107485.html,Combo Cocoon Kem Ủ & Nước Dưỡng Tóc Tinh Dầu Bưởi,380.000 ₫,304.000 ₫,4,2 món,
+321,422207979,101805,https://hasaki.vn/san-pham/kem-nhuom-l-oreal-duong-toc-sau-9-11-nau-tro-172ml-101805.html,Kem Nhuộm L'Oreal Dưỡng Tóc Sâu 9.11 Nâu Ánh Tro 172ml,199.000 ₫,169.000 ₫,6,172ml,14
+322,422201082,91215,https://hasaki.vn/san-pham/dau-goi-50-megumi-ngan-ngua-rung-toc-cho-toc-yeu-250ml-91215.html,Dầu Gội 50 Megumi Ngăn Ngừa Rụng Tóc Cho Tóc Yếu 250ml,170.000 ₫,144.000 ₫,7,250ml,1
+323,252300037,88153,https://hasaki.vn/san-pham/kem-nhuom-toc-bigen-2-mau-nau-sang-80g-88153.html,Kem Nhuộm Tóc Phủ Bạc Bigen #2 Màu Nâu Sáng 80g,226.000 ₫,224.000 ₫,5,80g,13
+324,422215145,112701,https://hasaki.vn/san-pham/dau-goi-romano-vip-huong-passion-650ml-112701.html,Dầu Gội Romano Vip Hương Passion 650ml,196.000 ₫,166.000 ₫,7,650g,
+325,422207798,101497,https://hasaki.vn/san-pham/dau-olive-milaganics-nguyen-chat-duong-da-duong-toc-100ml-101497.html,"Dầu Olive Milaganics Nguyên Chất Dưỡng Da, Dưỡng Tóc 100ml",126.000 ₫,50.000 ₫,20,100ml,1
+326,422211198,106553,https://hasaki.vn/san-pham/xit-duong-toc-le-petit-olivier-dau-olive-bo-hat-mo-dau-argan-150ml-106553.html,"Xịt Dưỡng Tóc Le Petit Olivier Dầu Olive, Bơ Hạt Mỡ & Dầu Argan 150ml",220.000 ₫,159.000 ₫,6,150ml,3
+327,422205233,97379,https://hasaki.vn/san-pham/kem-xa-dove-vao-nep-tu-nhien-moi-320g-97379.html,Kem Xả Dove Vào Nếp Tự Nhiên 320g (Mới),123.000 ₫,119.000 ₫,8,320g,
+328,422207354,100771,https://hasaki.vn/san-pham/dau-xa-gennie-chiet-xuat-raspberry-giu-mau-toc-nhuom-400ml-100771.html,Dầu Xả Gennie Raspberry Giữ Màu Tóc Nhuộm 400ml,149.000 ₫,125.000 ₫,8,400ml,
+329,422200288,90317,https://hasaki.vn/san-pham/dau-goi-pantene-ho-tro-phuc-hoi-toc-hu-ton-900ml-90317.html,Dầu Gội Pantene Phục Hồi Hư Tổn 900ml,225.000 ₫,190.000 ₫,5,900ml,6
+330,248700118,89515,https://hasaki.vn/san-pham/dau-xa-naris-nature-diu-nhe-huong-hoa-tuoi-mat-500ml-89515.html,Dầu Xả Naris Nature Dịu Nhẹ Hương Hoa Tươi Mát 500ml,395.000 ₫,316.000 ₫,3,500ml,3
+331,422200218,90161,https://hasaki.vn/san-pham/dau-goi-50-megumi-sach-thoang-tuoi-mat-toc-400ml-90161.html,Dầu Gội 50 Megumi Sạch Thoáng & Tươi Mát Tóc 400ml,250.000 ₫,188.000 ₫,5,400ml,1
+332,422209908,104595,https://hasaki.vn/san-pham/combo-tresemme-3-mon-goi-xa-u-keratin-goi-850g-xa-620g-u-180ml-104595.html,"Combo TRESemmé Gội 850g, Xả 620g & Ủ 180ml Keratin Vào Nếp Suôn Mượt",645.000 ₫,469.000 ₫,2,3 món,
+333,422216450,114601,https://hasaki.vn/san-pham/combo-tresemme-dau-goi-640g-serum-duong-toc-vao-nep-bong-muot-97ml-114601.html,Combo TRESemmé Dầu Gội + Serum Dưỡng Tóc Vào Nếp Suôn Mượt (640g + 97ml),416.000 ₫,231.000 ₫,4,640g + 97ml,
+334,422209982,104817,https://hasaki.vn/san-pham/combo-2-dau-goi-selsun-ngan-ngua-gau-va-ngua-50mlx2-104817.html,Combo 2 Dầu Gội Selsun Ngăn Ngừa Gàu Và Ngứa 50mlx2,112.000 ₫,102.000 ₫,9,2x50ml,31
+335,422207355,100773,https://hasaki.vn/san-pham/dau-xa-gennie-macadamia-phuc-hoi-hu-ton-400ml-100773.html,Dầu Xả Gennie Macadamia Phục Hồi Hư Tổn 400ml,149.000 ₫,125.000 ₫,8,400ml,
+336,422211924,107395,https://hasaki.vn/san-pham/thuoc-nhuom-toc-ezn-pamukkale-ash-gray-xam-tro-sang-280g-107395.html,Thuốc Nhuộm Tóc eZn Pamukkale Ash Gray - Xám Tro Sáng 280g,235.000 ₫,180.000 ₫,5,280g,3
+337,252300003,14547,https://hasaki.vn/san-pham/thuoc-nhuom-toc-bigen-mau-nau-hat-de-4-chestnut-14547.html,Thuốc Nhuộm Tóc Bigen Phủ Bạc #4 Nâu Hạt Dẻ 80ml,215.000 ₫,213.000 ₫,5,4 Chestnut,13
+338,422210524,105837,https://hasaki.vn/san-pham/mua-2-tang-1-dau-goi-selsun-sach-gau-megumi-ngan-rung-tang-dau-xa-105837.html,[Mua 2 Tặng 1] Dầu Gội Selsun Sạch Gàu & Megumi Ngăn Rụng Tặng Dầu Xả,263.000 ₫,224.000 ₫,4,3 món,
+339,422215302,112807,https://hasaki.vn/san-pham/combo-goi-xa-duoc-lieu-nguyen-xuan-duong-toc-mem-muot-2-mon-112807.html,Bộ Gội Xả Nguyên Xuân Dưỡng Tóc Mềm Mượt 200ml + 180ml,142.000 ₫,133.000 ₫,7,200ml + 180ml,
+340,204600022,89173,https://hasaki.vn/san-pham/dau-goi-head-shoulders-sach-sau-sang-khoai-700ml-89173.html,Dầu Gội Head & Shoulders Sạch Sâu Sảng Khoái 700ml,212.930 ₫,252.000 ₫,4,700ml,2
+341,422202344,92647,https://hasaki.vn/san-pham/serum-duong-toc-ellips-vitamin-suc-song-moi-hu-50-vien-92647.html,Serum Dưỡng Tóc Ellips Vitamin Sức Sống Mới Hũ 50 Viên,295.000 ₫,184.000 ₫,5,50 viên,13
+342,422200030,90105,https://hasaki.vn/san-pham/dau-xa-ogx-keratin-vao-nep-suon-muot-385ml-90105.html,Dầu Xả OGX Keratin Vào Nếp Suôn Mượt 385ml,169.000 ₫,220.000 ₫,5,385ml,5
+343,422203935,95195,https://hasaki.vn/san-pham/kem-u-toc-organic-shop-chiet-xuat-bo-va-mat-ong-250ml-95195.html,Kem Ủ Tóc Organic Shop Chiết Xuất Bơ Và Mật Ong 250ml,299.000 ₫,88.000 ₫,10,250ml,13
+344,422205024,96883,https://hasaki.vn/san-pham/thuoc-nhuom-toc-mise-en-scene-3nt-mau-nau-den-30ml-96883.html,Thuốc Nhuộm Tóc Mise en scène 3NT Màu Nâu Choco 30ml,288.000 ₫,248.000 ₫,4,3NT Dark Choco Turn Color,4
+345,422211550,106959,https://hasaki.vn/san-pham/bo-goi-xa-pantene-ngan-rung-toc-900ml-150ml-106959.html,Bộ Gội Xả Pantene Ngăn Rụng Tóc 900ml + 150ml,81.000 ₫,283.000 ₫,3,2 món,
+346,422208254,102607,https://hasaki.vn/san-pham/sap-vuot-toc-x-men-dang-dac-giu-nep-tot-70g-102607.html,Sáp Vuốt Tóc X-Men Công Thức Gốc Nước & Giữ Nếp 8H 70g,230.000 ₫,60.000 ₫,14,70g,1
+347,422210153,105217,https://hasaki.vn/san-pham/dau-xa-mise-en-scene-ho-tro-phuc-hoi-toc-hu-ton-530ml-105217.html,Dầu Xả Mise en scène Hỗ Trợ Phục Hồi Tóc Hư Tổn 530ml,215.000 ₫,190.000 ₫,5,530ml,
+348,100330067,3692,https://hasaki.vn/san-pham/dau-goi-kho-evoluderm-200ml-3692.html,Dầu Gội Khô Evoluderm 200ml,169.000 ₫,119.000 ₫,7,200ml,3
+349,422210158,105227,https://hasaki.vn/san-pham/kem-xa-mise-en-scene-ho-tro-phuc-hoi-toc-hu-ton-180ml-105227.html,Kem Xả Mise en scène Hỗ Trợ Phục Hồi Tóc Hư Tổn 180ml,165.000 ₫,140.000 ₫,6,180ml,
+350,422209020,103063,https://hasaki.vn/san-pham/dau-goi-kho-batiste-huong-tuoi-mat-tuc-thi-200ml-103063.html,Dầu Gội Khô Batiste Hương Tươi Mát Tức Thì 200ml,165.000 ₫,138.000 ₫,6,200ml,7
+351,422209022,103067,https://hasaki.vn/san-pham/dau-goi-kho-batiste-huong-hoa-hong-200ml-103067.html,Dầu Gội Khô Batiste Hương Hoa Hồng 200ml,110.000 ₫,138.000 ₫,6,200ml,7
+352,422209836,104571,https://hasaki.vn/san-pham/dau-goi-kho-girlz-only-danh-cho-toc-nhuom-sang-mau-100ml-104571.html,Dầu Gội Khô Girlz Only Dành Cho Tóc Nhuộm Sáng Màu 100ml,225.000 ₫,64.000 ₫,13,100ml,23
+353,422208114,102073,https://hasaki.vn/san-pham/dau-goi-kho-colab-refresh-protect-tai-tao-bao-ve-200ml-102073.html,Dầu Gội Khô Colab Refresh & Protect Tái Tạo & Bảo Vệ 200ml,226.000 ₫,139.000 ₫,6,200ml,2
+354,252300040,88165,https://hasaki.vn/san-pham/kem-nhuom-toc-bigen-4-mau-nau-caramen-80g-88165.html,Kem Nhuộm Tóc Phủ Bạc Bigen #4 Màu Nâu Caramen 80g,126.000 ₫,224.000 ₫,4,80g,13
+355,422202624,92999,https://hasaki.vn/san-pham/lotion-buoi-milaganics-kich-thich-moc-phuc-hoi-toc-100ml-92999.html,Lotion Bưởi Milaganics Kích Thích Mọc & Ngừa Rụng Tóc 100ml,229.000 ₫,50.000 ₫,16,100ml,8
+356,214600032,83541,https://hasaki.vn/san-pham/dau-xa-pantene-noi-dia-nhat-ban-cham-soc-toc-hu-ton-400g-83541.html,Dầu Xả Pantene Nội Địa Nhật Bản Chăm Sóc Tóc Hư Tổn 400g,170.000 ₫,138.000 ₫,6,400g,1
+357,422212956,108758,https://hasaki.vn/san-pham/bot-kem-nhuom-toc-liese-mau-nau-cam-dat-108ml-108758.html,Bọt Kem Nhuộm Tóc Liese Màu Nâu Cam Đất 108ml,239.000 ₫,159.000 ₫,5,108ml,5
+358,422209007,103021,https://hasaki.vn/san-pham/dau-goi-x-men-nuoc-hoa-metal-sach-gau-thom-lau-650g-103021.html,Dầu Gội X-Men Nước Hoa Metal Sạch Gàu Thơm Lâu 650g,193.000 ₫,154.000 ₫,5,650g,
+359,422209008,103023,https://hasaki.vn/san-pham/dau-goi-x-men-nuoc-hoa-water-thom-lau-sach-sau-650g-103023.html,Dầu Gội X-Men Nước Hoa Water Thơm Lâu Sạch Sâu 650g,193.000 ₫,147.000 ₫,6,650g,
+360,422208235,102299,https://hasaki.vn/san-pham/bot-kem-nhuom-toc-liese-mau-khoi-dem-midnight-ash-108ml-102299.html,Bọt Kem Nhuộm Tóc Liese Màu Khói Đêm Midnight Ash 108ml,239.000 ₫,159.000 ₫,5,108ml,5
+361,422211957,107433,https://hasaki.vn/san-pham/dau-xa-elastine-damage-phuc-hoi-hu-ton-680ml-107433.html,Dầu Xả Elastine Dành Cho Tóc Rối & Hư Tổn 680ml,195.000 ₫,150.000 ₫,5,680ml,
+362,227900008,6298,https://hasaki.vn/san-pham/kem-xa-organist-nuoi-duong-toc-kho-hoa-anh-dao-500ml-6298.html,Kem Xả Organist Nuôi Dưỡng Tóc Khô Hoa Anh Đào 500ml,149.000 ₫,81.000 ₫,9,500ml,3
+363,422211921,107367,https://hasaki.vn/san-pham/thuoc-tay-toc-ezn-light-up-hair-bleach-dye-remove-120g-107367.html,Thuốc Tẩy Tóc eZn Light Up Hair Bleach 120g,155.000 ₫,120.000 ₫,6,120g,
+364,422210164,105239,https://hasaki.vn/san-pham/san-pham-nhuom-toc-mise-en-scene-10ab-mau-be-khoi-30ml-105239.html,Thuốc Nhuộm Tóc Mise en scène 10AB Màu Be Khói 30ml,299.000 ₫,248.000 ₫,3,30ml,4
+365,422207349,100787,https://hasaki.vn/san-pham/dau-goi-lab-nature-sach-gau-cho-nam-no-05-473ml-100787.html,Dầu Gội Lab Nature Sạch Gàu Cho Nam No 05 473ml,325.000 ₫,239.000 ₫,3,473ml,
+366,422208121,102059,https://hasaki.vn/san-pham/dau-goi-kho-colab-original-huong-nguyen-ban-200ml-102059.html,Dầu Gội Khô Colab Original Hương Nguyên Bản 200ml,195.000 ₫,139.000 ₫,6,200ml,2
+367,422211551,106961,https://hasaki.vn/san-pham/bo-goi-xa-pantene-phuc-hoi-hu-ton-900ml-150ml-106961.html,Bộ Gội Xả Pantene Phục Hồi Hư Tổn 900ml + 150ml,288.000 ₫,234.000 ₫,3,2 món,
+368,361900002,77006,https://hasaki.vn/san-pham/dau-goi-kumano-salon-link-cho-toc-uon-toc-nhuom-1000ml-77006.html,"Dầu Gội Kumano Salon Link Cho Tóc Uốn, Tóc Nhuộm 1000ml",259.000 ₫,168.000 ₫,5,1000ml,7
+369,422213388,109392,https://hasaki.vn/san-pham/hsd-05-2024-dau-goi-ducray-dang-kem-cho-toc-nhon-200ml-109392.html,[HSD 05/2024] Dầu Gội Ducray Dạng Kem Cho Tóc Nhờn 200ml,381.000 ₫,75.000 ₫,10,200ml,1
+370,422207980,101807,https://hasaki.vn/san-pham/kem-nhuom-l-oreal-duong-toc-sau-7-17-nau-reu-khoi-172ml-101807.html,Kem Nhuộm L'Oreal Dưỡng Tóc Sâu 7.17 Nâu Ánh Khói 172ml,199.000 ₫,169.000 ₫,4,172ml,14
+371,422215530,113211,https://hasaki.vn/san-pham/kem-u-toc-unove-phuc-hoi-va-duong-sieu-mem-muot-207ml-113211.html,Kem Ủ Tóc Unove Phục Hồi Và Dưỡng Siêu Mềm Mượt 207ml,334.000 ₫,333.000 ₫,2,207ml,
+372,422207255,100679,https://hasaki.vn/san-pham/kem-nhuom-toc-double-rich-2b-nau-tu-nhien-60g-100679.html,Kem Nhuộm Tóc Double Rich Màu 2B Nâu Tự Nhiên 60g,155.000 ₫,154.000 ₫,5,60g,
+373,422215144,112717,https://hasaki.vn/san-pham/tam-goi-2-trong-1-romano-vip-huong-passion-650g-112717.html,Tắm Gội 2 Trong 1 Romano Vip Hương Passion 650g,193.000 ₫,196.000 ₫,4,650g,
+374,422209006,103019,https://hasaki.vn/san-pham/dau-goi-x-men-nuoc-hoa-fire-thom-lau-sach-sau-650g-103019.html,Dầu Gội X-Men Nước Hoa Fire Thơm Lâu Sạch Sâu 650g,249.000 ₫,158.000 ₫,4,650g,
+375,422210932,106177,https://hasaki.vn/san-pham/tinh-dau-buoi-gennie-cho-toc-gay-rung-30ml-106177.html,Tinh Dầu Bưởi Gennie Cho Tóc Gãy Rụng 30ml,226.000 ₫,178.000 ₫,4,30ml,
+376,252300043,88163,https://hasaki.vn/san-pham/kem-nhuom-toc-bigen-7-mau-den-anh-nau-80g-88163.html,Kem Nhuộm Tóc Phủ Bạc Bigen #7 Màu Đen Ánh Nâu 80g,84.000 ₫,224.000 ₫,3,80g,13
+377,422205842,98353,https://hasaki.vn/san-pham/dau-xa-sunsilk-ong-muot-rang-ngoi-chiet-xuat-bo-ket-320g-98353.html,Dầu Xả Sunsilk Óng Mượt Rạng Ngời 320g,195.000 ₫,81.000 ₫,8,320g,2
+378,422211958,107435,https://hasaki.vn/san-pham/dau-goi-elastine-volume-lam-phong-toc-680ml-107435.html,"Dầu Gội Elastine Dành Cho Tóc Mỏng, Yếu, Dễ Gãy Rụng 680ml",595.000 ₫,150.000 ₫,4,680ml,
+379,422202745,93193,https://hasaki.vn/san-pham/dau-goi-naris-thao-moc-diu-nhe-cho-moi-loai-toc-550ml-93193.html,Dầu Gội Naris Thảo Mộc Dịu Nhẹ Cho Mọi Loại Tóc 550ml,170.000 ₫,594.000 ₫,2,550ml,4
+380,422210403,105749,https://hasaki.vn/san-pham/dau-goi-jmella-huong-vai-va-hue-trang-phuong-dong-500ml-105749.html,Dầu Gội Jmella Hương Vải Và Huệ Trắng Phương Đông 500ml,239.000 ₫,119.000 ₫,5,500ml,2
+381,422208228,102285,https://hasaki.vn/san-pham/bot-kem-nhuom-toc-liese-nau-tra-sua-milk-tea-brown-108ml-102285.html,Bọt Kem Nhuộm Tóc Liese Nâu Trà Sữa Milk Tea Brown 108ml,239.000 ₫,159.000 ₫,4,108ml,5
+382,422208229,102287,https://hasaki.vn/san-pham/bot-kem-nhuom-toc-liese-mau-nau-hat-de-royal-brown-108ml-102287.html,Bọt Kem Nhuộm Tóc Liese Màu Nâu Hạt Dẻ Royal Brown 108ml,178.000 ₫,159.000 ₫,4,108ml,5
+383,422206470,99351,https://hasaki.vn/san-pham/tay-te-bao-chet-da-dau-dr-forhair-giam-gau-50g-99351.html,Tẩy Tế Bào Chết Da Đầu Dr.ForHair Giảm Gàu 50g,250.000 ₫,117.000 ₫,5,50g,4
+384,422201081,91213,https://hasaki.vn/san-pham/dau-xa-50-megumi-ngan-ngua-rung-toc-cho-toc-yeu-400ml-91213.html,Dầu Xả 50 Megumi Ngăn Ngừa Rụng Tóc Cho Tóc Yếu 400ml,74.000 ₫,199.000 ₫,3,400ml,
+385,422206611,99655,https://hasaki.vn/san-pham/dau-goi-oxy-tac-dong-sau-danh-cho-nam-180ml-99655.html,Dầu Gội Oxy Tác Động Sâu Dành Cho Nam 180ml,181.000 ₫,58.000 ₫,10,180ml,1
+386,422211631,107596,https://hasaki.vn/san-pham/dau-goi-romano-huong-nuoc-hoa-force-650g-107596.html,Dầu Gội Romano Hương Nước Hoa Force 650g,761.000 ₫,152.000 ₫,4,650g,
+387,422216481,114687,https://hasaki.vn/san-pham/combo-goi-xa-ogx-hoa-anh-dao-385ml-chai-sua-tam-johnson-s-adult-hanh-nhan-750ml-114687.html,Combo Gội & Xả OGX Hoa Anh Đào (385ml/ Chai) + Sữa Tắm Johnson's Adult Hạnh Nhân 750ml,229.000 ₫,757.000 ₫,1,3 món,
+388,354700005,75752,https://hasaki.vn/san-pham/thuoc-nhuom-toc-beautylabo-dang-bot-nau-kem-cappuccino-125ml-75752.html,Thuốc Nhuộm Tóc Beautylabo Dạng Bọt Nâu Kem Cappuccino 125ml,185.000 ₫,114.000 ₫,5,Creamy Cappuccino,36
+389,422211965,107449,https://hasaki.vn/san-pham/thuoc-nhuom-toc-obsidian-6-03-mau-den-nau-200g-107449.html,Thuốc Nhuộm Tóc Obsidian 6.03 Màu Đen Nâu 200g,152.000 ₫,142.000 ₫,4,200g,
+390,422206612,99649,https://hasaki.vn/san-pham/dau-goi-oxy-tac-dong-sau-danh-cho-nam-500ml-99649.html,Dầu Gội Oxy Tác Động Sâu Dành Cho Nam 500ml,165.000 ₫,111.000 ₫,5,500ml,
+391,422205728,98189,https://hasaki.vn/san-pham/dau-xa-pantene-cham-soc-phuc-hoi-toc-hu-ton-650ml-98189.html,Dầu Xả Pantene Phục Hồi Hư Tổn 650ml,36.000 ₫,145.000 ₫,4,650ml,1
+392,422205066,97007,https://hasaki.vn/san-pham/dau-goi-elastine-cham-soc-va-nuoi-duong-toc-120ml-97007.html,[Mini] Dầu Gội Elastine Chăm Sóc Và Nuôi Dưỡng Tóc 120ml,325.000 ₫,34.000 ₫,16,120ml,2
+393,100330068,3691,https://hasaki.vn/san-pham/dau-goi-kho-evoluderm-400ml-3691.html,Dầu Gội Khô Evoluderm 400ml,199.000 ₫,159.000 ₫,4,400ml,3
+394,422207733,101385,https://hasaki.vn/san-pham/dau-xa-milaganics-tinh-dau-buoi-duong-toc-mem-muot-260ml-moi-101385.html,Dầu Xả Milaganics Tinh Dầu Bưởi Dưỡng Tóc Mềm Mượt 260ml (Mới),219.000 ₫,129.000 ₫,4,260ml,
+395,422200291,90323,https://hasaki.vn/san-pham/dau-goi-rejoice-huong-hoa-hong-mem-muot-sang-ong-a-650g-90323.html,Dầu Gội Rejoice Mềm Mượt Sáng Óng Ả Hương Nước Hoa Hồng 650g,137.000 ₫,123.000 ₫,4,650g,1
+396,422209005,103017,https://hasaki.vn/san-pham/dau-goi-x-men-nuoc-hoa-wood-thom-lau-sach-sau-650g-103017.html,Dầu Gội X-Men Nước Hoa Wood Thơm Lâu Sạch Sâu 650g,193.000 ₫,158.000 ₫,3,650g,
+397,422205848,98365,https://hasaki.vn/san-pham/combo-2-dau-goi-ogx-biotin-collagen-lam-day-toc-385ml-98365.html,Combo 2 Dầu Gội OGX Biotin & Collagen Làm Dày Tóc 385ml,580.000 ₫,410.000 ₫,2,2 chai,
+398,422208117,102067,https://hasaki.vn/san-pham/dau-goi-kho-colab-fresh-huong-tuoi-mat-200ml-102067.html,Dầu Gội Khô Colab Fresh Hương Tươi Mát 200ml,195.000 ₫,139.000 ₫,4,200ml,2
+399,387400001,83543,https://hasaki.vn/san-pham/dau-goi-rejoice-sieu-mem-muot-320ml-83543.html,Dầu Gội Rejoice Siêu Mềm Mượt 48 Giờ 320ml,89.000 ₫,78.000 ₫,6,320ml,
+400,422215148,112719,https://hasaki.vn/san-pham/gel-vuot-toc-romano-classic-giu-nep-sieu-cung-150g-112719.html,Gel Vuốt Tóc Romano Classic Giữ Nếp Lâu 150g,49.000 ₫,45.000 ₫,11,150g,1
+401,422215111,112479,https://hasaki.vn/san-pham/dau-goi-hairburst-giup-toc-moc-dai-nhanh-chac-khoe-350ml-112479.html,Dầu Gội Hairburst Giúp Tóc Mọc Dài Nhanh & Chắc Khỏe 350ml,195.000 ₫,450.000 ₫,1,350ml,
+402,422211956,107431,https://hasaki.vn/san-pham/dau-goi-elastine-damage-phuc-hoi-hu-ton-680ml-107431.html,Dầu Gội Elastine Dành Cho Tóc Rối & Hư Tổn 680ml,258.000 ₫,150.000 ₫,3,680ml,
+403,422210169,105249,https://hasaki.vn/san-pham/dau-goi-mise-en-scene-duong-chac-khoe-cho-toc-nhuom-500ml-105249.html,Dầu Gội Mise en scène Dưỡng Chắc Khoẻ Cho Tóc Nhuộm 500ml,68.000 ₫,214.000 ₫,3,500ml,
+404,422207825,101537,https://hasaki.vn/san-pham/dau-goi-lab-nature-sach-gau-cho-nam-no-05-50ml-101537.html,[Mini] Dầu Gội Lab Nature Sạch Gàu Cho Nam No 05 50ml,238.000 ₫,29.000 ₫,15,50ml,1
+405,422211411,106857,https://hasaki.vn/san-pham/serum-duong-toc-ellips-vitamin-huong-hoa-sen-nuoc-hu-50-vien-106857.html,Serum Dưỡng Tóc Ellips Vitamin Hương Hoa Sen Nước Hũ 50 Viên,540.000 ₫,217.000 ₫,2,50 viên,
+406,422212307,107896,https://hasaki.vn/san-pham/combo-cocoon-kem-u-toc-buoi-200ml-nuoc-duong-toc-tinh-dau-buoi-310ml-107896.html,Combo Cocoon Kem Ủ Tóc Bưởi 200ml + Nước Dưỡng Tóc Tinh Dầu Bưởi 310ml,79.000 ₫,432.000 ₫,1,2 món,
+407,422211414,106863,https://hasaki.vn/san-pham/xit-duong-toc-ellips-vitamin-phuc-hoi-hu-ton-45ml-106863.html,Xịt Dưỡng Tóc Ellips Vitamin Phục Hồi Hư Tổn 45ml,349.000 ₫,72.000 ₫,6,45ml,
+408,422203033,93529,https://hasaki.vn/san-pham/dau-goi-curel-cap-am-chuyen-sau-cho-toc-da-dau-420ml-93529.html,Dầu Gội Curél Cấp Ẩm Chuyên Sâu Cho Tóc & Da Đầu 420ml,299.000 ₫,254.000 ₫,2,420ml,1
+409,422210159,105229,https://hasaki.vn/san-pham/san-pham-nhuom-toc-mise-en-scene-7a-mau-nau-khoi-30ml-105229.html,Thuốc Nhuộm Tóc Mise en scène 7A Màu Nâu Khói 30ml,199.000 ₫,248.000 ₫,2,30ml,4
+410,347800030,78770,https://hasaki.vn/san-pham/dau-goi-kho-tsubaki-180ml-78770.html,"Dầu Gội Khô Tsubaki Dạng Gel Dành Cho Tóc Dầu, Bết 180ml",250.000 ₫,137.000 ₫,3,180ml,6
+411,422200221,90167,https://hasaki.vn/san-pham/dau-xa-50-megumi-suon-mem-am-muot-toc-400ml-90167.html,Dầu Xả 50 Megumi Suôn Mềm & Ẩm Mượt Tóc 400ml,108.000 ₫,245.000 ₫,2,400ml,
+412,422210157,105225,https://hasaki.vn/san-pham/dau-goi-mise-en-scene-ho-tro-phuc-hoi-toc-hu-ton-200ml-105225.html,Dầu Gội Mise en scène Hỗ Trợ Phục Hồi Tóc Hư Tổn 200ml,169.000 ₫,89.000 ₫,5,200ml,1
+413,422203933,95193,https://hasaki.vn/san-pham/kem-u-toc-organic-shop-chiet-xuat-dua-va-bo-hat-mo-250ml-95193.html,Kem Ủ Tóc Organic Shop Chiết Xuất Dừa Và Bơ Hạt Mỡ 250ml,413.000 ₫,114.000 ₫,4,250ml,13
+414,422216020,114083,https://hasaki.vn/san-pham/combo-dau-goi-tsubaki-duong-bong-muot-490ml-sua-tam-senka-hoa-tuoi-mat-500ml-114083.html,Combo Dầu Gội Tsubaki Dưỡng Bóng Mượt 490ml + Sữa Tắm Senka Hoa Tươi Mát 500ml,190.000 ₫,297.000 ₫,2,490ml + 500ml,209
+415,422210410,105735,https://hasaki.vn/san-pham/dau-xa-jmella-huong-co-an-de-hit-va-vanilla-quyen-ru-500ml-105735.html,Dầu Xả Jmella Hương Cỏ An Đê Hít Và Vanilla Quyến Rũ 500ml,190.000 ₫,133.000 ₫,3,500ml,
+416,422210407,105741,https://hasaki.vn/san-pham/dau-xa-jmella-huong-cam-quyt-va-mau-don-sang-trong-500ml-105741.html,Dầu Xả Jmella Hương Cam Quýt Và Mẫu Đơn Sang Trọng 500ml,239.000 ₫,133.000 ₫,3,500ml,
+417,422212957,108760,https://hasaki.vn/san-pham/bot-kem-nhuom-toc-liese-mau-nau-keo-ngot-108ml-108760.html,Bọt Kem Nhuộm Tóc Liese Màu Nâu Kẹo Ngọt 108ml,195.000 ₫,159.000 ₫,3,108ml,5
+418,422200901,90985,https://hasaki.vn/san-pham/kem-nhuom-toc-beautylabo-vanity-color-mau-nau-anh-tim-90985.html,Thuốc Nhuộm Tóc Beautylabo Vanity Dạng Kem Nâu Ánh Tím 133ml,199.000 ₫,97.000 ₫,4,,23
+419,422207735,101389,https://hasaki.vn/san-pham/kem-u-toc-milaganics-tinh-dau-buoi-phuc-hoi-hu-ton-200g-moi-101389.html,Kem Ủ Tóc Milaganics Tinh Dầu Bưởi Phục Hồi Hư Tổn 200g (Mới),250.000 ₫,129.000 ₫,3,200g,
+420,422212902,108694,https://hasaki.vn/san-pham/dau-goi-50-megumi-mem-muot-va-duong-am-400ml-moi-108694.html,Dầu Gội 50 Megumi Mềm Mượt Và Dưỡng Ẩm 400ml (Mới),250.000 ₫,191.000 ₫,2,400ml,
+421,422200219,90163,https://hasaki.vn/san-pham/dau-xa-50-megumi-sach-thoang-tuoi-mat-toc-400ml-90163.html,Dầu Xả 50 Megumi Sạch Thoáng & Tươi Mát Tóc 400ml,160.000 ₫,188.000 ₫,2,400ml,
+422,399200009,88851,https://hasaki.vn/san-pham/dau-goi-kho-baresoul-50g-88851.html,Dầu Gội Khô BareSoul Giảm Dầu Thừa & Làm Phồng Tóc 50g,289.000 ₫,125.000 ₫,3,50g,3
+423,422210150,105211,https://hasaki.vn/san-pham/tinh-chat-duong-toc-mise-en-scene-giup-toc-chac-khoe-80ml-105211.html,Tinh Chất Dưỡng Tóc Mise en scène Giúp Tóc Chắc Khoẻ 80ml,239.000 ₫,239.000 ₫,2,80ml,2
+424,422208227,102283,https://hasaki.vn/san-pham/bot-kem-nhuom-toc-liese-mau-nau-do-provence-rose-108ml-102283.html,Bọt Kem Nhuộm Tóc Liese Màu Nâu Đỏ Provence Rose 108ml,225.000 ₫,142.000 ₫,3,108ml,5
+425,422208115,102071,https://hasaki.vn/san-pham/dau-goi-kho-colab-overnight-renew-tai-tao-phuc-hoi-200ml-102071.html,Dầu Gội Khô Colab Overnight Renew Tái Tạo & Phục Hồi 200ml,235.000 ₫,135.000 ₫,3,200ml,2
+426,422211932,107387,https://hasaki.vn/san-pham/thuoc-nhuom-toc-ezn-cranberry-wine-tim-do-280g-107387.html,Thuốc Nhuộm Tóc eZn Cranberry Wine - Tím Đỏ 280g,235.000 ₫,180.000 ₫,2,280g,3
+427,422211923,107371,https://hasaki.vn/san-pham/thuoc-nhuom-toc-ezn-budapest-deep-black-mau-den-280g-107371.html,Thuốc Nhuộm Tóc eZn Budapest Deep Black - Màu Đen 280g,235.000 ₫,180.000 ₫,2,280g,3
+428,422211928,107379,https://hasaki.vn/san-pham/thuoc-nhuom-toc-ezn-peony-pink-toner-mau-hong-280g-107379.html,Thuốc Nhuộm Tóc eZn Peony Pink Toner - Màu Hồng 280g,235.000 ₫,180.000 ₫,2,280g,3
+429,422211927,107377,https://hasaki.vn/san-pham/thuoc-nhuom-toc-ezn-ash-beige-gray-xam-tro-280g-107377.html,Thuốc Nhuộm Tóc eZn Ash Beige Gray - Xám Tro 280g,178.000 ₫,180.000 ₫,2,280g,3
+430,422206475,99361,https://hasaki.vn/san-pham/dau-xa-dr-forhair-duong-toc-suon-muot-50ml-99361.html,Dầu Xả Dr.ForHair Dưỡng Tóc Suôn Mượt 50ml,195.000 ₫,117.000 ₫,3,50ml,
+431,422208123,102055,https://hasaki.vn/san-pham/dau-goi-kho-colab-paradise-huong-dia-dang-200ml-102055.html,Dầu Gội Khô Colab Paradise Hương Địa Đàng 200ml,637.000 ₫,135.000 ₫,3,200ml,2
+432,422211342,106701,https://hasaki.vn/san-pham/bo-san-pham-organic-shop-goi-xa-tay-te-bao-chet-da-dau-cho-toc-dau-106701.html,Bộ Chăm Sóc Tóc Organic Shop Tạo Độ Phồng Tóc 3 Món,199.000 ₫,399.000 ₫,1,3 món,
+433,422207258,100733,https://hasaki.vn/san-pham/kem-nhuom-toc-double-rich-mau-12n-nau-anh-vang-60g-100733.html,Kem Nhuộm Tóc Double Rich Màu 12N Nâu Ánh Vàng 60g,155.000 ₫,154.000 ₫,3,60g,
+434,422208784,102409,https://hasaki.vn/san-pham/combo-milaganics-serum-kem-u-toc-buoi-phuc-hoi-hu-ton-102409.html,Combo Milaganics Serum + Kem Ủ Tóc Bưởi Phục Hồi Hư Tổn,400.000 ₫,158.000 ₫,2,2 món,2
+435,422211533,106951,https://hasaki.vn/san-pham/sap-vuot-toc-tao-kieu-uno-dinh-hinh-manh-me-80g-106951.html,Sáp Vuốt Tóc Tạo Kiểu Uno Định Hình Mạnh Mẽ 80g,149.000 ₫,147.000 ₫,3,80g,
+436,422215300,112803,https://hasaki.vn/san-pham/dau-xa-duoc-lieu-nguyen-xuan-cho-toc-dau-bet-180ml-112803.html,Dầu Xả Dược Liệu Nguyên Xuân Cho Tóc Dầu Bết 180ml,79.000 ₫,68.000 ₫,5,180ml,
+437,422207134,100413,https://hasaki.vn/san-pham/combo-2-dau-goi-head-shoulders-bac-ha-mat-lanh-625ml-100413.html,Combo 2 Dầu Gội Head & Shoulders Bạc Hà Mát Lạnh 625ml,332.000 ₫,309.000 ₫,1,2x625ml,4
+438,422211954,107427,https://hasaki.vn/san-pham/dau-goi-elastine-moisture-cap-am-cho-toc-680ml-107427.html,Dầu Gội Elastine Dành Cho Tóc Khô & Xơ 680ml,195.000 ₫,150.000 ₫,2,680ml,
+439,422211955,107429,https://hasaki.vn/san-pham/dau-xa-elastine-moisture-cap-am-cho-toc-680ml-107429.html,Dầu Xả Elastine Dành Cho Tóc Khô & Xơ 680ml,195.000 ₫,150.000 ₫,2,680ml,
+440,422210168,105247,https://hasaki.vn/san-pham/kem-xa-mise-en-scene-duong-toc-suon-muot-chac-khoe-180ml-105247.html,"Kem Xả Mise en scène Dưỡng Tóc Suôn Mượt, Chắc Khoẻ 180ml",198.000 ₫,164.000 ₫,2,180ml,
+441,422208187,102579,https://hasaki.vn/san-pham/bo-50-megumi-tinh-chat-30ml-dau-goi-250ml-tang-dung-dich-duong-am-hada-labo-100ml-102579.html,Bộ 50 Megumi Tinh Chất 30ml + Dầu Gội 250ml + Tặng Dung Dịch Dưỡng Ẩm Hada Labo 100ml,335.000 ₫,285.000 ₫,1,3 món,
+442,422211964,107447,https://hasaki.vn/san-pham/thuoc-nhuom-toc-obsidian-5-06-mau-tim-tram-200g-107447.html,Thuốc Nhuộm Tóc Obsidian 5.06 Màu Tím Trầm 200g,185.000 ₫,142.000 ₫,2,200g,
+443,422211966,107451,https://hasaki.vn/san-pham/thuoc-nhuom-toc-obsidian-7-04-mau-nau-sang-200g-107451.html,Thuốc Nhuộm Tóc Obsidian 7.04 Màu Nâu Sáng 200g,185.000 ₫,142.000 ₫,2,200g,
+444,422211968,107455,https://hasaki.vn/san-pham/thuoc-nhuom-toc-obsidian-9-05-mau-do-cam-200g-107455.html,Thuốc Nhuộm Tóc Obsidian 9.05 Màu Đỏ Cam 200g,185.000 ₫,142.000 ₫,2,200g,
+445,422205464,97737,https://hasaki.vn/san-pham/dau-goi-kho-batiste-huong-hoa-thien-nhien-diu-nhe-200ml-97737.html,Dầu Gội Khô Batiste Hương Hoa Thiên Nhiên Dịu Nhẹ 200ml,156.000 ₫,138.000 ₫,2,200ml,7
+446,422209030,103083,https://hasaki.vn/san-pham/dau-goi-kho-batiste-danh-cho-toc-hu-ton-200ml-103083.html,Dầu Gội Khô Batiste Dành Cho Tóc Hư Tổn 200ml,176.000 ₫,138.000 ₫,2,200ml,7
+447,422202616,93089,https://hasaki.vn/san-pham/kem-u-toc-avander-cho-toc-kho-hu-ton-tu-tinh-dau-dua-125g-93089.html,"Kem Ủ Tóc Avander Tinh Dầu Dừa Cho Tóc Khô, Hư Tổn 125g",59.000 ₫,55.000 ₫,5,125g,
+448,422205029,96893,https://hasaki.vn/san-pham/thuoc-nhuom-toc-mise-en-scene-7ar-mau-hong-khoi-30ml-96893.html,Thuốc Nhuộm Tóc Mise en scène 7AR Màu Hồng Khói 30ml,299.000 ₫,248.000 ₫,2,7P Sahara Rose Pink,4
+449,422210411,105733,https://hasaki.vn/san-pham/dau-xa-jmella-huong-hoa-hong-ngot-ngao-500ml-105733.html,Dầu Xả Jmella Hương Hoa Hồng Ngọt Ngào 500ml,190.000 ₫,133.000 ₫,2,500ml,
+450,252300026,14379,https://hasaki.vn/san-pham/thuoc-nhuom-toc-phu-bac-bigen-mau-nau-sam-883-dark-brown-14379.html,Thuốc Nhuộm Tóc Bigen Phủ Bạc Dạng Kem 883 Nâu Sẫm 80ml,168.000 ₫,166.000 ₫,2,883 Dark Brown,14
+451,422210161,105233,https://hasaki.vn/san-pham/san-pham-nhuom-toc-mise-en-scene-4b-mau-xanh-bien-sau-30ml-105233.html,Thuốc Nhuộm Tóc Mise en scène 4B Màu Xanh Biển Sâu 30ml,299.000 ₫,248.000 ₫,2,30ml,4
+452,422210163,105237,https://hasaki.vn/san-pham/san-pham-nhuom-toc-mise-en-scene-7v-mau-tim-khoi-30ml-105237.html,Thuốc Nhuộm Tóc Mise en scène 7V Màu Tím Khói 30ml,299.000 ₫,248.000 ₫,2,30ml,4
+453,204700003,67832,https://hasaki.vn/san-pham/dau-xa-herbal-essences-buoi-bac-ha-400ml-67832.html,Dầu Xả Herbal Essences Bưởi & Bạc Hà 400ml,137.000 ₫,175.000 ₫,2,400ml,1
+454,422200292,90325,https://hasaki.vn/san-pham/dau-goi-rejoice-dau-tay-trang-thom-muot-632ml-90325.html,Dầu Gội Rejoice Dâu Tây Trắng Thơm Mượt 650g,195.000 ₫,123.000 ₫,2,650g,1
+455,422208122,102057,https://hasaki.vn/san-pham/dau-goi-kho-colab-tropical-huong-nhiet-doi-200ml-102057.html,Dầu Gội Khô Colab Tropical Hương Nhiệt Đới 200ml,40.000 ₫,110.000 ₫,3,200ml,2
+456,422211410,106855,https://hasaki.vn/san-pham/serum-duong-toc-ellips-vitamin-huong-hoa-ngot-ngao-vi-8-vien-1-106855.html,Serum Dưỡng Tóc Ellips Vitamin Hương Hoa Ngọt Ngào Vỉ 8 Viên,155.000 ₫,37.000 ₫,6,8 viên,
+457,422207257,100739,https://hasaki.vn/san-pham/kem-nhuom-toc-double-rich-10n-nau-hat-de-60g-100739.html,Kem Nhuộm Tóc Double Rich Màu 10N Nâu Hạt Dẻ 60g,183.000 ₫,154.000 ₫,2,60g,
+458,422203296,93871,https://hasaki.vn/san-pham/kem-u-toc-milaganics-tinh-dau-vo-buoi-ngan-toc-hu-ton-250g-93871.html,Kem Ủ Tóc Milaganics Tinh Dầu Bưởi Phục Hồi Hư Tổn 250g,120.000 ₫,109.000 ₫,2,250g,2
+459,422209159,104019,https://hasaki.vn/san-pham/gel-goi-men-o-logy-hemp-duong-toc-ngan-rung-350ml-104019.html,Gel Gội MEN.O.LOGY Hemp Dưỡng Tóc & Ngăn Rụng 350ml,238.000 ₫,109.000 ₫,2,350ml,
+460,422211413,106861,https://hasaki.vn/san-pham/serum-duong-toc-ellips-vitamin-huong-hoa-ngot-ngao-hu-50-vien-106861.html,Serum Dưỡng Tóc Ellips Vitamin Hương Hoa Ngọt Ngào Hũ 50 Viên,349.000 ₫,217.000 ₫,1,50 viên,
+461,422214226,110906,https://hasaki.vn/san-pham/dau-xa-curel-cap-am-chuyen-sau-420ml-110906.html,Dầu Xả Curél Cấp Ẩm Chuyên Sâu 420ml,299.000 ₫,278.000 ₫,1,420ml,
+462,422210160,105231,https://hasaki.vn/san-pham/san-pham-nhuom-toc-mise-en-scene-8mb-mau-nau-anh-dong-30ml-105231.html,Thuốc Nhuộm Tóc Mise en scène 8MB Màu Nâu Ánh Đồng 30ml,250.000 ₫,248.000 ₫,1,30ml,4
+463,422209156,103533,https://hasaki.vn/san-pham/gel-goi-men-o-logy-hemp-duong-toc-giam-ngua-630ml-103533.html,Gel Gội MEN.O.LOGY Hemp Dưỡng Tóc & Giảm Ngứa 630ml,175.000 ₫,192.000 ₫,1,630ml,
+464,422209158,103531,https://hasaki.vn/san-pham/gel-goi-men-o-logy-hemp-duong-toc-ngan-rung-630ml-103531.html,Gel Gội MEN.O.LOGY Hemp Dưỡng Tóc & Ngăn Rụng 630ml,235.000 ₫,192.000 ₫,1,630ml,
+465,422210301,105473,https://hasaki.vn/san-pham/mini-kem-xa-mise-en-scene-ho-tro-phuc-hoi-toc-hu-ton-30ml-105473.html,[Mini] Kem Xả Mise en scène Hỗ Trợ Phục Hồi Tóc Hư Tổn 30ml,235.000 ₫,27.000 ₫,7,30ml,
+466,422200220,90165,https://hasaki.vn/san-pham/dau-goi-50-megumi-suon-mem-am-muot-toc-400ml-90165.html,Dầu Gội 50 Megumi Suôn Mềm & Ẩm Mượt Tóc 400ml,235.000 ₫,188.000 ₫,1,400ml,1
+467,422209835,104569,https://hasaki.vn/san-pham/dau-goi-kho-girlz-only-danh-cho-toc-nhuom-sang-mau-200ml-104569.html,Dầu Gội Khô Girlz Only Dành Cho Tóc Nhuộm Sáng Màu 200ml,235.000 ₫,106.000 ₫,2,200ml,23
+468,422211934,107391,https://hasaki.vn/san-pham/thuoc-nhuom-toc-ezn-ash-purple-gray-xam-khoi-tim-280g-107391.html,Thuốc Nhuộm Tóc eZn Ash Purple Gray - Xám Khói Tím 280g,235.000 ₫,180.000 ₫,1,280g,3
+469,422206658,99671,https://hasaki.vn/san-pham/dau-xa-reen-dr-groot-addict-huong-peony-rouge-385ml-99671.html,Dầu Xả Dr.Groot Addict Hương Peony Rouge 385ml,490.000 ₫,358.000 ₫,1,385ml,
+470,422206659,99673,https://hasaki.vn/san-pham/dau-goi-reen-dr-groot-addict-huong-lime-basil-mandarin-385ml-99673.html,Dầu Gội Dr.Groot Addict Hương Lime Basil & Mandarin 385ml,490.000 ₫,358.000 ₫,1,385ml,
+471,100330053,3135,https://hasaki.vn/san-pham/goi-xa-2in1-pantene-classic-clean-sach-sau-chac-khoe-355ml-3135.html,Dầu Gội Xả 2in1 Pantene Sạch Sâu Chắc Khỏe 355ml,79.000 ₫,174.000 ₫,1,355ml,1
+472,422208255,102605,https://hasaki.vn/san-pham/pomade-tao-kieu-toc-x-men-for-boss-high-hold-day-bong-60g-102605.html,Pomade Tạo Kiểu Tóc X-Men For Boss High Hold Dày Bồng 60g,196.000 ₫,59.000 ₫,3,60g,
+473,252300007,14526,https://hasaki.vn/san-pham/thuoc-nhuom-toc-phu-bac-mau-5c-nau-dong-14526.html,Thuốc Nhuộm Tóc Bigen Phủ Bạc Dạng Kem 5C Nâu Đồng 80ml,170.000 ₫,194.000 ₫,1,5C Nâu Đồng,13
+474,422201083,91217,https://hasaki.vn/san-pham/dau-xa-50-megumi-ngan-ngua-rung-toc-cho-toc-yeu-250ml-91217.html,Dầu Xả 50 Megumi Ngăn Ngừa Rụng Tóc Cho Tóc Yếu 250ml,239.000 ₫,168.000 ₫,1,250ml,
+475,422208232,102293,https://hasaki.vn/san-pham/bot-kem-nhuom-toc-liese-mau-nau-reu-british-ash-108ml-102293.html,Bọt Kem Nhuộm Tóc Liese Màu Nâu Rêu British Ash 108ml,240.000 ₫,143.000 ₫,2,108ml,5
+476,422205035,96905,https://hasaki.vn/san-pham/thuoc-nhuom-toc-dang-bot-hello-bubble-11rg-hong-cam-96905.html,Thuốc Nhuộm Tóc Dạng Bọt Hello Bubble 11RG Hồng Cam,84.000 ₫,165.000 ₫,1,11RG Rose Gold,2
+477,422206703,99839,https://hasaki.vn/san-pham/dau-goi-sunsilk-mem-muot-dieu-ky-tu-tinh-dau-tu-nhien-320g-99839.html,Dầu Gội Sunsilk Mềm Mượt Diệu Kỳ 320g,158.000 ₫,82.000 ₫,2,320g,
+478,214600040,89143,https://hasaki.vn/san-pham/dau-xa-pantene-moisture-renewal-duong-am-toc-308ml-89143.html,Dầu Xả Pantene Dưỡng Ẩm Tóc 308ml,195.000 ₫,158.000 ₫,1,308ml,1
+479,214600038,89149,https://hasaki.vn/san-pham/dau-xa-pantene-smooth-sleek-suon-muot-ong-a-308ml-89149.html,"Dầu Xả Pantene Suôn Mượt, Óng Ả 308ml",490.000 ₫,157.000 ₫,1,308ml,1
+480,422211959,107437,https://hasaki.vn/san-pham/dau-xa-elastine-volume-lam-phong-toc-680ml-107437.html,"Dầu Xả Elastine Dành Cho Tóc Mỏng, Yếu, Dễ Gãy Rụng 680ml",185.000 ₫,150.000 ₫,1,680ml,
+481,422214826,111993,https://hasaki.vn/san-pham/hsd-07-2024-dau-xa-drgroot-addict-huong-jasmin-allure-385ml-111993.html,[HSD 07/2024] Dầu Xả Dr.Groot Addict Hương Jasmin Allure 385ml,185.000 ₫,143.000 ₫,2,385ml,
+482,422211963,107445,https://hasaki.vn/san-pham/thuoc-nhuom-toc-obsidian-5-02-mau-nau-reu-200g-107445.html,Thuốc Nhuộm Tóc Obsidian 5.02 Màu Nâu Rêu 200g,165.000 ₫,142.000 ₫,1,200g,
+483,422211967,107453,https://hasaki.vn/san-pham/thuoc-nhuom-toc-obsidian-7-1-mau-xanh-anh-nau-200g-107453.html,Thuốc Nhuộm Tóc Obsidian 7.1 Màu Xanh Ánh Nâu 200g,156.000 ₫,142.000 ₫,1,200g,
+484,422209024,103071,https://hasaki.vn/san-pham/dau-goi-kho-batiste-huong-trai-cay-200ml-103071.html,Dầu Gội Khô Batiste Hương Trái Cây 200ml,176.000 ₫,119.000 ₫,2,200ml,7
+485,422205458,97749,https://hasaki.vn/san-pham/dau-goi-kho-batiste-huong-hoa-nhiet-doi-200ml-97749.html,Dầu Gội Khô Batiste Hương Hoa Nhiệt Đới 200ml,165.000 ₫,119.000 ₫,2,200ml,7
+486,422209031,103085,https://hasaki.vn/san-pham/dau-goi-kho-batiste-ngan-tia-uv-bao-ve-toc-nhuom-200ml-103085.html,Dầu Gội Khô Batiste Ngăn Tia UV Bảo Vệ Tóc Nhuộm 200ml,71.000 ₫,119.000 ₫,2,200ml,7
+487,422209025,103073,https://hasaki.vn/san-pham/dau-goi-kho-batiste-huong-dau-tay-200ml-103073.html,Dầu Gội Khô Batiste Hương Dâu Tây 200ml,490.000 ₫,119.000 ₫,2,200ml,7
+488,422215297,112797,https://hasaki.vn/san-pham/dau-xa-duoc-lieu-nguyen-xuan-tu-sua-gao-phuc-hoi-toc-180ml-112797.html,Dầu Xả Dược Liệu Nguyên Xuân Từ Sữa Gạo Phục Hồi Tóc 180ml,170.000 ₫,69.000 ₫,2,180ml,
+489,422215470,113057,https://hasaki.vn/san-pham/hsd-04-2024-dau-goi-drgroot-addict-huong-pear-freesia-385ml-113057.html,[HSD 04/2024] Dầu Gội Dr.Groot Addict Hương Pear & Freesia 385ml,169.000 ₫,72.000 ₫,2,385ml,
+490,422210405,105745,https://hasaki.vn/san-pham/dau-goi-jmella-huong-co-an-de-hit-va-vanilla-quyen-ru-500ml-105745.html,Dầu Gội Jmella Hương Cỏ An Đê Hít Và Vanilla Quyến Rũ 500ml,59.000 ₫,119.000 ₫,1,500ml,2
+491,422203937,95199,https://hasaki.vn/san-pham/kem-u-toc-organic-shop-chuyen-sau-tu-bo-va-o-liu-250ml-95199.html,Kem Ủ Tóc Organic Shop Chuyên Sâu Từ Bơ Và Ô Liu 250ml,169.000 ₫,114.000 ₫,1,250ml,13
+492,422202615,93091,https://hasaki.vn/san-pham/kem-u-toc-avander-thao-moc-cho-moi-loai-toc-125g-93091.html,Kem Ủ Tóc Avander Thảo Mộc Cho Mọi Loại Tóc 125g,169.000 ₫,55.000 ₫,2,125g,
+493,422210300,105471,https://hasaki.vn/san-pham/mini-tinh-chat-duong-toc-mise-en-scene-giup-toc-suon-muot-15ml-105471.html,[Mini] Tinh Chất Dưỡng Tóc Mise en scène Giúp Tóc Suôn Mượt 15ml,169.000 ₫,55.000 ₫,2,15ml,2
+494,422207910,101673,https://hasaki.vn/san-pham/kem-u-toc-organic-shop-chiet-xuat-hoa-nhai-jojoba-250ml-101673.html,Kem Ủ Tóc Organic Shop Chiết Xuất Hoa Nhài & Chuối 250ml,68.000 ₫,96.000 ₫,1,250ml,13
+495,422203936,95197,https://hasaki.vn/san-pham/kem-u-toc-organic-shop-chiet-xuat-mam-xoi-va-qua-acai-250ml-95197.html,Kem Ủ Tóc Organic Shop Chiết Xuất Mâm Xôi Và Quả Acai 250ml,40.000 ₫,109.000 ₫,1,250ml,13
+496,422203934,95217,https://hasaki.vn/san-pham/kem-u-toc-organic-shop-chiet-xuat-dau-argan-qua-amla-250ml-95217.html,Kem Ủ Tóc Organic Shop Chiết Xuất Dầu Argan & Quả Amla 250ml,459.000 ₫,114.000 ₫,1,250ml,13
+497,422207348,100785,https://hasaki.vn/san-pham/dau-goi-lab-nature-sach-gau-dandruff-relief-no-04-50ml-100785.html,[Mini] Dầu Gội Lab Nature Sạch Gàu Dandruff Relief No 04 50ml,263.000 ₫,29.000 ₫,1,50ml,3
+498,422200905,90991,https://hasaki.vn/san-pham/dau-goi-milaganics-tinh-dau-buoi-kich-thich-moc-toc-25ml-90991.html,[Mini] Dầu Gội Milaganics Tinh Dầu Bưởi Kích Thích Mọc Tóc 25ml,161.000 ₫,25.000 ₫,1,25ml,
+499,422204345,95805,https://hasaki.vn/san-pham/phan-che-khuyet-diem-toc-mamonde-03-reddish-brown-nau-do-3-5g-95805.html,Phấn Che Khuyết Điểm Tóc Mamonde 03 Reddish Brown 3.5g,196.000 ₫,330.000 ₫,5,03,1
+500,252300013,14499,https://hasaki.vn/san-pham/thuoc-nhuom-toc-phu-bac-bigen-mau-8n-vang-nhat-14499.html,Thuốc Nhuộm Tóc Bigen Phủ Bạc Dạng Kem 8N Vàng Nhạt 80ml,219.000 ₫,194.000 ₫,2,8N Vàng Nhạt,13
+501,422201889,92111,https://hasaki.vn/san-pham/luoc-wet-brush-go-roi-va-lam-bong-toc-mau-xanh-ngoc-92111.html,Lược Wet Brush Gỡ Rối Và Làm Bóng Tóc Màu Xanh Ngọc,326.000 ₫,390.000 ₫,8,1 cái,1
+502,422209328,103567,https://hasaki.vn/san-pham/goi-xa-2in1-head-shoulders-huong-oldspice-nam-tinh-930ml-103567.html,Dầu Gội Xả 2in1 Head & Shoulders Hương OldSpice Nam Tính 930ml,250.000 ₫,535.000 ₫,10,930ml,
+503,422202733,93125,https://hasaki.vn/san-pham/kem-nhuom-l-oreal-duong-toc-mau-4-25-nau-moka-93125.html,Màu Nhuộm L'Oreal Dưỡng Tóc Phủ Bạc 4.25 Nâu Moka 172ml,195.000 ₫,169.000 ₫,1,4.25 Aishwarya,11
+504,422218767,118915,https://hasaki.vn/san-pham/hsd-11-2024-dau-goi-l-oreal-professionnel-cap-am-cho-toc-kho-600ml-118915.html,[HSD 11/2024] Dầu Gội L’Oréal Professionnel Cấp Ẩm Cho Tóc Khô 600ml,220.000 ₫,255.000 ₫,12,600ml,
+505,422218538,118170,https://hasaki.vn/san-pham/hsd-12-2024-dau-xa-tresemme-detox-toc-chac-khoe-620g-118170.html,[HSD 12/2024] Dầu Xả TRESemmé Detox Tóc Chắc Khỏe 620g,259.000 ₫,171.000 ₫,1,620g,
+506,422218550,118206,https://hasaki.vn/san-pham/hsd-12-2024-dau-goi-kumano-salon-link-cho-toc-uon-toc-nhuom-1000ml-118206.html,"[HSD 12/2024] Dầu Gội Kumano Salon Link Cho Tóc Uốn, Tóc Nhuộm 1000ml",500.000 ₫,152.000 ₫,9,1000ml,
+507,422200647,90677,https://hasaki.vn/san-pham/bo-goi-xa-50-megumi-sach-thoang-tuoi-mat-cho-toc-dau-90677.html,Bộ Gội Xả 50 Megumi Sạch Sâu & Thanh Mát 400mlx2,75.000 ₫,488.000 ₫,1,2x400ml,
+508,422209592,103971,https://hasaki.vn/san-pham/dau-goi-kho-colab-original-huong-nguyen-ban-50ml-103971.html,Dầu Gội Khô Colab Original Hương Nguyên Bản 50ml,240.000 ₫,58.000 ₫,2,50ml,2
+509,422205034,96903,https://hasaki.vn/san-pham/thuoc-nhuom-toc-dang-bot-hello-bubble-10g-vang-tay-96903.html,Thuốc Nhuộm Tóc Dạng Bọt Hello Bubble 10G Vàng Tây,239.000 ₫,144.000 ₫,1,10G Vanilla Gold,2
+510,422208236,102301,https://hasaki.vn/san-pham/bot-kem-nhuom-toc-liese-nau-khoi-tro-smoky-ash-gray-108ml-102301.html,Bọt Kem Nhuộm Tóc Liese Màu Nâu Khói Tro 108ml,36.000 ₫,159.000 ₫,1,108ml,5
+511,422208961,102939,https://hasaki.vn/san-pham/minisize-dau-xa-milaganics-tinh-dau-buoi-25ml-102939.html,[Mini] Dầu Xả Milaganics Tinh Dầu Bưởi 25ml,153.000 ₫,25.000 ₫,5,25ml,
+512,252300030,14397,https://hasaki.vn/san-pham/thuoc-nhuom-phu-bac-bigen-nau-do-tham-855-burgundy-brown-14397.html,Thuốc Nhuộm Tóc Bigen Phủ Bạc Dạng Kem 855 Nâu Đỏ Thẫm 80ml,688.000 ₫,151.000 ₫,290,855 Burgundy Brown,14
+513,422212906,108716,https://hasaki.vn/san-pham/combo-l-oreal-professionnel-dau-goi-dau-hap-cap-am-cho-toc-kho-108716.html,Combo L’Oréal Professionnel Dầu Gội & Dầu Hấp Cấp Ẩm Cho Tóc Khô,95.000 ₫,687.000 ₫,6,2 món,5
+514,214600018,83573,https://hasaki.vn/san-pham/dau-xa-pantene-cham-soc-toc-hu-ton-300ml-83573.html,Dầu Xả Pantene Phục Hồi Hư Tổn 300ml,340.000 ₫,94.000 ₫,1,300ml,1
+515,422217221,115925,https://hasaki.vn/san-pham/bo-goi-xa-50-megumi-ngan-rung-toc-cho-toc-yeu-250ml-chai-115925.html,Bộ Gội Xả 50 Megumi Ngăn Rụng Tóc Cho Tóc Yếu 250ml/Chai,985.000 ₫,336.000 ₫,5,2x250ml,
+516,422218612,119296,https://hasaki.vn/san-pham/dau-duong-kho-nuxe-da-nang-co-nhu-100ml-119296.html,Dầu Dưỡng Khô Nuxe Đa Năng Có Nhũ 100ml,240.000 ₫,965.000 ₫,1,100ml,
+517,422205023,96881,https://hasaki.vn/san-pham/thuoc-nhuom-toc-dang-bot-hello-bubble-4gn-xanh-la-cay-dam-96881.html,Thuốc Nhuộm Tóc Dạng Bọt Hello Bubble 4GN Xanh Lá Cây Đậm,240.000 ₫,165.000 ₫,1,4GN Mermaid Green,2
+518,422205022,96879,https://hasaki.vn/san-pham/thuoc-nhuom-toc-dang-bot-hello-bubble-9b-tim-xanh-duong-96879.html,Thuốc Nhuộm Tóc Dạng Bọt Hello Bubble 9B Tím Xanh Dương,129.000 ₫,165.000 ₫,11,9B Twinkle Blue,2
+519,422204807,96715,https://hasaki.vn/san-pham/kem-xa-elastine-cham-soc-va-nuoi-duong-toc-550ml-96715.html,Kem Xả Elastine Chăm Sóc Và Nuôi Dưỡng Tóc 550ml,195.000 ₫,94.000 ₫,6,550ml,2
+520,422208120,102061,https://hasaki.vn/san-pham/dau-goi-kho-colab-fruity-huong-trai-cay-200ml-102061.html,Dầu Gội Khô Colab Fruity Hương Trái Cây 200ml,153.000 ₫,139.000 ₫,3,200ml,2
+521,422216709,115137,https://hasaki.vn/san-pham/hsd-09-2024-mau-nhuom-l-oreal-duong-toc-phu-bac-630-nau-anh-vang-172ml-115137.html,[HSD 09/2024] Màu Nhuộm L'Oreal Dưỡng Tóc Phủ Bạc 6.30 Nâu Ánh Vàng 172ml,215.000 ₫,107.000 ₫,1,172ml,
+522,422218410,117786,https://hasaki.vn/san-pham/hsd-08-2024-dau-duong-toc-milaganics-vitamin-e-sachi-phuc-hoi-toc-80ml-117786.html,"[HSD 08/2024] Dầu Dưỡng Tóc Milaganics Vitamin E, Sachi Phục Hồi Tóc 80ml",149.000 ₫,75.000 ₫,1,80ml,
+523,422218696,118674,https://hasaki.vn/san-pham/hsd-01-2025-dau-goi-kho-tsubaki-dang-gel-danh-cho-toc-dau-bet-180ml-118674.html,"[HSD 01/2025] Dầu Gội Khô Tsubaki Dạng Gel Dành Cho Tóc Dầu, Bết 180ml",199.000 ₫,124.000 ₫,9,180ml,
+524,422215945,113965,https://hasaki.vn/san-pham/hsd-05-2024-dau-xa-ogx-argan-oil-giup-phuc-hoi-toc-hu-ton-385ml-113965.html,[HSD 05/2024] Dầu Xả OGX Argan Oil Giúp Phục Hồi Tóc Hư Tổn 385ml,236.000 ₫,59.000 ₫,6,385ml,
+525,252300041,88159,https://hasaki.vn/san-pham/kem-nhuom-toc-bigen-5-mau-nau-sam-80g-88159.html,Kem Nhuộm Tóc Phủ Bạc Bigen #5 Màu Nâu Sẫm 80g,226.000 ₫,224.000 ₫,12,80g,13
+526,252300036,79072,https://hasaki.vn/san-pham/thuoc-nhuom-toc-phu-bac-bigen-mau-8c-vang-dong-79072.html,Thuốc Nhuộm Tóc Phủ Bạc Bigen Màu 8C Vàng Đồng,178.000 ₫,159.000 ₫,24,8C Vàng Đồng,13
