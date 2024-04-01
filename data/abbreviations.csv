@@ -1,57 +1,60 @@
 ﻿index,abbreviation,meaning
 1,+,và
-2,bb,bạn bè
-3,bn,bạn
-4,bông tt,bông tẩy trung
-5,bth,bình thường
-6,cg,cũng
-7,da hh,da hỗn hợp
-8,đc,được
-9,h,giờ
-10,hhtd,hỗn hợp thiên dầu
-11,hhtk ,hỗn hợp thiên khô
-12,hk,không
-13,hsd,hạn sử dụng
-14,j,gì
-15,k,không
-16,kcn,kem chống nắng
-17,ko,không
-18,lcl,lỗ chân lông
-19,m,mình
-20,mk,mình
-21,mn,mọi người
-22,mng,mọi người
-23,ms,mới
-24,ncl,nói chung là
-25,nhĩ,nhỉ
-26,như z,như vậy
-27,nma,nhưng
-28,ns,nói
-29,nv,nhân viên
-30,ô dề,hơi lố
-31,pb,cũ
-32,relax,thoải mái
-33,sd,sử dụng
-34,sp,sản phẩm
-35,srm,sữa rửa mặt
-36,sx,sản xuất
-37,thks,cảm ơn
-38,tips,mẹo
-39,tks,cảm ơn
-40,tks,cảm ơn
-41,tt,tẩy trang
-42,vs,với
-43,m.n,mọi người
-44,10đ,10 điểm
-45,10₫,10 điểm
-46,sài,xài
-47,rcm,recommend
-48,p/s,postscript
-49,é,á
-50,lh,liên hệ
-51,dth,dễ thương
-52,tbc,tế bào chết
-53,tb chết,tế bào chết
-54,ttbc,tẩy tế bào chết
-55,cx,cũng
-56,xog,xong
+2,10₫,10 điểm
+3,10đ,10 điểm
+4,bb,bạn bè
+5,bn,bạn
+6,bông tt,bông tẩy trung
+7,bth,bình thường
+8,cg,cũng
+9,cx,cũng
+10,da hh,da hỗn hợp
+11,đc,được
+12,dth,dễ thương
+13,é,á
+14,h,giờ
+15,hh,hỗn hợp
+16,hh thiên dầu,hỗn hợp thiên dầu
+17,hh thiên khô,hỗn hợp thiên khô
+18,hhtd,hỗn hợp thiên dầu
+19,hhtk,hỗn hợp thiên khô
+20,hk,không
+21,hsd,hạn sử dụng
+22,j,gì
+23,k,không
+24,kcn,kem chống nắng
+25,ko,không
+26,lcl,lỗ chân lông
+27,lh,liên hệ
+28,m,mình
+29,m.n,mọi người
+30,mk,mình
+31,mn,mọi người
+32,mng,mọi người
+33,ms,mới
+34,ncl,nói chung là
+35,nhĩ,nhỉ
+36,như z,như vậy
+37,nma,nhưng
+38,ns,nói
+39,nv,nhân viên
+40,ô dề,hơi lố
+41,p/s,postscript
+42,pb,cũ
+43,rcm,recommend
+44,relax,thoải mái
+45,sài,xài
+46,sd,sử dụng
+47,sp,sản phẩm
+48,srm,sữa rửa mặt
+49,sx,sản xuất
+50,tb chết,tế bào chết
+51,tbc,tế bào chết
+52,thks,cảm ơn
+53,tips,mẹo
+54,tks,cảm ơn
+55,tks,cảm ơn
+56,tt,tẩy trang
+57,ttbc,tẩy tế bào chết
+58,vs,với
+59,xog,xong
