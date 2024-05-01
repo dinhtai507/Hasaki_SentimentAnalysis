@@ -245,33 +245,21 @@ def predict_output(text):
 
     return predicted_sentiment, predicted_aspect
 
-# App title
-st.title('Phân tích cảm xúc từ đánh giá sản phẩm')
+# Crawl data and save into comment_data dataframe
+input_link_button = "https://hasaki.vn/san-pham/nuoc-hoa-hong-khong-mui-klairs-danh-cho-da-nhay-cam-180ml-65994.html"
+comment_data = crawl_comments_from_link(input_link_button)
 
-# Input link
-input_link_button = st.text_input("Input your product link: ")
-analyze_button = st.button('Analyze')
+# Create a list of comments from the selected range
+comment_list = comment_data['content_comment'].tolist()
 
-if analyze_button:
-    if input_link_button:
-        # Crawl data and save into comment_data dataframe
-        comment_data = crawl_comments_from_link(input_link_button)
+# Load trained model
+model_sentiment = joblib.load(os.path.join(os.getcwd(), "notebooks", "log_reg_model_sentiment.joblib"))
+model_aspect = joblib.load(os.path.join(os.getcwd(), "notebooks", "log_reg_model_aspect.joblib"))
 
-        # Create a list of comments from the selected range
-        comment_list = comment_data['content_comment'].tolist()
+# Predict label
+predicted_sentiment, predicted_aspect = predict_output(comment_list)
 
-        # Load trained model
-        model_sentiment = joblib.load(os.path.join(os.getcwd(), "notebooks", "log_reg_model_sentiment.joblib"))
-        model_aspect = joblib.load(os.path.join(os.getcwd(), "notebooks", "log_reg_model_aspect.joblib"))
-
-        # Predict label
-        predicted_sentiment, predicted_aspect = predict_output(comment_list)
-
-        # Add to dataframe
-        comment_data['predicted_sentiment'] = predicted_sentiment
-        comment_data['predicted_aspect'] = predicted_aspect
-
-        # Show dataframe for result
-        st.write(comment_data)
-    else:
-        st.error("Please input a product link again.")
+# Add to dataframe
+comment_data['predicted_sentiment'] = predicted_sentiment
+comment_data['predicted_aspect'] = predicted_aspect
+print(comment_data)
