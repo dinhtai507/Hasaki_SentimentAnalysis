@@ -29,6 +29,9 @@ import seaborn as sns
 from grouped_wordcloud import GroupedColorFunc
 from wordcloud import WordCloud
 
+# Page config
+st.set_page_config(page_title="Sentiment Dashboard", page_icon=":bar_chart:", layout="wide")
+
 # Get rating for comments:
 def get_star(string):
     start_index = string.find(':')
@@ -253,11 +256,34 @@ def predict_output(text):
     return predicted_sentiment, predicted_aspect
 
 # App title
-st.title('Phân tích cảm xúc từ đánh giá sản phẩm')
+st.title('Analyzing sentiment from product reviews')
 
 # Input link
 input_link_button = st.text_input("Input your product link: ")
 analyze_button = st.button('Analyze')
+st.write("""
+    <style>
+        .stApp { 
+            width: 100%;
+            margin: auto;
+            padding: 0 20px; /* Thêm padding để giữ cho nội dung không bị dính vào mép màn hình */
+        }
+        .stTitle {
+            font-size: 20px;
+            text-align: center;
+        }
+        .stTextInput, .stButton { 
+            width: 100%; 
+            max-width: 800px; /* Giảm kích thước tối đa của input và button để chúng không quá rộng trên màn hình lớn */
+            margin-bottom: 10px;
+        }
+        .stDataFrame {
+            width: 100%; 
+            max-width: 1600px; /* Tăng kích thước tối đa của dataframe để nó lấp đầy chiều rộng của màn hình */
+            margin-bottom: 20px;
+        }
+    </style>
+""", unsafe_allow_html=True)
 
 if analyze_button:
     if input_link_button:
@@ -280,47 +306,52 @@ if analyze_button:
 
         # Show dataframe for result
         st.subheader("Analysis Result")
-        st.write(comment_data)
+        st.write(comment_data[["name_comment", "content_comment", "predicted_sentiment", "predicted_aspect", "datetime_comment", "product_variant", "rating"]])
+
+        # Set up layout
+        col1, col2, col3 = st.columns(3)
 
         # Biểu đồ 1: Phân phối của nhãn cảm xúc
         sentiment_counts = comment_data['predicted_sentiment'].value_counts()
         colors = {'positive': 'green', 'negative': 'red', 'neutral': 'lightblue'}
         colors = [colors[sentiment] for sentiment in sentiment_counts.index] # Tạo mảng màu sắc tương ứng với từng nhãn cảm xúc
 
-        st.subheader("Sentiment Distribution")
-        sentiment_counts = comment_data['predicted_sentiment'].value_counts()
-        fig1, ax1 = plt.subplots(figsize=(6, 4))
-        ax1.pie(sentiment_counts, labels=sentiment_counts.index, autopct='%1.1f%%', colors=colors)
-        ax1.set_title('Distribution of Sentiment Labels')
-        ax1.axis('equal')  # Ensures that pie is drawn as a circle
-        st.pyplot(fig1)
+        with col1:
+            st.subheader("Sentiment Distribution")
+            fig1, ax1 = plt.subplots(figsize=(4, 4))
+            ax1.pie(sentiment_counts, labels=sentiment_counts.index, autopct='%1.1f%%', colors=colors)
+            # ax1.set_title('Distribution of Sentiment Labels')
+            ax1.axis('equal')  # Ensures that pie is drawn as a circle
+            st.pyplot(fig1)
 
         # Biểu đồ 2: Tần suất của các nhãn khía cạnh
-        st.subheader("Aspect Distribution")
         aspect_counts = comment_data['predicted_aspect'].value_counts()
-        fig2, ax2 = plt.subplots(figsize=(6, 4))
-        ax2.pie(aspect_counts, labels=aspect_counts.index, autopct='%1.1f%%')
-        ax2.set_title('Frequency of Aspect Labels')
-        ax2.axis('equal')  # Ensures that pie is drawn as a circle
-        st.pyplot(fig2)
+        with col2:
+            st.subheader("Aspect Distribution")
+            fig2, ax2 = plt.subplots(figsize=(4, 4))
+            ax2.pie(aspect_counts, labels=aspect_counts.index, autopct='%1.1f%%')
+            # ax2.set_title('Frequency of Aspect Labels')
+            ax2.axis('equal')  # Ensures that pie is drawn as a circle
+            st.pyplot(fig2)
         
         # Biểu đồ 3: phân phối các cảm xúc theo từng loại nhãn khía cạnh
-        st.subheader("Sentiment Distribution by Aspect ")
-        fig, ax = plt.subplots(figsize=(6,4))
-        sns.countplot(x='predicted_aspect', hue='predicted_sentiment', hue_order=['negative', 'neutral', 'positive'], data=comment_data, palette={"neutral": "lightblue", "negative": 'red', "positive": "green"})
-        plt.title('Sentiment Distribution by Aspect Label')
-        plt.xlabel('Aspect Label')
-        plt.ylabel('Count')
-        plt.legend(title='Sentiment Label')
-        plt.xticks(rotation=45)
-        st.pyplot(fig)
+        with col3:
+            st.subheader("Sentiment Distribution by Aspect")
+            fig3, ax3 = plt.subplots(figsize=(4,4))
+            sns.countplot(x='predicted_aspect', hue='predicted_sentiment', hue_order=['negative', 'neutral', 'positive'], data=comment_data, palette={"neutral": "lightblue", "negative": 'red', "positive": "green"})
+            # plt.title('Sentiment Distribution by Aspect Label')
+            plt.xlabel('Aspect Label')
+            plt.ylabel('Count')
+            plt.legend(title='Sentiment Label')
+            plt.xticks(rotation=20)
+            st.pyplot(fig3)
 
         # Biểu đồ 4: Word Cloud của các từ khóa trong bình luận
+        col4, col5= st.columns(2)
         comment_data['cleaned_Comment'] = preprocessing_text(comment_list)
         all_keywords = ' '.join(comment_data['cleaned_Comment']).split()
 
         # Tạo danh sách các nhãn cảm xúc cho từng từ
-        st.subheader("Word Cloud")
         keyword_sentiments = {}
         for index, row in comment_data.iterrows():
             tokens = row['cleaned_Comment'].split()
@@ -339,53 +370,57 @@ if analyze_button:
             elif max_sentiment == 'negative':
                 color_to_words.setdefault('#DA1212', []).append(keyword)
             else:
-                color_to_words.setdefault('#A3D8FF', []).append(keyword)
-        wc = WordCloud(width=1600, height=1200, background_color='white').generate(' '.join(all_keywords))
-        default_color = 'grey'
-        grouped_color_func = GroupedColorFunc(color_to_words, default_color)
-        wc.recolor(color_func=grouped_color_func)
-
-        # Convert Word Cloud to matplotlib figure
-        fig, ax = plt.subplots()
-        ax.imshow(wc, interpolation="bilinear")
-        ax.axis("off")
-        # Display matplotlib figure using st.pyplot()
-        st.pyplot(fig)
+                color_to_words.setdefault('#A3D8FF', []).append(keyword)        
+        # Plot Wordcloud
+        with col4:
+            # Convert Word Cloud to matplotlib figure
+            st.subheader("Word Cloud")
+            wc = WordCloud(width=1600, height=1200, background_color='white').generate(' '.join(all_keywords))
+            default_color = 'grey'
+            grouped_color_func = GroupedColorFunc(color_to_words, default_color)
+            wc.recolor(color_func=grouped_color_func)
+            fig4, ax4 = plt.subplots(figsize=(4,4))
+            ax4.imshow(wc, interpolation="bilinear")
+            ax4.axis("off")
+            # Display matplotlib figure using st.pyplot()
+            st.pyplot(fig4)
 
         # Biểu đồ 5: Radar chart
-        st.subheader("Radar Chart")
         sentiment_aspect_avg = comment_data.groupby('predicted_aspect')['predicted_sentiment'] \
                             .value_counts(normalize=True).unstack()
         sentiment_order = ['positive', 'neutral', 'negative']
         sentiment_aspect_avg = sentiment_aspect_avg.reindex(columns=sentiment_order)
 
-        fig, ax = plt.subplots(figsize=(5, 5), subplot_kw=dict(polar=True))
-        ax.set_theta_offset(np.pi/6)
-        ax.set_theta_direction(-1)
+        fig5, ax5 = plt.subplots(figsize=(4,4), subplot_kw=dict(polar=True))
+        ax5.set_theta_offset(np.pi/6)
+        ax5.set_theta_direction(-1)
 
         num_sentiments = len(sentiment_aspect_avg.columns)
         angles = np.linspace(0, 2 * np.pi, num_sentiments, endpoint=False).tolist()
         angles.append(angles[0])
 
         sentiment_names = sentiment_aspect_avg.columns.tolist()
+        
+        # Plot Radar Chart
+        with col5:
+            st.subheader("Radar Chart")
+            for aspect in sentiment_aspect_avg.index:
+                for i, (name, angle) in enumerate(zip(sentiment_names, angles)):
+                    ax5.plot([angle, angle], [0, 1], color='black', linewidth=0.25)
 
-        for aspect in sentiment_aspect_avg.index:
-            for i, (name, angle) in enumerate(zip(sentiment_names, angles)):
-                ax.plot([angle, angle], [0, 1], color='black', linewidth=0.25)
+                values = sentiment_aspect_avg.loc[aspect].values.tolist()
+                values.append(values[0])
 
-            values = sentiment_aspect_avg.loc[aspect].values.tolist()
-            values.append(values[0])
+                ax5.plot(angles, values, linewidth=1, linestyle='solid', label=aspect)
+                ax5.fill(angles, values, alpha=0.1)
 
-            ax.plot(angles, values, linewidth=1, linestyle='solid', label=aspect)
-            ax.fill(angles, values, alpha=0.1)
+            ax5.set_xticks(angles[:-1])
+            ax5.set_xticklabels(sentiment_names)
 
-        ax.set_xticks(angles[:-1])
-        ax.set_xticklabels(sentiment_names)
+            plt.legend(title='Aspect', loc='lower right')
+            # plt.title('Radar Chart of Sentiments for Different Aspects')
 
-        plt.legend(title='Aspect', loc='lower right')
-        plt.title('Radar Chart of Sentiments for Different Aspects')
-
-        st.pyplot(fig)
+            st.pyplot(fig5)
 
     else:
         st.error("Please input a product link again.")
