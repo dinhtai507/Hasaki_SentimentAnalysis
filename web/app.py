@@ -294,8 +294,8 @@ if analyze_button:
         comment_list = comment_data['content_comment'].tolist()
 
         # Load trained model
-        model_sentiment = joblib.load(os.path.join(os.getcwd(), "notebooks", "log_reg_model_sentiment.joblib"))
-        model_aspect = joblib.load(os.path.join(os.getcwd(), "notebooks", "log_reg_model_aspect.joblib"))
+        model_sentiment = joblib.load(os.path.join(os.getcwd(), "notebooks", "svm_model_sentiment.joblib"))
+        model_aspect = joblib.load(os.path.join(os.getcwd(), "notebooks", "svm_model_aspect.joblib"))
 
         # Predict label
         predicted_sentiment, predicted_aspect = predict_output(comment_list)
