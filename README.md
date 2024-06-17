@@ -80,5 +80,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contributing
 Contributions to improve the project are welcome. Fork the repository, make your changes, and submit a pull request. Please adhere to the project's coding standards and guidelines.
+
 ---
 Enjoy analyzing customer sentiments and improving product offerings!
