@@ -1,7 +1,74 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+## Project Title
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+Customer Sentiment Analysis Based on Product Reviews Using Machine Learning: The Case of Cosmetic and Beauty Care Product
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+## Introduction
+This project aims to analyze customer sentiments based on product reviews, focusing on cosmetic and beauty care products. The primary data source is Hasaki's e-commerce website, which sells various cosmetics online. The goal is to create a machine learning model to predict customer sentiments and the aspects they comment on.
+
+## Installation and Usage
+
+### Prerequisites
+- Python 3.11
+- Selenium
+- GitHub
+- Streamlit
+- Other necessary Python libraries (listed in requirements.txt)
+
+### Installation
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/dinhtai507/hasaki_crawling.git
+    cd your-repo-name
+    ```
+
+2. Install the required libraries:
+    ```sh
+    pip install -r requirements.txt
+    ```
+## Directory Structure
+hasaki-sentiment-analysis/
+├── .devcontainer               
+├── data
+├── notebooks/  
+│   ├── preprocesssing.ipynb
+│   └── model.py 
+├── web
+├── requirements.txt
+├── .gitignore
+├── LICENSE
+├── README.md      
+└── requirements.txt
+
+### Running the Web Application
+1. Run the web scraping script to collect data:
+    ```sh
+    python notebooks/crawl_comment.ipynb
+
+    ```
+
+2. Preprocess the collected data:
+    ```sh
+    python notebooks/preprocessing.ipynb
+    ```
+
+3. Train the models:
+    ```sh
+    python notebooks/model.ipynb
+    ```
+
+4. Launch the Streamlit web application:
+    ```sh
+    streamlit run web/app.py
+    ```
+
+### Usage
+- Access the web app through the provided local URL.
+- Use the dashboard to visualize customer sentiment and aspect analysis.
+
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+Enjoy analyzing customer sentiments and improving product offerings!
